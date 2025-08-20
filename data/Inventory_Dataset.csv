@@ -1,0 +1,4204 @@
+product_id,product,category,quantity,expiry_date,status
+PN001,Apples,Fruits,5,02-01-2024,unsold
+PN001,Apples,Fruits,2,11-01-2024,sold
+PN001,Apples,Fruits,15,12-01-2024,sold
+PN001,Apples,Fruits,6,24-01-2024,sold
+PN001,Apples,Fruits,20,25-01-2024,sold
+PN001,Apples,Fruits,16,26-01-2024,sold
+PN001,Apples,Fruits,5,27-01-2024,unsold
+PN001,Apples,Fruits,6,03-02-2024,sold
+PN001,Apples,Fruits,1,05-02-2024,unsold
+PN001,Apples,Fruits,4,05-02-2024,unsold
+PN001,Apples,Fruits,1,05-02-2024,unsold
+PN001,Apples,Fruits,6,07-02-2024,sold
+PN001,Apples,Fruits,5,19-02-2024,unsold
+PN001,Apples,Fruits,5,19-02-2024,unsold
+PN001,Apples,Fruits,4,20-02-2024,sold
+PN001,Apples,Fruits,1,20-02-2024,unsold
+PN001,Apples,Fruits,7,22-02-2024,sold
+PN001,Apples,Fruits,3,26-02-2024,unsold
+PN001,Apples,Fruits,4,27-02-2024,sold
+PN001,Apples,Fruits,4,28-02-2024,unsold
+PN001,Apples,Fruits,9,02-03-2024,sold
+PN001,Apples,Fruits,1,08-03-2024,sold
+PN001,Apples,Fruits,11,08-03-2024,sold
+PN001,Apples,Fruits,1,09-03-2024,unsold
+PN001,Apples,Fruits,4,09-03-2024,unsold
+PN001,Apples,Fruits,3,09-03-2024,unsold
+PN001,Apples,Fruits,6,10-03-2024,sold
+PN001,Apples,Fruits,16,15-03-2024,sold
+PN001,Apples,Fruits,5,16-03-2024,unsold
+PN001,Apples,Fruits,3,16-03-2024,unsold
+PN001,Apples,Fruits,2,16-03-2024,unsold
+PN001,Apples,Fruits,14,17-03-2024,sold
+PN001,Apples,Fruits,17,22-03-2024,sold
+PN001,Apples,Fruits,19,25-03-2024,sold
+PN001,Apples,Fruits,19,25-03-2024,sold
+PN001,Apples,Fruits,1,31-03-2024,unsold
+PN001,Apples,Fruits,8,01-04-2024,sold
+PN001,Apples,Fruits,5,04-04-2024,sold
+PN001,Apples,Fruits,1,04-04-2024,unsold
+PN001,Apples,Fruits,1,04-04-2024,unsold
+PN001,Apples,Fruits,20,05-04-2024,sold
+PN001,Apples,Fruits,5,16-04-2024,sold
+PN001,Apples,Fruits,20,17-04-2024,sold
+PN001,Apples,Fruits,8,27-04-2024,sold
+PN001,Apples,Fruits,15,28-04-2024,sold
+PN001,Apples,Fruits,3,28-04-2024,sold
+PN001,Apples,Fruits,9,29-04-2024,sold
+PN001,Apples,Fruits,5,29-04-2024,unsold
+PN001,Apples,Fruits,5,30-04-2024,unsold
+PN001,Apples,Fruits,1,01-05-2024,unsold
+PN001,Apples,Fruits,8,04-05-2024,sold
+PN001,Apples,Fruits,5,09-05-2024,unsold
+PN001,Apples,Fruits,20,12-05-2024,sold
+PN001,Apples,Fruits,4,13-05-2024,unsold
+PN001,Apples,Fruits,1,18-05-2024,unsold
+PN001,Apples,Fruits,18,02-06-2024,sold
+PN001,Apples,Fruits,11,06-06-2024,sold
+PN001,Apples,Fruits,6,09-06-2024,sold
+PN001,Apples,Fruits,6,09-06-2024,sold
+PN001,Apples,Fruits,6,12-06-2024,sold
+PN001,Apples,Fruits,5,12-06-2024,sold
+PN001,Apples,Fruits,11,14-06-2024,sold
+PN001,Apples,Fruits,3,14-06-2024,unsold
+PN001,Apples,Fruits,13,16-06-2024,sold
+PN001,Apples,Fruits,3,22-06-2024,unsold
+PN001,Apples,Fruits,5,22-06-2024,unsold
+PN001,Apples,Fruits,10,24-06-2024,sold
+PN001,Apples,Fruits,3,03-07-2024,sold
+PN001,Apples,Fruits,2,03-07-2024,unsold
+PN001,Apples,Fruits,4,03-07-2024,unsold
+PN001,Apples,Fruits,4,10-07-2024,unsold
+PN001,Apples,Fruits,4,11-07-2024,unsold
+PN001,Apples,Fruits,4,12-07-2024,sold
+PN001,Apples,Fruits,1,12-07-2024,unsold
+PN001,Apples,Fruits,4,12-07-2024,unsold
+PN001,Apples,Fruits,2,12-07-2024,unsold
+PN001,Apples,Fruits,5,13-07-2024,sold
+PN001,Apples,Fruits,1,14-07-2024,sold
+PN001,Apples,Fruits,5,16-07-2024,unsold
+PN001,Apples,Fruits,10,17-07-2024,sold
+PN001,Apples,Fruits,2,21-07-2024,sold
+PN001,Apples,Fruits,4,23-07-2024,unsold
+PN001,Apples,Fruits,10,24-07-2024,sold
+PN001,Apples,Fruits,7,25-07-2024,sold
+PN001,Apples,Fruits,3,28-07-2024,unsold
+PN001,Apples,Fruits,3,28-07-2024,unsold
+PN001,Apples,Fruits,6,30-07-2024,sold
+PN001,Apples,Fruits,4,31-07-2024,sold
+PN001,Apples,Fruits,13,03-08-2024,sold
+PN001,Apples,Fruits,8,05-08-2024,sold
+PN001,Apples,Fruits,8,07-08-2024,sold
+PN001,Apples,Fruits,15,10-08-2024,sold
+PN001,Apples,Fruits,5,12-08-2024,unsold
+PN001,Apples,Fruits,9,14-08-2024,sold
+PN001,Apples,Fruits,5,14-08-2024,unsold
+PN001,Apples,Fruits,1,14-08-2024,unsold
+PN001,Apples,Fruits,10,16-08-2024,sold
+PN001,Apples,Fruits,9,19-08-2024,sold
+PN001,Apples,Fruits,7,20-08-2024,sold
+PN001,Apples,Fruits,5,21-08-2024,unsold
+PN001,Apples,Fruits,6,22-08-2024,sold
+PN001,Apples,Fruits,1,22-08-2024,unsold
+PN001,Apples,Fruits,1,25-08-2024,sold
+PN001,Apples,Fruits,10,27-08-2024,sold
+PN001,Apples,Fruits,3,27-08-2024,unsold
+PN001,Apples,Fruits,4,28-08-2024,sold
+PN001,Apples,Fruits,4,29-08-2024,sold
+PN001,Apples,Fruits,1,29-08-2024,unsold
+PN001,Apples,Fruits,9,30-08-2024,sold
+PN001,Apples,Fruits,2,06-09-2024,sold
+PN001,Apples,Fruits,3,12-09-2024,unsold
+PN001,Apples,Fruits,10,14-09-2024,sold
+PN001,Apples,Fruits,12,17-09-2024,sold
+PN001,Apples,Fruits,2,24-09-2024,sold
+PN001,Apples,Fruits,3,27-09-2024,sold
+PN001,Apples,Fruits,3,29-09-2024,unsold
+PN001,Apples,Fruits,7,30-09-2024,sold
+PN001,Apples,Fruits,4,07-10-2024,sold
+PN001,Apples,Fruits,5,07-10-2024,sold
+PN001,Apples,Fruits,5,07-10-2024,sold
+PN001,Apples,Fruits,8,07-10-2024,sold
+PN001,Apples,Fruits,10,07-10-2024,sold
+PN001,Apples,Fruits,6,07-10-2024,sold
+PN001,Apples,Fruits,5,07-10-2024,sold
+PN001,Apples,Fruits,13,07-10-2024,sold
+PN001,Apples,Fruits,5,07-10-2024,unsold
+PN001,Apples,Fruits,6,10-10-2024,sold
+PN001,Apples,Fruits,4,11-10-2024,sold
+PN001,Apples,Fruits,9,11-10-2024,sold
+PN001,Apples,Fruits,5,11-10-2024,unsold
+PN001,Apples,Fruits,3,12-10-2024,sold
+PN001,Apples,Fruits,12,15-10-2024,sold
+PN001,Apples,Fruits,1,16-10-2024,unsold
+PN001,Apples,Fruits,9,18-10-2024,sold
+PN001,Apples,Fruits,5,19-10-2024,unsold
+PN001,Apples,Fruits,9,20-10-2024,sold
+PN001,Apples,Fruits,7,24-10-2024,sold
+PN001,Apples,Fruits,3,25-10-2024,unsold
+PN001,Apples,Fruits,4,28-10-2024,sold
+PN001,Apples,Fruits,11,31-10-2024,sold
+PN001,Apples,Fruits,15,04-11-2024,sold
+PN001,Apples,Fruits,11,10-11-2024,sold
+PN001,Apples,Fruits,7,10-11-2024,sold
+PN001,Apples,Fruits,10,10-11-2024,sold
+PN001,Apples,Fruits,8,10-11-2024,sold
+PN001,Apples,Fruits,4,10-11-2024,sold
+PN001,Apples,Fruits,8,10-11-2024,sold
+PN001,Apples,Fruits,14,10-11-2024,sold
+PN001,Apples,Fruits,4,12-11-2024,sold
+PN001,Apples,Fruits,1,13-11-2024,sold
+PN001,Apples,Fruits,7,16-11-2024,sold
+PN001,Apples,Fruits,1,19-11-2024,unsold
+PN001,Apples,Fruits,4,21-11-2024,unsold
+PN001,Apples,Fruits,8,29-11-2024,sold
+PN001,Apples,Fruits,10,01-12-2024,sold
+PN001,Apples,Fruits,3,01-12-2024,sold
+PN001,Apples,Fruits,1,06-12-2024,unsold
+PN001,Apples,Fruits,1,06-12-2024,unsold
+PN001,Apples,Fruits,3,06-12-2024,unsold
+PN001,Apples,Fruits,5,09-12-2024,sold
+PN001,Apples,Fruits,1,10-12-2024,sold
+PN001,Apples,Fruits,1,10-12-2024,sold
+PN001,Apples,Fruits,10,12-12-2024,sold
+PN001,Apples,Fruits,10,15-12-2024,sold
+PN001,Apples,Fruits,6,17-12-2024,sold
+PN001,Apples,Fruits,1,19-12-2024,unsold
+PN001,Apples,Fruits,11,21-12-2024,sold
+PN001,Apples,Fruits,5,21-12-2024,unsold
+PN001,Apples,Fruits,8,24-12-2024,sold
+PN001,Apples,Fruits,1,24-12-2024,unsold
+PN001,Apples,Fruits,1,24-12-2024,unsold
+PN001,Apples,Fruits,10,25-12-2024,sold
+PN001,Apples,Fruits,14,29-12-2024,sold
+PN001,Apples,Fruits,7,01-01-2025,sold
+PN001,Apples,Fruits,17,03-01-2025,sold
+PN001,Apples,Fruits,3,09-01-2025,sold
+PN002,Bananas,Fruits,11,05-01-2025,sold
+PN002,Bananas,Fruits,4,24-12-2024,unsold
+PN002,Bananas,Fruits,1,21-12-2024,unsold
+PN002,Bananas,Fruits,5,19-12-2024,unsold
+PN002,Bananas,Fruits,6,16-12-2024,sold
+PN002,Bananas,Fruits,3,15-12-2024,sold
+PN002,Bananas,Fruits,19,12-12-2024,sold
+PN002,Bananas,Fruits,2,03-12-2024,unsold
+PN002,Bananas,Fruits,3,02-12-2024,unsold
+PN002,Bananas,Fruits,9,30-11-2024,sold
+PN002,Bananas,Fruits,8,15-11-2024,sold
+PN002,Bananas,Fruits,5,15-11-2024,unsold
+PN002,Bananas,Fruits,5,10-11-2024,unsold
+PN002,Bananas,Fruits,1,09-11-2024,unsold
+PN002,Bananas,Fruits,13,04-11-2024,sold
+PN002,Bananas,Fruits,5,02-11-2024,sold
+PN002,Bananas,Fruits,8,31-10-2024,sold
+PN002,Bananas,Fruits,5,30-10-2024,unsold
+PN002,Bananas,Fruits,5,30-10-2024,unsold
+PN002,Bananas,Fruits,2,24-10-2024,unsold
+PN002,Bananas,Fruits,1,19-10-2024,unsold
+PN002,Bananas,Fruits,13,16-10-2024,sold
+PN002,Bananas,Fruits,1,11-10-2024,unsold
+PN002,Bananas,Fruits,19,10-10-2024,sold
+PN002,Bananas,Fruits,20,09-10-2024,sold
+PN002,Bananas,Fruits,18,07-10-2024,sold
+PN002,Bananas,Fruits,2,24-09-2024,unsold
+PN002,Bananas,Fruits,12,11-09-2024,sold
+PN002,Bananas,Fruits,5,10-09-2024,unsold
+PN002,Bananas,Fruits,16,08-09-2024,sold
+PN002,Bananas,Fruits,9,01-09-2024,sold
+PN002,Bananas,Fruits,2,01-09-2024,unsold
+PN002,Bananas,Fruits,3,13-08-2024,sold
+PN002,Bananas,Fruits,6,11-08-2024,sold
+PN002,Bananas,Fruits,15,08-08-2024,sold
+PN002,Bananas,Fruits,20,07-08-2024,sold
+PN002,Bananas,Fruits,17,04-08-2024,sold
+PN002,Bananas,Fruits,5,22-07-2024,unsold
+PN002,Bananas,Fruits,10,20-07-2024,sold
+PN002,Bananas,Fruits,15,18-07-2024,sold
+PN002,Bananas,Fruits,14,12-07-2024,sold
+PN002,Bananas,Fruits,7,12-07-2024,sold
+PN002,Bananas,Fruits,2,11-07-2024,unsold
+PN002,Bananas,Fruits,2,30-06-2024,sold
+PN002,Bananas,Fruits,15,27-06-2024,sold
+PN002,Bananas,Fruits,3,22-06-2024,unsold
+PN002,Bananas,Fruits,4,16-06-2024,sold
+PN002,Bananas,Fruits,1,14-06-2024,unsold
+PN002,Bananas,Fruits,3,07-06-2024,sold
+PN002,Bananas,Fruits,3,07-06-2024,unsold
+PN002,Bananas,Fruits,7,30-05-2024,sold
+PN002,Bananas,Fruits,3,18-05-2024,unsold
+PN002,Bananas,Fruits,5,15-05-2024,sold
+PN002,Bananas,Fruits,4,14-05-2024,unsold
+PN002,Bananas,Fruits,4,09-05-2024,unsold
+PN002,Bananas,Fruits,5,09-05-2024,unsold
+PN002,Bananas,Fruits,11,08-05-2024,sold
+PN002,Bananas,Fruits,18,03-05-2024,sold
+PN002,Bananas,Fruits,5,02-05-2024,unsold
+PN002,Bananas,Fruits,5,01-05-2024,unsold
+PN002,Bananas,Fruits,1,29-04-2024,unsold
+PN002,Bananas,Fruits,6,25-04-2024,sold
+PN002,Bananas,Fruits,4,23-04-2024,sold
+PN002,Bananas,Fruits,2,23-04-2024,unsold
+PN002,Bananas,Fruits,1,22-04-2024,unsold
+PN002,Bananas,Fruits,1,21-04-2024,sold
+PN002,Bananas,Fruits,5,19-04-2024,sold
+PN002,Bananas,Fruits,19,16-04-2024,sold
+PN002,Bananas,Fruits,4,15-04-2024,unsold
+PN002,Bananas,Fruits,10,09-04-2024,sold
+PN002,Bananas,Fruits,2,08-04-2024,unsold
+PN002,Bananas,Fruits,10,05-04-2024,sold
+PN002,Bananas,Fruits,18,02-04-2024,sold
+PN002,Bananas,Fruits,16,01-04-2024,sold
+PN002,Bananas,Fruits,2,01-04-2024,unsold
+PN002,Bananas,Fruits,4,25-03-2024,sold
+PN002,Bananas,Fruits,7,23-03-2024,sold
+PN002,Bananas,Fruits,3,22-03-2024,sold
+PN002,Bananas,Fruits,3,18-03-2024,sold
+PN002,Bananas,Fruits,15,18-03-2024,sold
+PN002,Bananas,Fruits,12,12-03-2024,sold
+PN002,Bananas,Fruits,13,09-03-2024,sold
+PN002,Bananas,Fruits,2,09-03-2024,unsold
+PN002,Bananas,Fruits,4,03-03-2024,unsold
+PN002,Bananas,Fruits,12,28-02-2024,sold
+PN002,Bananas,Fruits,18,23-02-2024,sold
+PN002,Bananas,Fruits,5,20-02-2024,sold
+PN002,Bananas,Fruits,9,15-02-2024,sold
+PN002,Bananas,Fruits,2,05-02-2024,unsold
+PN002,Bananas,Fruits,1,01-02-2024,sold
+PN002,Bananas,Fruits,15,28-01-2024,sold
+PN002,Bananas,Fruits,9,22-01-2024,sold
+PN002,Bananas,Fruits,8,14-01-2024,sold
+PN002,Bananas,Fruits,4,13-01-2024,sold
+PN002,Bananas,Fruits,20,13-01-2024,sold
+PN002,Bananas,Fruits,1,12-01-2024,unsold
+PN002,Bananas,Fruits,1,12-01-2024,unsold
+PN002,Bananas,Fruits,1,02-01-2024,unsold
+PN003,Basmati Rice,Staples,13,30-12-2025,sold
+PN003,Basmati Rice,Staples,7,26-12-2025,sold
+PN003,Basmati Rice,Staples,19,25-12-2025,sold
+PN003,Basmati Rice,Staples,17,24-12-2025,sold
+PN003,Basmati Rice,Staples,9,30-11-2025,sold
+PN003,Basmati Rice,Staples,17,28-11-2025,sold
+PN003,Basmati Rice,Staples,3,09-11-2025,sold
+PN003,Basmati Rice,Staples,17,27-10-2025,sold
+PN003,Basmati Rice,Staples,19,26-10-2025,sold
+PN003,Basmati Rice,Staples,16,25-10-2025,sold
+PN003,Basmati Rice,Staples,18,08-09-2025,sold
+PN003,Basmati Rice,Staples,1,11-08-2025,sold
+PN003,Basmati Rice,Staples,8,25-07-2025,sold
+PN003,Basmati Rice,Staples,18,21-07-2025,sold
+PN003,Basmati Rice,Staples,8,08-07-2025,sold
+PN003,Basmati Rice,Staples,16,04-07-2025,sold
+PN003,Basmati Rice,Staples,20,17-06-2025,sold
+PN003,Basmati Rice,Staples,9,13-06-2025,sold
+PN003,Basmati Rice,Staples,9,12-06-2025,sold
+PN003,Basmati Rice,Staples,14,09-06-2025,sold
+PN003,Basmati Rice,Staples,10,07-06-2025,sold
+PN003,Basmati Rice,Staples,5,04-06-2025,sold
+PN003,Basmati Rice,Staples,11,02-06-2025,sold
+PN003,Basmati Rice,Staples,14,28-05-2025,sold
+PN003,Basmati Rice,Staples,5,22-05-2025,sold
+PN003,Basmati Rice,Staples,13,19-05-2025,sold
+PN003,Basmati Rice,Staples,7,22-04-2025,sold
+PN003,Basmati Rice,Staples,6,15-04-2025,sold
+PN003,Basmati Rice,Staples,3,11-04-2025,sold
+PN003,Basmati Rice,Staples,4,05-04-2025,sold
+PN003,Basmati Rice,Staples,2,26-03-2025,sold
+PN003,Basmati Rice,Staples,11,08-03-2025,sold
+PN003,Basmati Rice,Staples,12,01-03-2025,sold
+PN003,Basmati Rice,Staples,20,12-02-2025,sold
+PN003,Basmati Rice,Staples,5,27-01-2025,sold
+PN003,Basmati Rice,Staples,9,20-01-2025,sold
+PN003,Basmati Rice,Staples,18,20-01-2025,sold
+PN003,Basmati Rice,Staples,14,06-01-2025,sold
+PN003,Basmati Rice,Staples,4,27-12-2024,sold
+PN003,Basmati Rice,Staples,2,02-12-2024,sold
+PN003,Basmati Rice,Staples,3,08-10-2024,sold
+PN003,Basmati Rice,Staples,12,17-06-2024,sold
+PN003,Basmati Rice,Staples,8,07-06-2024,sold
+PN003,Basmati Rice,Staples,12,18-04-2024,sold
+PN003,Basmati Rice,Staples,9,12-04-2024,sold
+PN003,Basmati Rice,Staples,1,29-03-2024,unsold
+PN003,Basmati Rice,Staples,9,03-03-2024,sold
+PN003,Basmati Rice,Staples,15,25-02-2024,sold
+PN004,Beef,Meat,19,20-01-2025,sold
+PN004,Beef,Meat,7,17-01-2025,sold
+PN004,Beef,Meat,2,08-01-2025,sold
+PN004,Beef,Meat,8,05-01-2025,sold
+PN004,Beef,Meat,19,02-01-2025,sold
+PN004,Beef,Meat,3,31-12-2024,sold
+PN004,Beef,Meat,4,29-12-2024,unsold
+PN004,Beef,Meat,15,18-12-2024,sold
+PN004,Beef,Meat,18,16-12-2024,sold
+PN004,Beef,Meat,15,15-12-2024,sold
+PN004,Beef,Meat,2,14-12-2024,sold
+PN004,Beef,Meat,14,05-12-2024,sold
+PN004,Beef,Meat,3,03-12-2024,sold
+PN004,Beef,Meat,6,01-12-2024,sold
+PN004,Beef,Meat,11,12-11-2024,sold
+PN004,Beef,Meat,12,12-11-2024,sold
+PN004,Beef,Meat,1,12-11-2024,sold
+PN004,Beef,Meat,2,09-11-2024,sold
+PN004,Beef,Meat,14,19-10-2024,sold
+PN004,Beef,Meat,1,15-10-2024,sold
+PN004,Beef,Meat,13,13-10-2024,sold
+PN004,Beef,Meat,5,11-10-2024,unsold
+PN004,Beef,Meat,19,10-10-2024,sold
+PN004,Beef,Meat,12,07-10-2024,sold
+PN004,Beef,Meat,3,22-09-2024,unsold
+PN004,Beef,Meat,8,15-09-2024,sold
+PN004,Beef,Meat,15,11-09-2024,sold
+PN004,Beef,Meat,19,06-09-2024,sold
+PN004,Beef,Meat,10,06-09-2024,sold
+PN004,Beef,Meat,18,29-08-2024,sold
+PN004,Beef,Meat,13,25-08-2024,sold
+PN004,Beef,Meat,18,24-08-2024,sold
+PN004,Beef,Meat,20,22-08-2024,sold
+PN004,Beef,Meat,7,22-08-2024,sold
+PN004,Beef,Meat,5,10-08-2024,sold
+PN004,Beef,Meat,16,09-08-2024,sold
+PN004,Beef,Meat,8,06-08-2024,sold
+PN004,Beef,Meat,16,31-07-2024,sold
+PN004,Beef,Meat,1,31-07-2024,sold
+PN004,Beef,Meat,13,31-07-2024,sold
+PN004,Beef,Meat,8,11-07-2024,sold
+PN004,Beef,Meat,19,01-07-2024,sold
+PN004,Beef,Meat,16,26-06-2024,sold
+PN004,Beef,Meat,20,21-06-2024,sold
+PN004,Beef,Meat,11,17-06-2024,sold
+PN004,Beef,Meat,2,13-06-2024,sold
+PN004,Beef,Meat,13,09-06-2024,sold
+PN004,Beef,Meat,4,16-05-2024,sold
+PN004,Beef,Meat,4,13-05-2024,unsold
+PN004,Beef,Meat,5,12-05-2024,sold
+PN004,Beef,Meat,1,03-05-2024,sold
+PN004,Beef,Meat,9,02-05-2024,sold
+PN004,Beef,Meat,10,26-04-2024,sold
+PN004,Beef,Meat,4,25-04-2024,sold
+PN004,Beef,Meat,13,18-04-2024,sold
+PN004,Beef,Meat,4,16-04-2024,sold
+PN004,Beef,Meat,5,16-04-2024,sold
+PN004,Beef,Meat,13,12-04-2024,sold
+PN004,Beef,Meat,7,11-04-2024,sold
+PN004,Beef,Meat,11,07-04-2024,sold
+PN004,Beef,Meat,15,07-04-2024,sold
+PN004,Beef,Meat,17,07-04-2024,sold
+PN004,Beef,Meat,11,03-04-2024,sold
+PN004,Beef,Meat,6,02-04-2024,sold
+PN004,Beef,Meat,14,20-03-2024,sold
+PN004,Beef,Meat,3,20-03-2024,sold
+PN004,Beef,Meat,19,19-03-2024,sold
+PN004,Beef,Meat,4,11-03-2024,sold
+PN004,Beef,Meat,8,25-02-2024,sold
+PN004,Beef,Meat,19,19-02-2024,sold
+PN004,Beef,Meat,14,13-02-2024,sold
+PN004,Beef,Meat,18,05-02-2024,sold
+PN004,Beef,Meat,1,23-01-2024,sold
+PN005,Bread,Bakery,4,30-12-2024,sold
+PN005,Bread,Bakery,15,24-12-2024,sold
+PN005,Bread,Bakery,5,21-12-2024,unsold
+PN005,Bread,Bakery,3,19-12-2024,unsold
+PN005,Bread,Bakery,8,15-12-2024,sold
+PN005,Bread,Bakery,1,13-12-2024,unsold
+PN005,Bread,Bakery,3,11-12-2024,sold
+PN005,Bread,Bakery,1,11-12-2024,unsold
+PN005,Bread,Bakery,13,08-12-2024,sold
+PN005,Bread,Bakery,13,07-12-2024,sold
+PN005,Bread,Bakery,5,06-12-2024,unsold
+PN005,Bread,Bakery,4,06-12-2024,unsold
+PN005,Bread,Bakery,15,02-12-2024,sold
+PN005,Bread,Bakery,1,02-12-2024,unsold
+PN005,Bread,Bakery,7,30-11-2024,sold
+PN005,Bread,Bakery,7,29-11-2024,sold
+PN005,Bread,Bakery,19,23-11-2024,sold
+PN005,Bread,Bakery,11,23-11-2024,sold
+PN005,Bread,Bakery,15,23-11-2024,sold
+PN005,Bread,Bakery,6,21-11-2024,sold
+PN005,Bread,Bakery,7,17-11-2024,sold
+PN005,Bread,Bakery,4,15-11-2024,sold
+PN005,Bread,Bakery,10,12-11-2024,sold
+PN005,Bread,Bakery,19,10-11-2024,sold
+PN005,Bread,Bakery,4,09-11-2024,sold
+PN005,Bread,Bakery,9,03-11-2024,sold
+PN005,Bread,Bakery,15,01-11-2024,sold
+PN005,Bread,Bakery,14,01-11-2024,sold
+PN005,Bread,Bakery,1,30-10-2024,unsold
+PN005,Bread,Bakery,3,24-10-2024,sold
+PN005,Bread,Bakery,5,24-10-2024,unsold
+PN005,Bread,Bakery,10,22-10-2024,sold
+PN005,Bread,Bakery,1,22-10-2024,unsold
+PN005,Bread,Bakery,4,22-10-2024,unsold
+PN005,Bread,Bakery,2,17-10-2024,unsold
+PN005,Bread,Bakery,4,16-10-2024,unsold
+PN005,Bread,Bakery,1,11-10-2024,unsold
+PN005,Bread,Bakery,4,08-10-2024,sold
+PN005,Bread,Bakery,3,05-10-2024,sold
+PN005,Bread,Bakery,4,04-10-2024,unsold
+PN005,Bread,Bakery,8,02-10-2024,sold
+PN005,Bread,Bakery,11,01-10-2024,sold
+PN005,Bread,Bakery,18,01-10-2024,sold
+PN005,Bread,Bakery,1,29-09-2024,unsold
+PN005,Bread,Bakery,12,25-09-2024,sold
+PN005,Bread,Bakery,5,13-09-2024,unsold
+PN005,Bread,Bakery,11,11-09-2024,sold
+PN005,Bread,Bakery,18,11-09-2024,sold
+PN005,Bread,Bakery,6,09-09-2024,sold
+PN005,Bread,Bakery,5,06-09-2024,unsold
+PN005,Bread,Bakery,19,04-09-2024,sold
+PN005,Bread,Bakery,8,04-09-2024,sold
+PN005,Bread,Bakery,5,04-09-2024,unsold
+PN005,Bread,Bakery,5,01-09-2024,unsold
+PN005,Bread,Bakery,20,31-08-2024,sold
+PN005,Bread,Bakery,1,30-08-2024,unsold
+PN005,Bread,Bakery,3,29-08-2024,unsold
+PN005,Bread,Bakery,17,22-08-2024,sold
+PN005,Bread,Bakery,16,20-08-2024,sold
+PN005,Bread,Bakery,2,19-08-2024,unsold
+PN005,Bread,Bakery,4,16-08-2024,unsold
+PN005,Bread,Bakery,2,14-08-2024,unsold
+PN005,Bread,Bakery,1,14-08-2024,unsold
+PN005,Bread,Bakery,4,14-08-2024,unsold
+PN005,Bread,Bakery,3,08-08-2024,unsold
+PN005,Bread,Bakery,3,08-08-2024,unsold
+PN005,Bread,Bakery,4,03-08-2024,unsold
+PN005,Bread,Bakery,4,02-08-2024,unsold
+PN005,Bread,Bakery,5,31-07-2024,sold
+PN005,Bread,Bakery,9,29-07-2024,sold
+PN005,Bread,Bakery,7,28-07-2024,sold
+PN005,Bread,Bakery,1,28-07-2024,unsold
+PN005,Bread,Bakery,3,23-07-2024,unsold
+PN005,Bread,Bakery,14,22-07-2024,sold
+PN005,Bread,Bakery,5,22-07-2024,unsold
+PN005,Bread,Bakery,13,20-07-2024,sold
+PN005,Bread,Bakery,10,20-07-2024,sold
+PN005,Bread,Bakery,9,20-07-2024,sold
+PN005,Bread,Bakery,7,20-07-2024,sold
+PN005,Bread,Bakery,15,20-07-2024,sold
+PN005,Bread,Bakery,4,15-07-2024,sold
+PN005,Bread,Bakery,16,15-07-2024,sold
+PN005,Bread,Bakery,5,14-07-2024,unsold
+PN005,Bread,Bakery,4,14-07-2024,unsold
+PN005,Bread,Bakery,18,13-07-2024,sold
+PN005,Bread,Bakery,2,13-07-2024,unsold
+PN005,Bread,Bakery,2,12-07-2024,unsold
+PN005,Bread,Bakery,4,10-07-2024,unsold
+PN005,Bread,Bakery,5,05-07-2024,sold
+PN005,Bread,Bakery,4,02-07-2024,unsold
+PN005,Bread,Bakery,4,02-07-2024,unsold
+PN005,Bread,Bakery,14,26-06-2024,sold
+PN005,Bread,Bakery,9,25-06-2024,sold
+PN005,Bread,Bakery,2,22-06-2024,sold
+PN005,Bread,Bakery,12,21-06-2024,sold
+PN005,Bread,Bakery,5,19-06-2024,unsold
+PN005,Bread,Bakery,16,17-06-2024,sold
+PN005,Bread,Bakery,5,14-06-2024,unsold
+PN005,Bread,Bakery,13,11-06-2024,sold
+PN005,Bread,Bakery,4,07-06-2024,sold
+PN005,Bread,Bakery,17,02-06-2024,sold
+PN005,Bread,Bakery,20,02-06-2024,sold
+PN005,Bread,Bakery,4,29-05-2024,unsold
+PN005,Bread,Bakery,11,28-05-2024,sold
+PN005,Bread,Bakery,1,25-05-2024,unsold
+PN005,Bread,Bakery,3,21-05-2024,sold
+PN005,Bread,Bakery,6,20-05-2024,sold
+PN005,Bread,Bakery,2,18-05-2024,unsold
+PN005,Bread,Bakery,20,17-05-2024,sold
+PN005,Bread,Bakery,2,16-05-2024,unsold
+PN005,Bread,Bakery,5,15-05-2024,unsold
+PN005,Bread,Bakery,5,13-05-2024,unsold
+PN005,Bread,Bakery,19,09-05-2024,sold
+PN005,Bread,Bakery,2,09-05-2024,unsold
+PN005,Bread,Bakery,2,09-05-2024,unsold
+PN005,Bread,Bakery,9,08-05-2024,sold
+PN005,Bread,Bakery,3,04-05-2024,unsold
+PN005,Bread,Bakery,1,02-05-2024,unsold
+PN005,Bread,Bakery,14,30-04-2024,sold
+PN005,Bread,Bakery,3,27-04-2024,sold
+PN005,Bread,Bakery,3,26-04-2024,sold
+PN005,Bread,Bakery,3,26-04-2024,unsold
+PN005,Bread,Bakery,5,23-04-2024,unsold
+PN005,Bread,Bakery,3,23-04-2024,unsold
+PN005,Bread,Bakery,14,20-04-2024,sold
+PN005,Bread,Bakery,18,18-04-2024,sold
+PN005,Bread,Bakery,12,17-04-2024,sold
+PN005,Bread,Bakery,5,17-04-2024,sold
+PN005,Bread,Bakery,10,14-04-2024,sold
+PN005,Bread,Bakery,4,12-04-2024,sold
+PN005,Bread,Bakery,1,10-04-2024,unsold
+PN005,Bread,Bakery,2,08-04-2024,unsold
+PN005,Bread,Bakery,13,05-04-2024,sold
+PN005,Bread,Bakery,3,04-04-2024,unsold
+PN005,Bread,Bakery,1,04-04-2024,unsold
+PN005,Bread,Bakery,5,04-04-2024,unsold
+PN005,Bread,Bakery,4,02-04-2024,unsold
+PN005,Bread,Bakery,5,02-04-2024,unsold
+PN005,Bread,Bakery,2,28-03-2024,sold
+PN005,Bread,Bakery,18,28-03-2024,sold
+PN005,Bread,Bakery,19,25-03-2024,sold
+PN005,Bread,Bakery,14,23-03-2024,sold
+PN005,Bread,Bakery,1,21-03-2024,unsold
+PN005,Bread,Bakery,2,12-03-2024,unsold
+PN005,Bread,Bakery,4,12-03-2024,unsold
+PN005,Bread,Bakery,9,11-03-2024,sold
+PN005,Bread,Bakery,16,11-03-2024,sold
+PN005,Bread,Bakery,4,09-03-2024,unsold
+PN005,Bread,Bakery,20,06-03-2024,sold
+PN005,Bread,Bakery,3,28-02-2024,unsold
+PN005,Bread,Bakery,1,26-02-2024,unsold
+PN005,Bread,Bakery,13,25-02-2024,sold
+PN005,Bread,Bakery,3,21-02-2024,sold
+PN005,Bread,Bakery,17,19-02-2024,sold
+PN005,Bread,Bakery,8,16-02-2024,sold
+PN005,Bread,Bakery,10,10-02-2024,sold
+PN005,Bread,Bakery,7,10-02-2024,sold
+PN005,Bread,Bakery,6,10-02-2024,sold
+PN005,Bread,Bakery,13,10-02-2024,sold
+PN005,Bread,Bakery,12,10-02-2024,sold
+PN005,Bread,Bakery,19,10-02-2024,sold
+PN005,Bread,Bakery,7,10-02-2024,sold
+PN005,Bread,Bakery,7,10-02-2024,sold
+PN005,Bread,Bakery,5,10-02-2024,sold
+PN005,Bread,Bakery,19,08-02-2024,sold
+PN005,Bread,Bakery,2,02-02-2024,unsold
+PN005,Bread,Bakery,3,02-02-2024,unsold
+PN005,Bread,Bakery,9,31-01-2024,sold
+PN005,Bread,Bakery,2,29-01-2024,unsold
+PN005,Bread,Bakery,12,22-01-2024,sold
+PN005,Bread,Bakery,5,22-01-2024,sold
+PN005,Bread,Bakery,17,16-01-2024,sold
+PN005,Bread,Bakery,14,13-01-2024,sold
+PN005,Bread,Bakery,4,09-01-2024,sold
+PN005,Bread,Bakery,6,06-01-2024,sold
+PN005,Bread,Bakery,9,06-01-2024,sold
+PN005,Bread,Bakery,11,06-01-2024,sold
+PN005,Bread,Bakery,9,06-01-2024,sold
+PN005,Bread,Bakery,13,06-01-2024,sold
+PN005,Bread,Bakery,6,06-01-2024,sold
+PN005,Bread,Bakery,17,06-01-2024,sold
+PN005,Bread,Bakery,7,06-01-2024,sold
+PN005,Bread,Bakery,5,02-01-2024,unsold
+PN005,Bread,Bakery,1,02-01-2024,unsold
+PN006,Breakfast Cereals,Staples,6,17-12-2025,sold
+PN006,Breakfast Cereals,Staples,9,05-12-2025,sold
+PN006,Breakfast Cereals,Staples,9,25-11-2025,sold
+PN006,Breakfast Cereals,Staples,13,24-11-2025,sold
+PN006,Breakfast Cereals,Staples,18,18-11-2025,sold
+PN006,Breakfast Cereals,Staples,18,12-11-2025,sold
+PN006,Breakfast Cereals,Staples,8,29-10-2025,sold
+PN006,Breakfast Cereals,Staples,13,23-10-2025,sold
+PN006,Breakfast Cereals,Staples,6,18-10-2025,sold
+PN006,Breakfast Cereals,Staples,17,09-10-2025,sold
+PN006,Breakfast Cereals,Staples,4,09-10-2025,sold
+PN006,Breakfast Cereals,Staples,3,07-10-2025,sold
+PN006,Breakfast Cereals,Staples,2,29-09-2025,sold
+PN006,Breakfast Cereals,Staples,7,27-09-2025,sold
+PN006,Breakfast Cereals,Staples,16,13-09-2025,sold
+PN006,Breakfast Cereals,Staples,6,18-08-2025,sold
+PN006,Breakfast Cereals,Staples,11,30-07-2025,sold
+PN006,Breakfast Cereals,Staples,2,25-07-2025,sold
+PN006,Breakfast Cereals,Staples,19,17-07-2025,sold
+PN006,Breakfast Cereals,Staples,14,09-07-2025,sold
+PN006,Breakfast Cereals,Staples,10,06-07-2025,sold
+PN006,Breakfast Cereals,Staples,14,04-07-2025,sold
+PN006,Breakfast Cereals,Staples,8,26-06-2025,sold
+PN006,Breakfast Cereals,Staples,16,24-06-2025,sold
+PN006,Breakfast Cereals,Staples,11,20-06-2025,sold
+PN006,Breakfast Cereals,Staples,3,11-06-2025,sold
+PN006,Breakfast Cereals,Staples,12,09-06-2025,sold
+PN006,Breakfast Cereals,Staples,11,06-06-2025,sold
+PN006,Breakfast Cereals,Staples,10,02-06-2025,sold
+PN006,Breakfast Cereals,Staples,8,24-05-2025,sold
+PN006,Breakfast Cereals,Staples,4,23-05-2025,sold
+PN006,Breakfast Cereals,Staples,10,23-05-2025,sold
+PN006,Breakfast Cereals,Staples,11,26-04-2025,sold
+PN006,Breakfast Cereals,Staples,7,25-04-2025,sold
+PN006,Breakfast Cereals,Staples,13,25-04-2025,sold
+PN006,Breakfast Cereals,Staples,5,09-04-2025,sold
+PN006,Breakfast Cereals,Staples,17,02-04-2025,sold
+PN006,Breakfast Cereals,Staples,4,28-03-2025,sold
+PN006,Breakfast Cereals,Staples,13,22-03-2025,sold
+PN006,Breakfast Cereals,Staples,7,19-03-2025,sold
+PN006,Breakfast Cereals,Staples,17,18-03-2025,sold
+PN006,Breakfast Cereals,Staples,15,12-03-2025,sold
+PN006,Breakfast Cereals,Staples,17,11-03-2025,sold
+PN006,Breakfast Cereals,Staples,3,10-02-2025,sold
+PN006,Breakfast Cereals,Staples,3,11-01-2025,sold
+PN006,Breakfast Cereals,Staples,9,03-01-2025,sold
+PN006,Breakfast Cereals,Staples,14,02-01-2025,sold
+PN006,Breakfast Cereals,Staples,17,11-11-2024,sold
+PN006,Breakfast Cereals,Staples,5,28-09-2024,sold
+PN006,Breakfast Cereals,Staples,10,22-08-2024,sold
+PN006,Breakfast Cereals,Staples,5,26-05-2024,sold
+PN006,Breakfast Cereals,Staples,17,26-05-2024,sold
+PN006,Breakfast Cereals,Staples,3,21-04-2024,sold
+PN006,Breakfast Cereals,Staples,10,20-04-2024,sold
+PN006,Breakfast Cereals,Staples,16,03-04-2024,sold
+PN006,Breakfast Cereals,Staples,17,21-03-2024,sold
+PN006,Breakfast Cereals,Staples,16,22-02-2024,sold
+PN006,Breakfast Cereals,Staples,2,16-02-2024,sold
+PN006,Breakfast Cereals,Staples,3,14-02-2024,sold
+PN006,Breakfast Cereals,Staples,9,05-02-2024,sold
+PN006,Breakfast Cereals,Staples,1,05-01-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,07-01-2025,sold
+PN007,Brussels Sprouts,Vegetables,11,30-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,16,30-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,18,21-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,1,21-12-2024,unsold
+PN007,Brussels Sprouts,Vegetables,4,17-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,10,14-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,18,12-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,15,12-12-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,03-12-2024,unsold
+PN007,Brussels Sprouts,Vegetables,2,25-11-2024,sold
+PN007,Brussels Sprouts,Vegetables,20,21-11-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,20-11-2024,unsold
+PN007,Brussels Sprouts,Vegetables,13,15-11-2024,sold
+PN007,Brussels Sprouts,Vegetables,16,11-11-2024,sold
+PN007,Brussels Sprouts,Vegetables,11,08-11-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,31-10-2024,unsold
+PN007,Brussels Sprouts,Vegetables,6,30-10-2024,sold
+PN007,Brussels Sprouts,Vegetables,1,24-10-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,23-10-2024,sold
+PN007,Brussels Sprouts,Vegetables,16,22-10-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,16-10-2024,unsold
+PN007,Brussels Sprouts,Vegetables,4,08-10-2024,unsold
+PN007,Brussels Sprouts,Vegetables,1,30-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,7,29-09-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,29-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,29-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,1,28-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,22-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,20-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,2,14-09-2024,sold
+PN007,Brussels Sprouts,Vegetables,6,07-09-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,07-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,01-09-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,30-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,4,30-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,18,24-08-2024,sold
+PN007,Brussels Sprouts,Vegetables,1,21-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,1,19-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,10,17-08-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,12-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,2,07-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,12,03-08-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,03-08-2024,unsold
+PN007,Brussels Sprouts,Vegetables,19,01-08-2024,sold
+PN007,Brussels Sprouts,Vegetables,8,28-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,18,27-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,24-07-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,22-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,1,12-07-2024,unsold
+PN007,Brussels Sprouts,Vegetables,5,11-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,11-07-2024,unsold
+PN007,Brussels Sprouts,Vegetables,2,07-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,2,05-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,16,05-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,13,02-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,11,01-07-2024,sold
+PN007,Brussels Sprouts,Vegetables,13,24-06-2024,sold
+PN007,Brussels Sprouts,Vegetables,8,17-06-2024,sold
+PN007,Brussels Sprouts,Vegetables,7,07-06-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,07-06-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,06-06-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,06-06-2024,unsold
+PN007,Brussels Sprouts,Vegetables,14,30-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,8,28-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,6,27-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,10,22-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,22-05-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,18-05-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,15-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,2,15-05-2024,unsold
+PN007,Brussels Sprouts,Vegetables,11,13-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,09-05-2024,unsold
+PN007,Brussels Sprouts,Vegetables,1,09-05-2024,unsold
+PN007,Brussels Sprouts,Vegetables,20,08-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,13,04-05-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,29-04-2024,unsold
+PN007,Brussels Sprouts,Vegetables,8,24-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,19,23-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,23-04-2024,unsold
+PN007,Brussels Sprouts,Vegetables,19,15-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,2,15-04-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,11-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,16,09-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,06-04-2024,unsold
+PN007,Brussels Sprouts,Vegetables,16,02-04-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,31-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,1,31-03-2024,unsold
+PN007,Brussels Sprouts,Vegetables,20,28-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,28-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,2,23-03-2024,unsold
+PN007,Brussels Sprouts,Vegetables,2,21-03-2024,unsold
+PN007,Brussels Sprouts,Vegetables,3,20-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,3,16-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,14,05-03-2024,sold
+PN007,Brussels Sprouts,Vegetables,5,29-02-2024,sold
+PN007,Brussels Sprouts,Vegetables,17,29-02-2024,sold
+PN007,Brussels Sprouts,Vegetables,4,28-02-2024,unsold
+PN007,Brussels Sprouts,Vegetables,4,17-02-2024,sold
+PN007,Brussels Sprouts,Vegetables,19,15-02-2024,sold
+PN007,Brussels Sprouts,Vegetables,7,17-01-2024,sold
+PN007,Brussels Sprouts,Vegetables,6,14-01-2024,sold
+PN008,Burger Patties,Meat,1,24-12-2025,sold
+PN008,Burger Patties,Meat,16,12-12-2025,sold
+PN008,Burger Patties,Meat,12,06-12-2025,sold
+PN008,Burger Patties,Meat,9,04-12-2025,sold
+PN008,Burger Patties,Meat,1,27-11-2025,sold
+PN008,Burger Patties,Meat,2,31-10-2025,sold
+PN008,Burger Patties,Meat,8,14-10-2025,sold
+PN008,Burger Patties,Meat,8,08-10-2025,sold
+PN008,Burger Patties,Meat,15,07-10-2025,sold
+PN008,Burger Patties,Meat,14,04-10-2025,sold
+PN008,Burger Patties,Meat,8,26-09-2025,sold
+PN008,Burger Patties,Meat,17,25-09-2025,sold
+PN008,Burger Patties,Meat,16,21-09-2025,sold
+PN008,Burger Patties,Meat,18,05-09-2025,sold
+PN008,Burger Patties,Meat,10,02-09-2025,sold
+PN008,Burger Patties,Meat,10,01-09-2025,sold
+PN008,Burger Patties,Meat,15,29-08-2025,sold
+PN008,Burger Patties,Meat,18,25-08-2025,sold
+PN008,Burger Patties,Meat,11,25-08-2025,sold
+PN008,Burger Patties,Meat,6,02-08-2025,sold
+PN008,Burger Patties,Meat,20,27-07-2025,sold
+PN008,Burger Patties,Meat,14,24-07-2025,sold
+PN008,Burger Patties,Meat,12,17-07-2025,sold
+PN008,Burger Patties,Meat,10,27-06-2025,sold
+PN008,Burger Patties,Meat,5,30-05-2025,sold
+PN008,Burger Patties,Meat,2,22-05-2025,sold
+PN008,Burger Patties,Meat,19,17-05-2025,sold
+PN008,Burger Patties,Meat,12,11-05-2025,sold
+PN008,Burger Patties,Meat,15,10-05-2025,sold
+PN008,Burger Patties,Meat,14,09-05-2025,sold
+PN008,Burger Patties,Meat,11,05-05-2025,sold
+PN008,Burger Patties,Meat,18,20-04-2025,sold
+PN008,Burger Patties,Meat,15,16-04-2025,sold
+PN008,Burger Patties,Meat,12,04-04-2025,sold
+PN008,Burger Patties,Meat,2,04-04-2025,sold
+PN008,Burger Patties,Meat,13,20-03-2025,sold
+PN008,Burger Patties,Meat,15,08-03-2025,sold
+PN008,Burger Patties,Meat,11,01-03-2025,sold
+PN008,Burger Patties,Meat,16,18-02-2025,sold
+PN008,Burger Patties,Meat,6,12-02-2025,sold
+PN008,Burger Patties,Meat,3,07-02-2025,sold
+PN008,Burger Patties,Meat,7,26-01-2025,sold
+PN008,Burger Patties,Meat,19,18-01-2025,sold
+PN008,Burger Patties,Meat,15,15-01-2025,sold
+PN008,Burger Patties,Meat,4,14-01-2025,sold
+PN008,Burger Patties,Meat,1,03-12-2024,unsold
+PN008,Burger Patties,Meat,4,10-11-2024,unsold
+PN008,Burger Patties,Meat,2,26-08-2024,unsold
+PN008,Burger Patties,Meat,6,20-08-2024,sold
+PN008,Burger Patties,Meat,17,25-07-2024,sold
+PN008,Burger Patties,Meat,5,24-07-2024,sold
+PN008,Burger Patties,Meat,5,12-07-2024,unsold
+PN008,Burger Patties,Meat,4,02-04-2024,unsold
+PN008,Burger Patties,Meat,5,28-02-2024,unsold
+PN008,Burger Patties,Meat,4,19-02-2024,unsold
+PN008,Burger Patties,Meat,11,09-02-2024,sold
+PN008,Burger Patties,Meat,1,29-01-2024,unsold
+PN009,Butter,Dairy,6,05-01-2025,sold
+PN009,Butter,Dairy,19,04-01-2025,sold
+PN009,Butter,Dairy,1,30-12-2024,sold
+PN009,Butter,Dairy,3,27-12-2024,sold
+PN009,Butter,Dairy,11,22-12-2024,sold
+PN009,Butter,Dairy,5,21-12-2024,sold
+PN009,Butter,Dairy,20,12-12-2024,sold
+PN009,Butter,Dairy,6,08-12-2024,sold
+PN009,Butter,Dairy,16,08-12-2024,sold
+PN009,Butter,Dairy,17,07-12-2024,sold
+PN009,Butter,Dairy,5,02-12-2024,sold
+PN009,Butter,Dairy,6,17-11-2024,sold
+PN009,Butter,Dairy,12,10-11-2024,sold
+PN009,Butter,Dairy,13,01-11-2024,sold
+PN009,Butter,Dairy,17,23-10-2024,sold
+PN009,Butter,Dairy,18,11-10-2024,sold
+PN009,Butter,Dairy,14,06-10-2024,sold
+PN009,Butter,Dairy,3,24-09-2024,sold
+PN009,Butter,Dairy,8,13-09-2024,sold
+PN009,Butter,Dairy,1,13-09-2024,sold
+PN009,Butter,Dairy,4,04-09-2024,sold
+PN009,Butter,Dairy,16,26-08-2024,sold
+PN009,Butter,Dairy,14,21-08-2024,sold
+PN009,Butter,Dairy,14,13-08-2024,sold
+PN009,Butter,Dairy,5,04-08-2024,sold
+PN009,Butter,Dairy,19,01-08-2024,sold
+PN009,Butter,Dairy,18,25-07-2024,sold
+PN009,Butter,Dairy,10,21-07-2024,sold
+PN009,Butter,Dairy,17,18-07-2024,sold
+PN009,Butter,Dairy,3,28-06-2024,sold
+PN009,Butter,Dairy,11,17-06-2024,sold
+PN009,Butter,Dairy,5,04-06-2024,sold
+PN009,Butter,Dairy,16,03-06-2024,sold
+PN009,Butter,Dairy,6,24-05-2024,sold
+PN009,Butter,Dairy,10,08-05-2024,sold
+PN009,Butter,Dairy,15,08-05-2024,sold
+PN009,Butter,Dairy,8,23-04-2024,sold
+PN009,Butter,Dairy,13,18-04-2024,sold
+PN009,Butter,Dairy,8,16-04-2024,sold
+PN009,Butter,Dairy,5,15-04-2024,sold
+PN009,Butter,Dairy,15,14-04-2024,sold
+PN009,Butter,Dairy,6,11-04-2024,sold
+PN009,Butter,Dairy,4,09-04-2024,sold
+PN009,Butter,Dairy,2,07-04-2024,sold
+PN009,Butter,Dairy,15,04-04-2024,sold
+PN009,Butter,Dairy,20,25-03-2024,sold
+PN009,Butter,Dairy,1,18-03-2024,unsold
+PN009,Butter,Dairy,6,17-03-2024,sold
+PN009,Butter,Dairy,7,13-03-2024,sold
+PN009,Butter,Dairy,14,06-03-2024,sold
+PN009,Butter,Dairy,2,02-03-2024,sold
+PN009,Butter,Dairy,2,02-03-2024,sold
+PN009,Butter,Dairy,9,21-02-2024,sold
+PN009,Butter,Dairy,16,19-02-2024,sold
+PN009,Butter,Dairy,1,17-02-2024,sold
+PN009,Butter,Dairy,13,15-02-2024,sold
+PN009,Butter,Dairy,3,07-02-2024,unsold
+PN009,Butter,Dairy,4,25-01-2024,sold
+PN009,Butter,Dairy,4,11-01-2024,sold
+PN010,Butter Croissant,Bakery,17,01-01-2025,sold
+PN010,Butter Croissant,Bakery,20,24-12-2024,sold
+PN010,Butter Croissant,Bakery,19,20-12-2024,sold
+PN010,Butter Croissant,Bakery,1,20-12-2024,unsold
+PN010,Butter Croissant,Bakery,1,13-12-2024,unsold
+PN010,Butter Croissant,Bakery,2,11-12-2024,unsold
+PN010,Butter Croissant,Bakery,3,30-11-2024,sold
+PN010,Butter Croissant,Bakery,1,13-11-2024,unsold
+PN010,Butter Croissant,Bakery,18,08-11-2024,sold
+PN010,Butter Croissant,Bakery,2,05-11-2024,sold
+PN010,Butter Croissant,Bakery,2,31-10-2024,sold
+PN010,Butter Croissant,Bakery,4,24-10-2024,unsold
+PN010,Butter Croissant,Bakery,2,11-10-2024,unsold
+PN010,Butter Croissant,Bakery,11,19-09-2024,sold
+PN010,Butter Croissant,Bakery,8,16-09-2024,sold
+PN010,Butter Croissant,Bakery,13,11-09-2024,sold
+PN010,Butter Croissant,Bakery,20,07-09-2024,sold
+PN010,Butter Croissant,Bakery,3,30-08-2024,unsold
+PN010,Butter Croissant,Bakery,3,26-08-2024,unsold
+PN010,Butter Croissant,Bakery,1,21-08-2024,unsold
+PN010,Butter Croissant,Bakery,1,21-08-2024,unsold
+PN010,Butter Croissant,Bakery,3,19-08-2024,unsold
+PN010,Butter Croissant,Bakery,2,17-08-2024,unsold
+PN010,Butter Croissant,Bakery,17,08-08-2024,sold
+PN010,Butter Croissant,Bakery,3,03-08-2024,sold
+PN010,Butter Croissant,Bakery,7,25-07-2024,sold
+PN010,Butter Croissant,Bakery,16,22-07-2024,sold
+PN010,Butter Croissant,Bakery,8,20-07-2024,sold
+PN010,Butter Croissant,Bakery,5,18-07-2024,sold
+PN010,Butter Croissant,Bakery,14,18-07-2024,sold
+PN010,Butter Croissant,Bakery,2,16-07-2024,sold
+PN010,Butter Croissant,Bakery,3,12-07-2024,sold
+PN010,Butter Croissant,Bakery,15,07-07-2024,sold
+PN010,Butter Croissant,Bakery,1,06-07-2024,unsold
+PN010,Butter Croissant,Bakery,1,03-07-2024,unsold
+PN010,Butter Croissant,Bakery,3,02-07-2024,unsold
+PN010,Butter Croissant,Bakery,2,27-06-2024,unsold
+PN010,Butter Croissant,Bakery,1,25-06-2024,sold
+PN010,Butter Croissant,Bakery,2,17-06-2024,unsold
+PN010,Butter Croissant,Bakery,1,14-06-2024,unsold
+PN010,Butter Croissant,Bakery,16,26-05-2024,sold
+PN010,Butter Croissant,Bakery,9,06-05-2024,sold
+PN010,Butter Croissant,Bakery,5,29-04-2024,unsold
+PN010,Butter Croissant,Bakery,4,22-04-2024,unsold
+PN010,Butter Croissant,Bakery,4,18-04-2024,unsold
+PN010,Butter Croissant,Bakery,12,11-04-2024,sold
+PN010,Butter Croissant,Bakery,2,10-04-2024,sold
+PN010,Butter Croissant,Bakery,2,06-04-2024,unsold
+PN010,Butter Croissant,Bakery,4,04-04-2024,unsold
+PN010,Butter Croissant,Bakery,9,28-03-2024,sold
+PN010,Butter Croissant,Bakery,3,23-03-2024,unsold
+PN010,Butter Croissant,Bakery,13,20-03-2024,sold
+PN010,Butter Croissant,Bakery,4,17-03-2024,sold
+PN010,Butter Croissant,Bakery,5,14-03-2024,sold
+PN010,Butter Croissant,Bakery,19,12-03-2024,sold
+PN010,Butter Croissant,Bakery,5,09-03-2024,sold
+PN010,Butter Croissant,Bakery,5,08-03-2024,sold
+PN010,Butter Croissant,Bakery,1,03-03-2024,sold
+PN010,Butter Croissant,Bakery,2,27-02-2024,sold
+PN010,Butter Croissant,Bakery,11,22-02-2024,sold
+PN010,Butter Croissant,Bakery,3,18-02-2024,unsold
+PN010,Butter Croissant,Bakery,4,09-02-2024,sold
+PN010,Butter Croissant,Bakery,6,09-02-2024,sold
+PN010,Butter Croissant,Bakery,3,07-02-2024,unsold
+PN010,Butter Croissant,Bakery,1,01-02-2024,sold
+PN010,Butter Croissant,Bakery,2,22-01-2024,unsold
+PN010,Butter Croissant,Bakery,5,13-01-2024,sold
+PN010,Butter Croissant,Bakery,10,08-01-2024,sold
+PN010,Butter Croissant,Bakery,10,07-01-2024,sold
+PN010,Butter Croissant,Bakery,5,02-01-2024,unsold
+PN010,Butter Croissant,Bakery,3,02-01-2024,unsold
+PN011,Cabbage,Vegetables,2,02-01-2025,sold
+PN011,Cabbage,Vegetables,16,30-12-2024,sold
+PN011,Cabbage,Vegetables,3,29-12-2024,unsold
+PN011,Cabbage,Vegetables,1,24-12-2024,unsold
+PN011,Cabbage,Vegetables,2,21-12-2024,sold
+PN011,Cabbage,Vegetables,2,19-12-2024,unsold
+PN011,Cabbage,Vegetables,14,18-12-2024,sold
+PN011,Cabbage,Vegetables,13,16-12-2024,sold
+PN011,Cabbage,Vegetables,5,14-12-2024,sold
+PN011,Cabbage,Vegetables,3,13-12-2024,unsold
+PN011,Cabbage,Vegetables,4,13-12-2024,unsold
+PN011,Cabbage,Vegetables,16,08-12-2024,sold
+PN011,Cabbage,Vegetables,8,05-12-2024,sold
+PN011,Cabbage,Vegetables,3,27-11-2024,unsold
+PN011,Cabbage,Vegetables,3,20-11-2024,sold
+PN011,Cabbage,Vegetables,5,18-11-2024,sold
+PN011,Cabbage,Vegetables,11,18-11-2024,sold
+PN011,Cabbage,Vegetables,3,15-11-2024,unsold
+PN011,Cabbage,Vegetables,2,13-11-2024,unsold
+PN011,Cabbage,Vegetables,1,11-11-2024,sold
+PN011,Cabbage,Vegetables,2,30-10-2024,unsold
+PN011,Cabbage,Vegetables,5,30-10-2024,unsold
+PN011,Cabbage,Vegetables,4,28-10-2024,sold
+PN011,Cabbage,Vegetables,5,27-10-2024,sold
+PN011,Cabbage,Vegetables,4,24-10-2024,unsold
+PN011,Cabbage,Vegetables,1,24-10-2024,unsold
+PN011,Cabbage,Vegetables,12,13-10-2024,sold
+PN011,Cabbage,Vegetables,4,08-10-2024,unsold
+PN011,Cabbage,Vegetables,4,04-10-2024,unsold
+PN011,Cabbage,Vegetables,19,29-09-2024,sold
+PN011,Cabbage,Vegetables,3,29-09-2024,unsold
+PN011,Cabbage,Vegetables,1,24-09-2024,unsold
+PN011,Cabbage,Vegetables,1,22-09-2024,unsold
+PN011,Cabbage,Vegetables,4,13-09-2024,unsold
+PN011,Cabbage,Vegetables,13,12-09-2024,sold
+PN011,Cabbage,Vegetables,2,06-09-2024,unsold
+PN011,Cabbage,Vegetables,8,04-09-2024,sold
+PN011,Cabbage,Vegetables,5,17-08-2024,unsold
+PN011,Cabbage,Vegetables,15,14-08-2024,sold
+PN011,Cabbage,Vegetables,19,11-08-2024,sold
+PN011,Cabbage,Vegetables,1,07-08-2024,unsold
+PN011,Cabbage,Vegetables,5,06-08-2024,sold
+PN011,Cabbage,Vegetables,2,03-08-2024,sold
+PN011,Cabbage,Vegetables,7,03-08-2024,sold
+PN011,Cabbage,Vegetables,6,28-07-2024,sold
+PN011,Cabbage,Vegetables,2,28-07-2024,unsold
+PN011,Cabbage,Vegetables,5,28-07-2024,unsold
+PN011,Cabbage,Vegetables,10,24-07-2024,sold
+PN011,Cabbage,Vegetables,10,21-07-2024,sold
+PN011,Cabbage,Vegetables,3,13-07-2024,unsold
+PN011,Cabbage,Vegetables,3,13-07-2024,unsold
+PN011,Cabbage,Vegetables,3,06-07-2024,unsold
+PN011,Cabbage,Vegetables,4,05-07-2024,sold
+PN011,Cabbage,Vegetables,2,03-07-2024,unsold
+PN011,Cabbage,Vegetables,3,02-07-2024,unsold
+PN011,Cabbage,Vegetables,1,27-06-2024,unsold
+PN011,Cabbage,Vegetables,4,27-06-2024,unsold
+PN011,Cabbage,Vegetables,16,02-06-2024,sold
+PN011,Cabbage,Vegetables,5,27-05-2024,unsold
+PN011,Cabbage,Vegetables,14,12-05-2024,sold
+PN011,Cabbage,Vegetables,18,12-05-2024,sold
+PN011,Cabbage,Vegetables,15,10-05-2024,sold
+PN011,Cabbage,Vegetables,2,09-05-2024,unsold
+PN011,Cabbage,Vegetables,14,04-05-2024,sold
+PN011,Cabbage,Vegetables,4,02-05-2024,unsold
+PN011,Cabbage,Vegetables,2,30-04-2024,unsold
+PN011,Cabbage,Vegetables,20,22-04-2024,sold
+PN011,Cabbage,Vegetables,16,20-04-2024,sold
+PN011,Cabbage,Vegetables,12,19-04-2024,sold
+PN011,Cabbage,Vegetables,1,14-04-2024,sold
+PN011,Cabbage,Vegetables,11,06-04-2024,sold
+PN011,Cabbage,Vegetables,11,04-04-2024,sold
+PN011,Cabbage,Vegetables,4,29-03-2024,unsold
+PN011,Cabbage,Vegetables,5,16-03-2024,unsold
+PN011,Cabbage,Vegetables,12,14-03-2024,sold
+PN011,Cabbage,Vegetables,7,13-03-2024,sold
+PN011,Cabbage,Vegetables,18,01-03-2024,sold
+PN011,Cabbage,Vegetables,6,19-02-2024,sold
+PN011,Cabbage,Vegetables,2,07-02-2024,sold
+PN011,Cabbage,Vegetables,1,05-02-2024,unsold
+PN011,Cabbage,Vegetables,10,02-02-2024,sold
+PN011,Cabbage,Vegetables,20,31-01-2024,sold
+PN011,Cabbage,Vegetables,13,27-01-2024,sold
+PN011,Cabbage,Vegetables,4,26-01-2024,unsold
+PN011,Cabbage,Vegetables,16,21-01-2024,sold
+PN011,Cabbage,Vegetables,14,21-01-2024,sold
+PN011,Cabbage,Vegetables,8,17-01-2024,sold
+PN011,Cabbage,Vegetables,9,15-01-2024,sold
+PN011,Cabbage,Vegetables,18,12-01-2024,sold
+PN011,Cabbage,Vegetables,3,02-01-2024,unsold
+PN012,Canned Soup,Staples,20,22-12-2026,sold
+PN012,Canned Soup,Staples,16,19-12-2026,sold
+PN012,Canned Soup,Staples,7,17-12-2026,sold
+PN012,Canned Soup,Staples,18,13-12-2026,sold
+PN012,Canned Soup,Staples,5,23-11-2026,sold
+PN012,Canned Soup,Staples,14,22-11-2026,sold
+PN012,Canned Soup,Staples,10,20-11-2026,sold
+PN012,Canned Soup,Staples,2,16-11-2026,sold
+PN012,Canned Soup,Staples,11,20-10-2026,sold
+PN012,Canned Soup,Staples,12,09-10-2026,sold
+PN012,Canned Soup,Staples,4,07-10-2026,sold
+PN012,Canned Soup,Staples,13,29-09-2026,sold
+PN012,Canned Soup,Staples,8,07-09-2026,sold
+PN012,Canned Soup,Staples,10,27-08-2026,sold
+PN012,Canned Soup,Staples,5,15-08-2026,sold
+PN012,Canned Soup,Staples,3,04-08-2026,sold
+PN012,Canned Soup,Staples,3,30-07-2026,sold
+PN012,Canned Soup,Staples,6,26-07-2026,sold
+PN012,Canned Soup,Staples,14,24-07-2026,sold
+PN012,Canned Soup,Staples,20,15-07-2026,sold
+PN012,Canned Soup,Staples,19,12-07-2026,sold
+PN012,Canned Soup,Staples,18,28-06-2026,sold
+PN012,Canned Soup,Staples,4,04-06-2026,sold
+PN012,Canned Soup,Staples,11,22-05-2026,sold
+PN012,Canned Soup,Staples,18,20-05-2026,sold
+PN012,Canned Soup,Staples,1,11-05-2026,sold
+PN012,Canned Soup,Staples,8,09-05-2026,sold
+PN012,Canned Soup,Staples,19,28-04-2026,sold
+PN012,Canned Soup,Staples,7,28-04-2026,sold
+PN012,Canned Soup,Staples,1,28-04-2026,sold
+PN012,Canned Soup,Staples,6,16-04-2026,sold
+PN012,Canned Soup,Staples,13,09-04-2026,sold
+PN012,Canned Soup,Staples,18,23-03-2026,sold
+PN012,Canned Soup,Staples,19,20-03-2026,sold
+PN012,Canned Soup,Staples,7,14-03-2026,sold
+PN012,Canned Soup,Staples,7,04-03-2026,sold
+PN012,Canned Soup,Staples,13,27-02-2026,sold
+PN012,Canned Soup,Staples,17,12-02-2026,sold
+PN012,Canned Soup,Staples,13,04-02-2026,sold
+PN012,Canned Soup,Staples,18,24-01-2026,sold
+PN012,Canned Soup,Staples,4,22-01-2026,sold
+PN012,Canned Soup,Staples,11,17-01-2026,sold
+PN012,Canned Soup,Staples,11,06-01-2026,sold
+PN012,Canned Soup,Staples,16,03-01-2026,sold
+PN012,Canned Soup,Staples,19,02-01-2026,sold
+PN012,Canned Soup,Staples,10,31-12-2025,sold
+PN012,Canned Soup,Staples,6,31-12-2025,sold
+PN012,Canned Soup,Staples,11,31-12-2025,sold
+PN012,Canned Soup,Staples,7,31-12-2025,sold
+PN012,Canned Soup,Staples,5,23-11-2024,sold
+PN012,Canned Soup,Staples,2,13-10-2024,unsold
+PN012,Canned Soup,Staples,2,22-09-2024,sold
+PN012,Canned Soup,Staples,1,16-07-2024,unsold
+PN012,Canned Soup,Staples,3,01-07-2024,unsold
+PN012,Canned Soup,Staples,2,18-06-2024,sold
+PN012,Canned Soup,Staples,11,12-06-2024,sold
+PN012,Canned Soup,Staples,3,27-04-2024,unsold
+PN012,Canned Soup,Staples,19,14-04-2024,sold
+PN012,Canned Soup,Staples,4,03-04-2024,sold
+PN012,Canned Soup,Staples,1,28-03-2024,sold
+PN012,Canned Soup,Staples,2,16-03-2024,unsold
+PN012,Canned Soup,Staples,3,06-03-2024,sold
+PN012,Canned Soup,Staples,1,10-02-2024,unsold
+PN012,Canned Soup,Staples,1,27-01-2024,unsold
+PN012,Canned Soup,Staples,4,03-01-2024,unsold
+PN013,Carrots,Vegetables,8,10-01-2025,sold
+PN013,Carrots,Vegetables,16,01-01-2025,sold
+PN013,Carrots,Vegetables,11,28-12-2024,sold
+PN013,Carrots,Vegetables,18,25-12-2024,sold
+PN013,Carrots,Vegetables,6,25-12-2024,sold
+PN013,Carrots,Vegetables,3,22-12-2024,unsold
+PN013,Carrots,Vegetables,5,20-12-2024,sold
+PN013,Carrots,Vegetables,6,18-12-2024,sold
+PN013,Carrots,Vegetables,18,16-12-2024,sold
+PN013,Carrots,Vegetables,15,15-12-2024,sold
+PN013,Carrots,Vegetables,4,07-12-2024,unsold
+PN013,Carrots,Vegetables,8,05-12-2024,sold
+PN013,Carrots,Vegetables,2,02-12-2024,unsold
+PN013,Carrots,Vegetables,1,02-12-2024,unsold
+PN013,Carrots,Vegetables,5,24-11-2024,unsold
+PN013,Carrots,Vegetables,5,19-11-2024,unsold
+PN013,Carrots,Vegetables,5,15-11-2024,sold
+PN013,Carrots,Vegetables,1,14-11-2024,unsold
+PN013,Carrots,Vegetables,12,13-11-2024,sold
+PN013,Carrots,Vegetables,9,11-11-2024,sold
+PN013,Carrots,Vegetables,6,09-11-2024,sold
+PN013,Carrots,Vegetables,20,18-10-2024,sold
+PN013,Carrots,Vegetables,1,15-10-2024,unsold
+PN013,Carrots,Vegetables,4,15-10-2024,unsold
+PN013,Carrots,Vegetables,5,14-10-2024,unsold
+PN013,Carrots,Vegetables,4,02-10-2024,sold
+PN013,Carrots,Vegetables,5,13-09-2024,unsold
+PN013,Carrots,Vegetables,10,06-09-2024,sold
+PN013,Carrots,Vegetables,5,05-09-2024,unsold
+PN013,Carrots,Vegetables,15,01-09-2024,sold
+PN013,Carrots,Vegetables,4,23-08-2024,sold
+PN013,Carrots,Vegetables,11,16-08-2024,sold
+PN013,Carrots,Vegetables,6,12-08-2024,sold
+PN013,Carrots,Vegetables,5,12-08-2024,sold
+PN013,Carrots,Vegetables,2,12-08-2024,unsold
+PN013,Carrots,Vegetables,2,11-08-2024,unsold
+PN013,Carrots,Vegetables,5,05-08-2024,unsold
+PN013,Carrots,Vegetables,4,02-08-2024,unsold
+PN013,Carrots,Vegetables,1,01-08-2024,unsold
+PN013,Carrots,Vegetables,1,17-07-2024,unsold
+PN013,Carrots,Vegetables,16,13-07-2024,sold
+PN013,Carrots,Vegetables,4,13-07-2024,unsold
+PN013,Carrots,Vegetables,1,07-07-2024,unsold
+PN013,Carrots,Vegetables,1,23-06-2024,unsold
+PN013,Carrots,Vegetables,4,19-06-2024,sold
+PN013,Carrots,Vegetables,4,12-06-2024,unsold
+PN013,Carrots,Vegetables,19,07-06-2024,sold
+PN013,Carrots,Vegetables,6,03-06-2024,sold
+PN013,Carrots,Vegetables,4,03-06-2024,unsold
+PN013,Carrots,Vegetables,11,31-05-2024,sold
+PN013,Carrots,Vegetables,1,26-05-2024,unsold
+PN013,Carrots,Vegetables,1,23-05-2024,unsold
+PN013,Carrots,Vegetables,7,14-05-2024,sold
+PN013,Carrots,Vegetables,9,13-05-2024,sold
+PN013,Carrots,Vegetables,10,10-05-2024,sold
+PN013,Carrots,Vegetables,1,25-04-2024,unsold
+PN013,Carrots,Vegetables,2,20-04-2024,sold
+PN013,Carrots,Vegetables,1,14-04-2024,unsold
+PN013,Carrots,Vegetables,14,11-04-2024,sold
+PN013,Carrots,Vegetables,19,06-04-2024,sold
+PN013,Carrots,Vegetables,2,02-04-2024,unsold
+PN013,Carrots,Vegetables,5,29-03-2024,sold
+PN013,Carrots,Vegetables,12,28-03-2024,sold
+PN013,Carrots,Vegetables,16,26-03-2024,sold
+PN013,Carrots,Vegetables,12,20-03-2024,sold
+PN013,Carrots,Vegetables,19,19-03-2024,sold
+PN013,Carrots,Vegetables,8,11-03-2024,sold
+PN013,Carrots,Vegetables,14,27-02-2024,sold
+PN013,Carrots,Vegetables,2,22-02-2024,unsold
+PN013,Carrots,Vegetables,4,11-02-2024,sold
+PN013,Carrots,Vegetables,9,07-02-2024,sold
+PN013,Carrots,Vegetables,4,06-02-2024,unsold
+PN013,Carrots,Vegetables,2,27-01-2024,unsold
+PN013,Carrots,Vegetables,13,26-01-2024,sold
+PN013,Carrots,Vegetables,18,25-01-2024,sold
+PN013,Carrots,Vegetables,4,25-01-2024,unsold
+PN013,Carrots,Vegetables,16,24-01-2024,sold
+PN013,Carrots,Vegetables,9,19-01-2024,sold
+PN013,Carrots,Vegetables,1,06-01-2024,unsold
+PN013,Carrots,Vegetables,1,03-01-2024,unsold
+PN014,Charcoal,Non-Food,14,25-12-2026,sold
+PN014,Charcoal,Non-Food,13,23-12-2026,sold
+PN014,Charcoal,Non-Food,6,22-12-2026,sold
+PN014,Charcoal,Non-Food,8,22-12-2026,sold
+PN014,Charcoal,Non-Food,13,21-12-2026,sold
+PN014,Charcoal,Non-Food,13,19-12-2026,sold
+PN014,Charcoal,Non-Food,5,03-12-2026,sold
+PN014,Charcoal,Non-Food,9,01-12-2026,sold
+PN014,Charcoal,Non-Food,10,23-11-2026,sold
+PN014,Charcoal,Non-Food,8,19-11-2026,sold
+PN014,Charcoal,Non-Food,1,17-11-2026,sold
+PN014,Charcoal,Non-Food,4,17-11-2026,sold
+PN014,Charcoal,Non-Food,16,02-11-2026,sold
+PN014,Charcoal,Non-Food,18,27-10-2026,sold
+PN014,Charcoal,Non-Food,2,26-10-2026,sold
+PN014,Charcoal,Non-Food,4,21-10-2026,sold
+PN014,Charcoal,Non-Food,1,22-09-2026,sold
+PN014,Charcoal,Non-Food,20,18-09-2026,sold
+PN014,Charcoal,Non-Food,2,14-09-2026,sold
+PN014,Charcoal,Non-Food,11,12-09-2026,sold
+PN014,Charcoal,Non-Food,5,08-09-2026,sold
+PN014,Charcoal,Non-Food,1,05-09-2026,sold
+PN014,Charcoal,Non-Food,12,29-08-2026,sold
+PN014,Charcoal,Non-Food,18,19-08-2026,sold
+PN014,Charcoal,Non-Food,14,12-08-2026,sold
+PN014,Charcoal,Non-Food,9,07-08-2026,sold
+PN014,Charcoal,Non-Food,12,20-07-2026,sold
+PN014,Charcoal,Non-Food,3,20-07-2026,sold
+PN014,Charcoal,Non-Food,3,13-07-2026,sold
+PN014,Charcoal,Non-Food,13,08-07-2026,sold
+PN014,Charcoal,Non-Food,2,19-06-2026,sold
+PN014,Charcoal,Non-Food,20,03-06-2026,sold
+PN014,Charcoal,Non-Food,20,02-06-2026,sold
+PN014,Charcoal,Non-Food,7,21-05-2026,sold
+PN014,Charcoal,Non-Food,5,10-05-2026,sold
+PN014,Charcoal,Non-Food,15,07-05-2026,sold
+PN014,Charcoal,Non-Food,6,26-04-2026,sold
+PN014,Charcoal,Non-Food,9,09-04-2026,sold
+PN014,Charcoal,Non-Food,2,07-04-2026,sold
+PN014,Charcoal,Non-Food,13,28-03-2026,sold
+PN014,Charcoal,Non-Food,1,28-03-2026,sold
+PN014,Charcoal,Non-Food,6,28-03-2026,sold
+PN014,Charcoal,Non-Food,20,25-03-2026,sold
+PN014,Charcoal,Non-Food,19,09-03-2026,sold
+PN014,Charcoal,Non-Food,9,27-02-2026,sold
+PN014,Charcoal,Non-Food,7,05-02-2026,sold
+PN014,Charcoal,Non-Food,5,25-01-2026,sold
+PN014,Charcoal,Non-Food,7,16-01-2026,sold
+PN014,Charcoal,Non-Food,5,09-01-2026,sold
+PN014,Charcoal,Non-Food,8,09-01-2026,sold
+PN014,Charcoal,Non-Food,12,08-01-2026,sold
+PN014,Charcoal,Non-Food,1,05-01-2026,sold
+PN014,Charcoal,Non-Food,4,02-01-2026,sold
+PN014,Charcoal,Non-Food,10,07-12-2024,sold
+PN014,Charcoal,Non-Food,6,06-12-2024,sold
+PN014,Charcoal,Non-Food,12,13-11-2024,sold
+PN014,Charcoal,Non-Food,20,07-11-2024,sold
+PN014,Charcoal,Non-Food,13,21-10-2024,sold
+PN014,Charcoal,Non-Food,5,04-10-2024,sold
+PN014,Charcoal,Non-Food,15,06-08-2024,sold
+PN014,Charcoal,Non-Food,10,29-07-2024,sold
+PN014,Charcoal,Non-Food,11,18-07-2024,sold
+PN014,Charcoal,Non-Food,2,17-07-2024,sold
+PN014,Charcoal,Non-Food,18,11-07-2024,sold
+PN014,Charcoal,Non-Food,11,22-06-2024,sold
+PN014,Charcoal,Non-Food,9,23-05-2024,sold
+PN014,Charcoal,Non-Food,13,13-05-2024,sold
+PN014,Charcoal,Non-Food,11,08-05-2024,sold
+PN014,Charcoal,Non-Food,6,17-04-2024,sold
+PN014,Charcoal,Non-Food,5,12-04-2024,sold
+PN014,Charcoal,Non-Food,8,08-03-2024,sold
+PN014,Charcoal,Non-Food,4,05-03-2024,sold
+PN014,Charcoal,Non-Food,3,04-03-2024,unsold
+PN015,Cheese,Dairy,8,20-01-2025,sold
+PN015,Cheese,Dairy,3,08-01-2025,sold
+PN015,Cheese,Dairy,2,03-01-2025,sold
+PN015,Cheese,Dairy,9,30-12-2024,sold
+PN015,Cheese,Dairy,8,28-12-2024,sold
+PN015,Cheese,Dairy,6,25-12-2024,sold
+PN015,Cheese,Dairy,1,22-12-2024,sold
+PN015,Cheese,Dairy,9,21-12-2024,sold
+PN015,Cheese,Dairy,3,19-12-2024,sold
+PN015,Cheese,Dairy,9,17-12-2024,sold
+PN015,Cheese,Dairy,4,17-12-2024,sold
+PN015,Cheese,Dairy,5,15-12-2024,sold
+PN015,Cheese,Dairy,8,11-12-2024,sold
+PN015,Cheese,Dairy,8,07-12-2024,sold
+PN015,Cheese,Dairy,1,05-12-2024,sold
+PN015,Cheese,Dairy,10,04-12-2024,sold
+PN015,Cheese,Dairy,7,01-12-2024,sold
+PN015,Cheese,Dairy,10,28-11-2024,sold
+PN015,Cheese,Dairy,5,21-11-2024,unsold
+PN015,Cheese,Dairy,9,08-11-2024,sold
+PN015,Cheese,Dairy,6,07-11-2024,sold
+PN015,Cheese,Dairy,7,01-11-2024,sold
+PN015,Cheese,Dairy,1,31-10-2024,sold
+PN015,Cheese,Dairy,1,30-10-2024,unsold
+PN015,Cheese,Dairy,2,28-10-2024,sold
+PN015,Cheese,Dairy,9,27-10-2024,sold
+PN015,Cheese,Dairy,2,27-10-2024,sold
+PN015,Cheese,Dairy,10,25-10-2024,sold
+PN015,Cheese,Dairy,15,25-10-2024,sold
+PN015,Cheese,Dairy,8,24-10-2024,sold
+PN015,Cheese,Dairy,14,24-10-2024,sold
+PN015,Cheese,Dairy,7,24-10-2024,sold
+PN015,Cheese,Dairy,12,24-10-2024,sold
+PN015,Cheese,Dairy,5,24-10-2024,sold
+PN015,Cheese,Dairy,10,24-10-2024,sold
+PN015,Cheese,Dairy,12,24-10-2024,sold
+PN015,Cheese,Dairy,7,24-10-2024,sold
+PN015,Cheese,Dairy,11,24-10-2024,sold
+PN015,Cheese,Dairy,6,24-10-2024,sold
+PN015,Cheese,Dairy,3,23-10-2024,sold
+PN015,Cheese,Dairy,15,23-10-2024,sold
+PN015,Cheese,Dairy,3,23-10-2024,sold
+PN015,Cheese,Dairy,4,22-10-2024,unsold
+PN015,Cheese,Dairy,11,14-10-2024,sold
+PN015,Cheese,Dairy,5,09-10-2024,sold
+PN015,Cheese,Dairy,18,06-10-2024,sold
+PN015,Cheese,Dairy,14,06-10-2024,sold
+PN015,Cheese,Dairy,14,05-10-2024,sold
+PN015,Cheese,Dairy,18,26-09-2024,sold
+PN015,Cheese,Dairy,8,24-09-2024,sold
+PN015,Cheese,Dairy,9,22-09-2024,sold
+PN015,Cheese,Dairy,11,21-09-2024,sold
+PN015,Cheese,Dairy,15,18-09-2024,sold
+PN015,Cheese,Dairy,12,16-09-2024,sold
+PN015,Cheese,Dairy,3,13-09-2024,unsold
+PN015,Cheese,Dairy,2,07-09-2024,unsold
+PN015,Cheese,Dairy,9,06-09-2024,sold
+PN015,Cheese,Dairy,11,05-09-2024,sold
+PN015,Cheese,Dairy,5,01-09-2024,sold
+PN015,Cheese,Dairy,8,31-08-2024,sold
+PN015,Cheese,Dairy,16,30-08-2024,sold
+PN015,Cheese,Dairy,10,25-08-2024,sold
+PN015,Cheese,Dairy,1,22-08-2024,sold
+PN015,Cheese,Dairy,5,12-08-2024,unsold
+PN015,Cheese,Dairy,13,01-08-2024,sold
+PN015,Cheese,Dairy,18,01-08-2024,sold
+PN015,Cheese,Dairy,5,01-08-2024,sold
+PN015,Cheese,Dairy,6,31-07-2024,sold
+PN015,Cheese,Dairy,16,29-07-2024,sold
+PN015,Cheese,Dairy,4,28-07-2024,unsold
+PN015,Cheese,Dairy,15,26-07-2024,sold
+PN015,Cheese,Dairy,12,23-07-2024,sold
+PN015,Cheese,Dairy,18,22-07-2024,sold
+PN015,Cheese,Dairy,1,11-07-2024,sold
+PN015,Cheese,Dairy,1,11-07-2024,sold
+PN015,Cheese,Dairy,17,08-07-2024,sold
+PN015,Cheese,Dairy,3,06-07-2024,unsold
+PN015,Cheese,Dairy,9,28-06-2024,sold
+PN015,Cheese,Dairy,15,26-06-2024,sold
+PN015,Cheese,Dairy,4,20-06-2024,sold
+PN015,Cheese,Dairy,9,20-06-2024,sold
+PN015,Cheese,Dairy,5,18-06-2024,unsold
+PN015,Cheese,Dairy,14,14-06-2024,sold
+PN015,Cheese,Dairy,19,13-06-2024,sold
+PN015,Cheese,Dairy,18,11-06-2024,sold
+PN015,Cheese,Dairy,7,07-06-2024,sold
+PN015,Cheese,Dairy,1,07-06-2024,unsold
+PN015,Cheese,Dairy,1,07-06-2024,unsold
+PN015,Cheese,Dairy,6,06-06-2024,sold
+PN015,Cheese,Dairy,1,05-06-2024,unsold
+PN015,Cheese,Dairy,4,03-06-2024,unsold
+PN015,Cheese,Dairy,8,02-06-2024,sold
+PN015,Cheese,Dairy,1,30-05-2024,unsold
+PN015,Cheese,Dairy,9,25-05-2024,sold
+PN015,Cheese,Dairy,11,22-05-2024,sold
+PN015,Cheese,Dairy,10,11-05-2024,sold
+PN015,Cheese,Dairy,8,08-05-2024,sold
+PN015,Cheese,Dairy,5,08-05-2024,sold
+PN015,Cheese,Dairy,4,07-05-2024,sold
+PN015,Cheese,Dairy,11,06-05-2024,sold
+PN015,Cheese,Dairy,14,05-05-2024,sold
+PN015,Cheese,Dairy,18,04-05-2024,sold
+PN015,Cheese,Dairy,18,29-04-2024,sold
+PN015,Cheese,Dairy,9,28-04-2024,sold
+PN015,Cheese,Dairy,4,28-04-2024,sold
+PN015,Cheese,Dairy,3,25-04-2024,sold
+PN015,Cheese,Dairy,18,25-04-2024,sold
+PN015,Cheese,Dairy,3,19-04-2024,unsold
+PN015,Cheese,Dairy,5,15-04-2024,unsold
+PN015,Cheese,Dairy,4,14-04-2024,sold
+PN015,Cheese,Dairy,8,12-04-2024,sold
+PN015,Cheese,Dairy,4,11-04-2024,unsold
+PN015,Cheese,Dairy,1,04-04-2024,sold
+PN015,Cheese,Dairy,4,28-03-2024,sold
+PN015,Cheese,Dairy,2,25-03-2024,sold
+PN015,Cheese,Dairy,5,25-03-2024,sold
+PN015,Cheese,Dairy,7,22-03-2024,sold
+PN015,Cheese,Dairy,5,22-03-2024,sold
+PN015,Cheese,Dairy,9,19-03-2024,sold
+PN015,Cheese,Dairy,7,19-03-2024,sold
+PN015,Cheese,Dairy,2,18-03-2024,sold
+PN015,Cheese,Dairy,6,16-03-2024,sold
+PN015,Cheese,Dairy,10,14-03-2024,sold
+PN015,Cheese,Dairy,8,13-03-2024,sold
+PN015,Cheese,Dairy,6,10-03-2024,sold
+PN015,Cheese,Dairy,8,09-03-2024,sold
+PN015,Cheese,Dairy,5,09-03-2024,unsold
+PN015,Cheese,Dairy,1,07-03-2024,sold
+PN015,Cheese,Dairy,7,04-03-2024,sold
+PN015,Cheese,Dairy,2,04-03-2024,sold
+PN015,Cheese,Dairy,5,03-03-2024,sold
+PN015,Charcoal,Non-Food,2,19-02-2024,unsold
+PN015,Cheese,Dairy,2,15-02-2024,unsold
+PN015,Cheese,Dairy,9,14-02-2024,sold
+PN015,Cheese,Dairy,1,09-02-2024,sold
+PN015,Cheese,Dairy,2,06-02-2024,sold
+PN015,Cheese,Dairy,5,04-02-2024,sold
+PN015,Cheese,Dairy,3,30-01-2024,sold
+PN015,Cheese,Dairy,3,27-01-2024,unsold
+PN015,Cheese,Dairy,1,25-01-2024,unsold
+PN015,Cheese,Dairy,3,24-01-2024,unsold
+PN015,Cheese,Dairy,6,11-01-2024,sold
+PN016,Chicken Breast,Meat,9,05-01-2025,sold
+PN016,Chicken Breast,Meat,3,31-12-2024,sold
+PN016,Chicken Breast,Meat,5,26-12-2024,unsold
+PN016,Chicken Breast,Meat,3,22-12-2024,unsold
+PN016,Chicken Breast,Meat,11,12-12-2024,sold
+PN016,Chicken Breast,Meat,4,10-12-2024,sold
+PN016,Chicken Breast,Meat,6,04-12-2024,sold
+PN016,Chicken Breast,Meat,1,01-12-2024,sold
+PN016,Chicken Breast,Meat,18,27-11-2024,sold
+PN016,Chicken Breast,Meat,5,21-11-2024,unsold
+PN016,Chicken Breast,Meat,5,18-11-2024,sold
+PN016,Chicken Breast,Meat,14,17-11-2024,sold
+PN016,Chicken Breast,Meat,5,17-11-2024,sold
+PN016,Chicken Breast,Meat,8,23-10-2024,sold
+PN016,Chicken Breast,Meat,13,21-10-2024,sold
+PN016,Chicken Breast,Meat,3,18-10-2024,unsold
+PN016,Chicken Breast,Meat,15,16-10-2024,sold
+PN016,Chicken Breast,Meat,16,12-10-2024,sold
+PN016,Chicken Breast,Meat,9,11-10-2024,sold
+PN016,Chicken Breast,Meat,13,06-10-2024,sold
+PN016,Chicken Breast,Meat,6,06-10-2024,sold
+PN016,Chicken Breast,Meat,12,01-10-2024,sold
+PN016,Chicken Breast,Meat,17,01-10-2024,sold
+PN016,Chicken Breast,Meat,8,26-09-2024,sold
+PN016,Chicken Breast,Meat,17,24-09-2024,sold
+PN016,Chicken Breast,Meat,2,24-09-2024,unsold
+PN016,Chicken Breast,Meat,3,21-09-2024,sold
+PN016,Chicken Breast,Meat,3,18-09-2024,unsold
+PN016,Chicken Breast,Meat,2,14-09-2024,sold
+PN016,Chicken Breast,Meat,4,11-09-2024,sold
+PN016,Chicken Breast,Meat,8,05-09-2024,sold
+PN016,Chicken Breast,Meat,3,02-09-2024,sold
+PN016,Chicken Breast,Meat,12,29-08-2024,sold
+PN016,Chicken Breast,Meat,10,29-08-2024,sold
+PN016,Chicken Breast,Meat,15,28-08-2024,sold
+PN016,Chicken Breast,Meat,4,27-08-2024,unsold
+PN016,Chicken Breast,Meat,20,17-08-2024,sold
+PN016,Chicken Breast,Meat,2,14-08-2024,sold
+PN016,Chicken Breast,Meat,4,10-08-2024,unsold
+PN016,Chicken Breast,Meat,11,07-08-2024,sold
+PN016,Chicken Breast,Meat,11,03-08-2024,sold
+PN016,Chicken Breast,Meat,12,03-08-2024,sold
+PN016,Chicken Breast,Meat,8,03-08-2024,sold
+PN016,Chicken Breast,Meat,9,03-08-2024,sold
+PN016,Chicken Breast,Meat,7,02-08-2024,sold
+PN016,Chicken Breast,Meat,4,01-08-2024,unsold
+PN016,Chicken Breast,Meat,18,15-07-2024,sold
+PN016,Chicken Breast,Meat,2,13-07-2024,unsold
+PN016,Chicken Breast,Meat,6,11-07-2024,sold
+PN016,Chicken Breast,Meat,8,08-07-2024,sold
+PN016,Chicken Breast,Meat,3,06-07-2024,unsold
+PN016,Chicken Breast,Meat,14,05-07-2024,sold
+PN016,Chicken Breast,Meat,1,28-06-2024,unsold
+PN016,Chicken Breast,Meat,1,27-06-2024,unsold
+PN016,Chicken Breast,Meat,14,07-06-2024,sold
+PN016,Chicken Breast,Meat,3,05-06-2024,unsold
+PN016,Chicken Breast,Meat,3,03-06-2024,sold
+PN016,Chicken Breast,Meat,3,03-06-2024,unsold
+PN016,Chicken Breast,Meat,1,03-06-2024,unsold
+PN016,Chicken Breast,Meat,1,26-05-2024,unsold
+PN016,Chicken Breast,Meat,5,25-05-2024,sold
+PN016,Chicken Breast,Meat,19,25-05-2024,sold
+PN016,Chicken Breast,Meat,9,17-05-2024,sold
+PN016,Chicken Breast,Meat,14,08-05-2024,sold
+PN016,Chicken Breast,Meat,1,07-05-2024,unsold
+PN016,Chicken Breast,Meat,11,05-05-2024,sold
+PN016,Chicken Breast,Meat,18,03-05-2024,sold
+PN016,Chicken Breast,Meat,6,02-05-2024,sold
+PN016,Chicken Breast,Meat,7,30-04-2024,sold
+PN016,Chicken Breast,Meat,9,29-04-2024,sold
+PN016,Chicken Breast,Meat,9,27-04-2024,sold
+PN016,Chicken Breast,Meat,3,22-04-2024,sold
+PN016,Chicken Breast,Meat,2,14-04-2024,sold
+PN016,Chicken Breast,Meat,15,10-04-2024,sold
+PN016,Chicken Breast,Meat,20,03-04-2024,sold
+PN016,Chicken Breast,Meat,19,30-03-2024,sold
+PN016,Chicken Breast,Meat,8,20-03-2024,sold
+PN016,Chicken Breast,Meat,5,20-03-2024,sold
+PN016,Chicken Breast,Meat,8,19-03-2024,sold
+PN016,Chicken Breast,Meat,3,01-03-2024,sold
+PN016,Chicken Breast,Meat,3,01-03-2024,unsold
+PN016,Chicken Breast,Meat,3,22-02-2024,unsold
+PN016,Chicken Breast,Meat,2,22-02-2024,unsold
+PN016,Chicken Breast,Meat,8,07-02-2024,sold
+PN016,Chicken Breast,Meat,8,03-02-2024,sold
+PN016,Chicken Breast,Meat,7,31-01-2024,sold
+PN016,Chicken Breast,Meat,3,22-01-2024,sold
+PN016,Chicken Breast,Meat,15,21-01-2024,sold
+PN016,Chicken Breast,Meat,5,15-01-2024,sold
+PN016,Chicken Breast,Meat,2,14-01-2024,sold
+PN016,Chicken Breast,Meat,5,10-01-2024,sold
+PN017,Chocolates,Confectionery,2,29-12-2025,sold
+PN017,Chocolates,Confectionery,7,27-12-2025,sold
+PN017,Chocolates,Confectionery,4,25-12-2025,sold
+PN017,Chocolates,Confectionery,5,07-12-2025,sold
+PN017,Chocolates,Confectionery,15,04-12-2025,sold
+PN017,Chocolates,Confectionery,5,29-11-2025,sold
+PN017,Chocolates,Confectionery,16,05-11-2025,sold
+PN017,Chocolates,Confectionery,13,05-11-2025,sold
+PN017,Chocolates,Confectionery,4,04-11-2025,sold
+PN017,Chocolates,Confectionery,1,27-10-2025,sold
+PN017,Chocolates,Confectionery,16,18-10-2025,sold
+PN017,Chocolates,Confectionery,2,02-10-2025,sold
+PN017,Chocolates,Confectionery,3,30-09-2025,sold
+PN017,Chocolates,Confectionery,2,17-09-2025,sold
+PN017,Chocolates,Confectionery,7,01-09-2025,sold
+PN017,Chocolates,Confectionery,16,22-08-2025,sold
+PN017,Chocolates,Confectionery,15,21-08-2025,sold
+PN017,Chocolates,Confectionery,1,10-08-2025,sold
+PN017,Chocolates,Confectionery,14,29-07-2025,sold
+PN017,Chocolates,Confectionery,20,24-07-2025,sold
+PN017,Chocolates,Confectionery,3,23-07-2025,sold
+PN017,Chocolates,Confectionery,15,10-07-2025,sold
+PN017,Chocolates,Confectionery,9,08-07-2025,sold
+PN017,Chocolates,Confectionery,18,26-06-2025,sold
+PN017,Chocolates,Confectionery,7,07-06-2025,sold
+PN017,Chocolates,Confectionery,11,02-06-2025,sold
+PN017,Chocolates,Confectionery,15,01-06-2025,sold
+PN017,Chocolates,Confectionery,2,23-05-2025,sold
+PN017,Chocolates,Confectionery,1,21-05-2025,sold
+PN017,Chocolates,Confectionery,3,17-05-2025,sold
+PN017,Chocolates,Confectionery,19,06-05-2025,sold
+PN017,Chocolates,Confectionery,1,15-04-2025,sold
+PN017,Chocolates,Confectionery,14,13-04-2025,sold
+PN017,Chocolates,Confectionery,10,09-04-2025,sold
+PN017,Chocolates,Confectionery,6,06-04-2025,sold
+PN017,Chocolates,Confectionery,12,31-03-2025,sold
+PN017,Chocolates,Confectionery,5,31-03-2025,sold
+PN017,Chocolates,Confectionery,16,31-03-2025,sold
+PN017,Chocolates,Confectionery,7,31-03-2025,sold
+PN017,Chocolates,Confectionery,18,31-03-2025,sold
+PN017,Chocolates,Confectionery,3,22-03-2025,sold
+PN017,Chocolates,Confectionery,18,25-02-2025,sold
+PN017,Chocolates,Confectionery,1,20-02-2025,sold
+PN017,Chocolates,Confectionery,19,13-02-2025,sold
+PN017,Chocolates,Confectionery,6,13-02-2025,sold
+PN017,Chocolates,Confectionery,16,03-02-2025,sold
+PN017,Chocolates,Confectionery,14,16-01-2025,sold
+PN017,Chocolates,Confectionery,2,04-01-2025,sold
+PN017,Chocolates,Confectionery,17,03-01-2025,sold
+PN017,Chocolates,Confectionery,4,30-12-2024,sold
+PN017,Chocolates,Confectionery,19,05-11-2024,sold
+PN017,Chocolates,Confectionery,8,31-10-2024,sold
+PN017,Chocolates,Confectionery,4,28-10-2024,sold
+PN017,Chocolates,Confectionery,14,02-10-2024,sold
+PN017,Chocolates,Confectionery,12,06-09-2024,sold
+PN017,Chocolates,Confectionery,9,01-09-2024,sold
+PN017,Chocolates,Confectionery,2,25-07-2024,sold
+PN017,Chocolates,Confectionery,12,12-07-2024,sold
+PN017,Chocolates,Confectionery,4,18-06-2024,sold
+PN017,Chocolates,Confectionery,7,26-05-2024,sold
+PN017,Chocolates,Confectionery,19,24-04-2024,sold
+PN017,Chocolates,Confectionery,17,02-04-2024,sold
+PN017,Chocolates,Confectionery,20,20-03-2024,sold
+PN017,Chocolates,Confectionery,15,06-03-2024,sold
+PN017,Chocolates,Confectionery,4,02-03-2024,unsold
+PN017,Chocolates,Confectionery,19,15-02-2024,sold
+PN017,Chocolates,Confectionery,14,06-02-2024,sold
+PN017,Chocolates,Confectionery,14,30-01-2024,sold
+PN018,Cinnamon,Spices,17,08-12-2026,sold
+PN018,Cinnamon,Spices,8,08-12-2026,sold
+PN018,Cinnamon,Spices,4,06-12-2026,sold
+PN018,Cinnamon,Spices,14,03-12-2026,sold
+PN018,Cinnamon,Spices,5,03-12-2026,sold
+PN018,Cinnamon,Spices,6,31-10-2026,sold
+PN018,Cinnamon,Spices,10,31-10-2026,sold
+PN018,Cinnamon,Spices,8,31-10-2026,sold
+PN018,Cinnamon,Spices,13,20-10-2026,sold
+PN018,Cinnamon,Spices,14,13-10-2026,sold
+PN018,Cinnamon,Spices,5,02-10-2026,sold
+PN018,Cinnamon,Spices,2,02-10-2026,sold
+PN018,Cinnamon,Spices,5,01-10-2026,sold
+PN018,Cinnamon,Spices,10,28-09-2026,sold
+PN018,Cinnamon,Spices,8,27-09-2026,sold
+PN018,Cinnamon,Spices,17,23-09-2026,sold
+PN018,Cinnamon,Spices,3,21-09-2026,sold
+PN018,Cinnamon,Spices,18,01-09-2026,sold
+PN018,Cinnamon,Spices,11,31-08-2026,sold
+PN018,Cinnamon,Spices,20,31-07-2026,sold
+PN018,Cinnamon,Spices,7,11-07-2026,sold
+PN018,Cinnamon,Spices,14,28-06-2026,sold
+PN018,Cinnamon,Spices,20,28-06-2026,sold
+PN018,Cinnamon,Spices,3,23-06-2026,sold
+PN018,Cinnamon,Spices,4,12-06-2026,sold
+PN018,Cinnamon,Spices,14,01-06-2026,sold
+PN018,Cinnamon,Spices,16,01-06-2026,sold
+PN018,Cinnamon,Spices,4,25-04-2026,sold
+PN018,Cinnamon,Spices,10,18-04-2026,sold
+PN018,Cinnamon,Spices,10,30-03-2026,sold
+PN018,Cinnamon,Spices,1,18-03-2026,sold
+PN018,Cinnamon,Spices,4,05-03-2026,sold
+PN018,Cinnamon,Spices,1,25-02-2026,sold
+PN018,Cinnamon,Spices,4,20-02-2026,sold
+PN018,Cinnamon,Spices,11,28-01-2026,sold
+PN018,Cinnamon,Spices,19,27-01-2026,sold
+PN018,Cinnamon,Spices,16,26-01-2026,sold
+PN018,Cinnamon,Spices,4,11-12-2024,sold
+PN018,Cinnamon,Spices,15,13-11-2024,sold
+PN018,Cinnamon,Spices,15,31-10-2024,sold
+PN018,Cinnamon,Spices,10,24-10-2024,sold
+PN018,Cinnamon,Spices,9,16-10-2024,sold
+PN018,Cinnamon,Spices,7,27-09-2024,sold
+PN018,Cinnamon,Spices,3,26-09-2024,sold
+PN018,Cinnamon,Spices,8,15-08-2024,sold
+PN018,Cinnamon,Spices,2,04-08-2024,sold
+PN018,Cinnamon,Spices,8,15-07-2024,sold
+PN018,Cinnamon,Spices,19,23-05-2024,sold
+PN018,Cinnamon,Spices,3,17-04-2024,sold
+PN018,Cinnamon,Spices,2,27-03-2024,sold
+PN018,Cinnamon,Spices,6,26-02-2024,sold
+PN018,Cinnamon,Spices,5,15-02-2024,sold
+PN018,Cinnamon,Spices,11,12-01-2024,sold
+PN019,Coffee,Beverages,4,22-12-2025,sold
+PN019,Coffee,Beverages,16,18-11-2025,sold
+PN019,Coffee,Beverages,13,10-11-2025,sold
+PN019,Coffee,Beverages,10,23-10-2025,sold
+PN019,Coffee,Beverages,3,18-10-2025,sold
+PN019,Coffee,Beverages,12,11-10-2025,sold
+PN019,Coffee,Beverages,6,04-10-2025,sold
+PN019,Coffee,Beverages,4,28-09-2025,sold
+PN019,Coffee,Beverages,12,15-09-2025,sold
+PN019,Coffee,Beverages,19,09-09-2025,sold
+PN019,Coffee,Beverages,19,01-09-2025,sold
+PN019,Coffee,Beverages,19,04-08-2025,sold
+PN019,Coffee,Beverages,20,17-07-2025,sold
+PN019,Coffee,Beverages,18,29-06-2025,sold
+PN019,Coffee,Beverages,6,21-06-2025,sold
+PN019,Coffee,Beverages,2,17-06-2025,sold
+PN019,Coffee,Beverages,9,16-06-2025,sold
+PN019,Coffee,Beverages,18,25-05-2025,sold
+PN019,Coffee,Beverages,20,05-05-2025,sold
+PN019,Coffee,Beverages,3,07-04-2025,sold
+PN019,Coffee,Beverages,19,28-03-2025,sold
+PN019,Coffee,Beverages,16,11-03-2025,sold
+PN019,Coffee,Beverages,4,03-03-2025,sold
+PN019,Coffee,Beverages,13,25-02-2025,sold
+PN019,Coffee,Beverages,10,15-02-2025,sold
+PN019,Coffee,Beverages,2,15-02-2025,sold
+PN019,Coffee,Beverages,14,10-02-2025,sold
+PN019,Coffee,Beverages,8,04-02-2025,sold
+PN019,Coffee,Beverages,10,07-01-2025,sold
+PN019,Coffee,Beverages,12,07-01-2025,sold
+PN019,Coffee,Beverages,26,31-12-2024,sold
+PN019,Coffee,Beverages,14,31-12-2024,sold
+PN019,Coffee,Beverages,14,27-09-2024,sold
+PN019,Coffee,Beverages,16,22-09-2024,sold
+PN019,Coffee,Beverages,11,10-08-2024,sold
+PN019,Coffee,Beverages,1,15-07-2024,sold
+PN019,Coffee,Beverages,18,24-06-2024,sold
+PN019,Coffee,Beverages,8,05-06-2024,sold
+PN019,Coffee,Beverages,9,12-05-2024,sold
+PN019,Coffee,Beverages,7,10-05-2024,sold
+PN019,Coffee,Beverages,14,22-04-2024,sold
+PN019,Coffee,Beverages,3,06-04-2024,unsold
+PN019,Coffee,Beverages,2,02-03-2024,unsold
+PN019,Coffee,Beverages,9,21-02-2024,sold
+PN019,Coffee,Beverages,16,30-01-2024,sold
+PN020,Croissants,Bakery,18,25-01-2025,sold
+PN020,Croissants,Bakery,13,14-01-2025,sold
+PN020,Croissants,Bakery,4,04-01-2025,sold
+PN020,Croissants,Bakery,2,28-12-2024,unsold
+PN020,Croissants,Bakery,1,26-12-2024,sold
+PN020,Croissants,Bakery,12,23-12-2024,sold
+PN020,Croissants,Bakery,1,19-12-2024,unsold
+PN020,Croissants,Bakery,13,06-12-2024,sold
+PN020,Croissants,Bakery,1,06-12-2024,unsold
+PN020,Croissants,Bakery,5,06-12-2024,unsold
+PN020,Croissants,Bakery,11,03-12-2024,sold
+PN020,Croissants,Bakery,18,02-12-2024,sold
+PN020,Croissants,Bakery,14,23-11-2024,sold
+PN020,Croissants,Bakery,2,21-11-2024,unsold
+PN020,Croissants,Bakery,8,19-11-2024,sold
+PN020,Croissants,Bakery,3,17-11-2024,sold
+PN020,Croissants,Bakery,3,15-11-2024,sold
+PN020,Croissants,Bakery,2,15-11-2024,unsold
+PN020,Croissants,Bakery,2,14-11-2024,unsold
+PN020,Croissants,Bakery,5,06-11-2024,unsold
+PN020,Croissants,Bakery,18,04-11-2024,sold
+PN020,Croissants,Bakery,14,31-10-2024,sold
+PN020,Croissants,Bakery,20,29-10-2024,sold
+PN020,Croissants,Bakery,3,27-10-2024,unsold
+PN020,Croissants,Bakery,2,24-10-2024,unsold
+PN020,Croissants,Bakery,2,22-10-2024,unsold
+PN020,Croissants,Bakery,1,21-10-2024,unsold
+PN020,Croissants,Bakery,17,20-10-2024,sold
+PN020,Croissants,Bakery,13,16-10-2024,sold
+PN020,Croissants,Bakery,10,08-10-2024,sold
+PN020,Croissants,Bakery,6,01-10-2024,sold
+PN020,Croissants,Bakery,15,30-09-2024,sold
+PN020,Croissants,Bakery,14,19-09-2024,sold
+PN020,Croissants,Bakery,2,16-09-2024,sold
+PN020,Croissants,Bakery,4,15-09-2024,unsold
+PN020,Croissants,Bakery,4,07-09-2024,unsold
+PN020,Croissants,Bakery,12,05-09-2024,sold
+PN020,Croissants,Bakery,12,04-09-2024,sold
+PN020,Croissants,Bakery,12,01-09-2024,sold
+PN020,Croissants,Bakery,16,31-08-2024,sold
+PN020,Croissants,Bakery,3,29-08-2024,unsold
+PN020,Croissants,Bakery,4,26-08-2024,sold
+PN020,Croissants,Bakery,5,24-08-2024,sold
+PN020,Croissants,Bakery,3,20-08-2024,sold
+PN020,Croissants,Bakery,8,19-08-2024,sold
+PN020,Croissants,Bakery,10,14-08-2024,sold
+PN020,Croissants,Bakery,9,14-08-2024,sold
+PN020,Croissants,Bakery,19,14-08-2024,sold
+PN020,Croissants,Bakery,12,14-08-2024,sold
+PN020,Croissants,Bakery,15,14-08-2024,sold
+PN020,Croissants,Bakery,3,13-08-2024,sold
+PN020,Croissants,Bakery,1,10-08-2024,unsold
+PN020,Croissants,Bakery,5,09-08-2024,sold
+PN020,Croissants,Bakery,4,05-08-2024,unsold
+PN020,Croissants,Bakery,19,04-08-2024,sold
+PN020,Croissants,Bakery,3,23-07-2024,unsold
+PN020,Croissants,Bakery,5,18-07-2024,sold
+PN020,Croissants,Bakery,10,08-07-2024,sold
+PN020,Croissants,Bakery,19,05-07-2024,sold
+PN020,Croissants,Bakery,4,28-06-2024,unsold
+PN020,Croissants,Bakery,18,19-06-2024,sold
+PN020,Croissants,Bakery,3,18-06-2024,unsold
+PN020,Croissants,Bakery,9,06-06-2024,sold
+PN020,Croissants,Bakery,3,03-06-2024,sold
+PN020,Croissants,Bakery,17,22-05-2024,sold
+PN020,Croissants,Bakery,20,21-05-2024,sold
+PN020,Croissants,Bakery,12,09-05-2024,sold
+PN020,Croissants,Bakery,3,06-05-2024,sold
+PN020,Croissants,Bakery,5,30-04-2024,sold
+PN020,Croissants,Bakery,1,25-04-2024,sold
+PN020,Croissants,Bakery,9,21-04-2024,sold
+PN020,Croissants,Bakery,12,17-04-2024,sold
+PN020,Croissants,Bakery,3,15-04-2024,unsold
+PN020,Croissants,Bakery,2,14-04-2024,unsold
+PN020,Croissants,Bakery,2,11-04-2024,sold
+PN020,Croissants,Bakery,1,10-04-2024,unsold
+PN020,Croissants,Bakery,4,06-04-2024,unsold
+PN020,Croissants,Bakery,1,06-04-2024,unsold
+PN020,Croissants,Bakery,20,23-03-2024,sold
+PN020,Croissants,Bakery,4,14-03-2024,unsold
+PN020,Croissants,Bakery,3,14-03-2024,unsold
+PN020,Croissants,Bakery,4,13-03-2024,sold
+PN020,Croissants,Bakery,4,09-03-2024,unsold
+PN020,Croissants,Bakery,7,02-03-2024,sold
+PN020,Croissants,Bakery,3,02-03-2024,unsold
+PN020,Croissants,Bakery,4,25-02-2024,unsold
+PN020,Croissants,Bakery,1,22-02-2024,unsold
+PN020,Croissants,Bakery,15,16-02-2024,sold
+PN020,Croissants,Bakery,3,12-02-2024,sold
+PN020,Croissants,Bakery,19,08-02-2024,sold
+PN020,Croissants,Bakery,14,02-02-2024,sold
+PN020,Croissants,Bakery,7,31-01-2024,sold
+PN020,Croissants,Bakery,4,15-01-2024,sold
+PN020,Croissants,Bakery,3,05-01-2024,sold
+PN020,Croissants,Bakery,3,04-01-2024,unsold
+PN021,Cucumber,Vegetables,3,13-12-2024,unsold
+PN021,Cucumber,Vegetables,11,09-12-2024,sold
+PN021,Cucumber,Vegetables,1,06-12-2024,unsold
+PN021,Cucumber,Vegetables,5,02-12-2024,sold
+PN021,Cucumber,Vegetables,8,30-11-2024,sold
+PN021,Cucumber,Vegetables,16,26-11-2024,sold
+PN021,Cucumber,Vegetables,1,19-11-2024,unsold
+PN021,Cucumber,Vegetables,11,15-11-2024,sold
+PN021,Cucumber,Vegetables,5,14-11-2024,unsold
+PN021,Cucumber,Vegetables,4,14-11-2024,unsold
+PN021,Cucumber,Vegetables,3,14-11-2024,unsold
+PN021,Cucumber,Vegetables,20,29-10-2024,sold
+PN021,Cucumber,Vegetables,4,23-10-2024,unsold
+PN021,Cucumber,Vegetables,4,23-10-2024,unsold
+PN021,Cucumber,Vegetables,18,17-10-2024,sold
+PN021,Cucumber,Vegetables,20,14-10-2024,sold
+PN021,Cucumber,Vegetables,16,07-10-2024,sold
+PN021,Cucumber,Vegetables,10,07-10-2024,sold
+PN021,Cucumber,Vegetables,2,05-10-2024,sold
+PN021,Cucumber,Vegetables,18,01-10-2024,sold
+PN021,Cucumber,Vegetables,1,30-09-2024,sold
+PN021,Cucumber,Vegetables,10,27-09-2024,sold
+PN021,Cucumber,Vegetables,5,24-09-2024,unsold
+PN021,Cucumber,Vegetables,4,19-09-2024,unsold
+PN021,Cucumber,Vegetables,1,18-09-2024,unsold
+PN021,Cucumber,Vegetables,6,15-09-2024,sold
+PN021,Cucumber,Vegetables,12,10-09-2024,sold
+PN021,Cucumber,Vegetables,11,09-09-2024,sold
+PN021,Cucumber,Vegetables,20,08-09-2024,sold
+PN021,Cucumber,Vegetables,10,07-09-2024,sold
+PN021,Cucumber,Vegetables,3,07-09-2024,sold
+PN021,Cucumber,Vegetables,1,05-09-2024,unsold
+PN021,Cucumber,Vegetables,15,02-09-2024,sold
+PN021,Cucumber,Vegetables,3,30-08-2024,unsold
+PN021,Cucumber,Vegetables,2,27-08-2024,unsold
+PN021,Cucumber,Vegetables,19,22-08-2024,sold
+PN021,Cucumber,Vegetables,12,18-08-2024,sold
+PN021,Cucumber,Vegetables,15,08-08-2024,sold
+PN021,Cucumber,Vegetables,15,01-08-2024,sold
+PN021,Cucumber,Vegetables,2,22-07-2024,sold
+PN021,Cucumber,Vegetables,8,17-07-2024,sold
+PN021,Cucumber,Vegetables,4,17-07-2024,unsold
+PN021,Cucumber,Vegetables,11,14-07-2024,sold
+PN021,Cucumber,Vegetables,14,05-07-2024,sold
+PN021,Cucumber,Vegetables,4,01-07-2024,unsold
+PN021,Cucumber,Vegetables,9,20-06-2024,sold
+PN021,Cucumber,Vegetables,5,15-06-2024,unsold
+PN021,Cucumber,Vegetables,18,12-06-2024,sold
+PN021,Cucumber,Vegetables,4,12-06-2024,unsold
+PN021,Cucumber,Vegetables,16,03-06-2024,sold
+PN021,Cucumber,Vegetables,1,03-06-2024,unsold
+PN021,Cucumber,Vegetables,20,01-06-2024,sold
+PN021,Cucumber,Vegetables,5,29-05-2024,sold
+PN021,Cucumber,Vegetables,18,19-05-2024,sold
+PN021,Cucumber,Vegetables,3,14-05-2024,unsold
+PN021,Cucumber,Vegetables,5,10-05-2024,sold
+PN021,Cucumber,Vegetables,19,07-05-2024,sold
+PN021,Cucumber,Vegetables,8,04-05-2024,sold
+PN021,Cucumber,Vegetables,3,03-05-2024,unsold
+PN021,Cucumber,Vegetables,13,25-04-2024,sold
+PN021,Cucumber,Vegetables,2,21-04-2024,sold
+PN021,Cucumber,Vegetables,16,17-04-2024,sold
+PN021,Cucumber,Vegetables,3,14-04-2024,unsold
+PN021,Cucumber,Vegetables,7,08-04-2024,sold
+PN021,Cucumber,Vegetables,4,07-04-2024,sold
+PN021,Cucumber,Vegetables,11,05-04-2024,sold
+PN021,Cucumber,Vegetables,16,01-04-2024,sold
+PN021,Cucumber,Vegetables,12,26-03-2024,sold
+PN021,Cucumber,Vegetables,5,23-03-2024,unsold
+PN021,Cucumber,Vegetables,3,21-03-2024,sold
+PN021,Cucumber,Vegetables,2,21-03-2024,sold
+PN021,Cucumber,Vegetables,5,18-03-2024,unsold
+PN021,Cucumber,Vegetables,12,17-03-2024,sold
+PN021,Cucumber,Vegetables,16,13-03-2024,sold
+PN021,Cucumber,Vegetables,3,11-03-2024,unsold
+PN021,Cucumber,Vegetables,3,07-03-2024,unsold
+PN021,Cucumber,Vegetables,4,01-03-2024,unsold
+PN021,Cucumber,Vegetables,8,27-02-2024,sold
+PN021,Cucumber,Vegetables,13,19-02-2024,sold
+PN021,Cucumber,Vegetables,2,17-02-2024,unsold
+PN021,Cucumber,Vegetables,3,08-02-2024,unsold
+PN021,Cucumber,Vegetables,14,27-01-2024,sold
+PN021,Cucumber,Vegetables,19,22-01-2024,sold
+PN021,Cucumber,Vegetables,11,17-01-2024,sold
+PN021,Cucumber,Vegetables,1,04-01-2024,unsold
+PN022,Easter Eggs,Confectionery,19,28-12-2025,sold
+PN022,Easter Eggs,Confectionery,6,23-12-2025,sold
+PN022,Easter Eggs,Confectionery,16,18-12-2025,sold
+PN022,Easter Eggs,Confectionery,14,09-12-2025,sold
+PN022,Easter Eggs,Confectionery,17,09-12-2025,sold
+PN022,Easter Eggs,Confectionery,20,22-11-2025,sold
+PN022,Easter Eggs,Confectionery,3,20-11-2025,sold
+PN022,Easter Eggs,Confectionery,3,09-11-2025,sold
+PN022,Easter Eggs,Confectionery,5,22-10-2025,sold
+PN022,Easter Eggs,Confectionery,4,20-10-2025,sold
+PN022,Easter Eggs,Confectionery,14,29-09-2025,sold
+PN022,Easter Eggs,Confectionery,13,25-09-2025,sold
+PN022,Easter Eggs,Confectionery,10,25-09-2025,sold
+PN022,Easter Eggs,Confectionery,19,16-09-2025,sold
+PN022,Easter Eggs,Confectionery,15,05-09-2025,sold
+PN022,Easter Eggs,Confectionery,9,29-08-2025,sold
+PN022,Easter Eggs,Confectionery,7,26-08-2025,sold
+PN022,Easter Eggs,Confectionery,14,17-08-2025,sold
+PN022,Easter Eggs,Confectionery,6,16-08-2025,sold
+PN022,Easter Eggs,Confectionery,14,12-08-2025,sold
+PN022,Easter Eggs,Confectionery,13,23-07-2025,sold
+PN022,Easter Eggs,Confectionery,9,20-07-2025,sold
+PN022,Easter Eggs,Confectionery,13,17-07-2025,sold
+PN022,Easter Eggs,Confectionery,14,07-07-2025,sold
+PN022,Easter Eggs,Confectionery,1,26-06-2025,sold
+PN022,Easter Eggs,Confectionery,7,25-06-2025,sold
+PN022,Easter Eggs,Confectionery,18,21-06-2025,sold
+PN022,Easter Eggs,Confectionery,12,07-06-2025,sold
+PN022,Easter Eggs,Confectionery,17,05-06-2025,sold
+PN022,Easter Eggs,Confectionery,9,02-06-2025,sold
+PN022,Easter Eggs,Confectionery,3,26-05-2025,sold
+PN022,Easter Eggs,Confectionery,9,21-05-2025,sold
+PN022,Easter Eggs,Confectionery,15,17-05-2025,sold
+PN022,Easter Eggs,Confectionery,12,01-05-2025,sold
+PN022,Easter Eggs,Confectionery,16,23-04-2025,sold
+PN022,Easter Eggs,Confectionery,9,22-04-2025,sold
+PN022,Easter Eggs,Confectionery,14,19-04-2025,sold
+PN022,Easter Eggs,Confectionery,13,05-04-2025,sold
+PN022,Easter Eggs,Confectionery,2,04-04-2025,sold
+PN022,Easter Eggs,Confectionery,15,31-03-2025,sold
+PN022,Easter Eggs,Confectionery,6,31-03-2025,sold
+PN022,Easter Eggs,Confectionery,11,31-03-2025,sold
+PN022,Easter Eggs,Confectionery,10,29-03-2025,sold
+PN022,Easter Eggs,Confectionery,3,26-03-2025,sold
+PN022,Easter Eggs,Confectionery,11,26-03-2025,sold
+PN022,Easter Eggs,Confectionery,16,23-03-2025,sold
+PN022,Easter Eggs,Confectionery,18,22-03-2025,sold
+PN022,Easter Eggs,Confectionery,18,20-03-2025,sold
+PN022,Easter Eggs,Confectionery,13,17-03-2025,sold
+PN022,Easter Eggs,Confectionery,7,09-03-2025,sold
+PN022,Easter Eggs,Confectionery,19,05-03-2025,sold
+PN022,Easter Eggs,Confectionery,18,05-03-2025,sold
+PN022,Easter Eggs,Confectionery,1,22-02-2025,sold
+PN022,Easter Eggs,Confectionery,20,15-02-2025,sold
+PN022,Easter Eggs,Confectionery,15,04-02-2025,sold
+PN022,Easter Eggs,Confectionery,17,04-02-2025,sold
+PN022,Easter Eggs,Confectionery,18,04-02-2025,sold
+PN022,Easter Eggs,Confectionery,11,13-01-2025,sold
+PN022,Easter Eggs,Confectionery,4,12-01-2025,sold
+PN022,Easter Eggs,Confectionery,4,11-01-2025,sold
+PN022,Easter Eggs,Confectionery,16,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,11,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,15,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,14,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,17,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,17,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,15,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,6,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,8,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,15,31-12-2024,sold
+PN022,Easter Eggs,Confectionery,13,03-12-2024,sold
+PN022,Easter Eggs,Confectionery,11,29-10-2024,sold
+PN022,Easter Eggs,Confectionery,8,15-07-2024,sold
+PN022,Easter Eggs,Confectionery,8,14-07-2024,sold
+PN022,Easter Eggs,Confectionery,6,07-06-2024,sold
+PN022,Easter Eggs,Confectionery,2,19-03-2024,unsold
+PN022,Easter Eggs,Confectionery,10,16-03-2024,sold
+PN022,Easter Eggs,Confectionery,15,19-02-2024,sold
+PN022,Easter Eggs,Confectionery,10,14-02-2024,sold
+PN023,Eggs,Dairy,2,20-01-2025,sold
+PN023,Eggs,Dairy,16,17-01-2025,sold
+PN023,Eggs,Dairy,3,09-01-2025,sold
+PN023,Eggs,Dairy,8,05-01-2025,sold
+PN023,Eggs,Dairy,6,23-12-2024,sold
+PN023,Eggs,Dairy,20,18-12-2024,sold
+PN023,Eggs,Dairy,16,13-12-2024,sold
+PN023,Eggs,Dairy,13,08-12-2024,sold
+PN023,Eggs,Dairy,10,29-11-2024,sold
+PN023,Eggs,Dairy,20,26-11-2024,sold
+PN023,Eggs,Dairy,12,23-11-2024,sold
+PN023,Eggs,Dairy,3,04-11-2024,sold
+PN023,Eggs,Dairy,20,29-10-2024,sold
+PN023,Eggs,Dairy,9,22-10-2024,sold
+PN023,Eggs,Dairy,1,22-10-2024,unsold
+PN023,Eggs,Dairy,14,13-10-2024,sold
+PN023,Eggs,Dairy,18,04-10-2024,sold
+PN023,Eggs,Dairy,19,03-10-2024,sold
+PN023,Eggs,Dairy,20,27-09-2024,sold
+PN023,Eggs,Dairy,17,25-09-2024,sold
+PN023,Eggs,Dairy,4,23-09-2024,sold
+PN023,Eggs,Dairy,6,12-09-2024,sold
+PN023,Eggs,Dairy,6,01-09-2024,sold
+PN023,Eggs,Dairy,2,29-08-2024,sold
+PN023,Eggs,Dairy,19,14-08-2024,sold
+PN023,Eggs,Dairy,2,11-08-2024,unsold
+PN023,Eggs,Dairy,3,10-08-2024,unsold
+PN023,Eggs,Dairy,4,02-08-2024,unsold
+PN023,Eggs,Dairy,4,01-08-2024,unsold
+PN023,Eggs,Dairy,4,27-07-2024,sold
+PN023,Eggs,Dairy,17,14-07-2024,sold
+PN023,Eggs,Dairy,3,13-07-2024,unsold
+PN023,Eggs,Dairy,17,11-07-2024,sold
+PN023,Eggs,Dairy,5,08-07-2024,unsold
+PN023,Eggs,Dairy,19,03-07-2024,sold
+PN023,Eggs,Dairy,10,24-06-2024,sold
+PN023,Eggs,Dairy,3,24-06-2024,sold
+PN023,Eggs,Dairy,16,19-06-2024,sold
+PN023,Eggs,Dairy,1,17-06-2024,unsold
+PN023,Eggs,Dairy,4,01-06-2024,sold
+PN023,Eggs,Dairy,8,27-05-2024,sold
+PN023,Eggs,Dairy,1,24-05-2024,sold
+PN023,Eggs,Dairy,20,22-05-2024,sold
+PN023,Eggs,Dairy,7,22-05-2024,sold
+PN023,Eggs,Dairy,17,15-05-2024,sold
+PN023,Eggs,Dairy,5,15-05-2024,unsold
+PN023,Eggs,Dairy,19,11-05-2024,sold
+PN023,Eggs,Dairy,1,11-05-2024,unsold
+PN023,Eggs,Dairy,17,06-05-2024,sold
+PN023,Eggs,Dairy,15,06-05-2024,sold
+PN023,Eggs,Dairy,14,02-05-2024,sold
+PN023,Eggs,Dairy,5,26-04-2024,sold
+PN023,Eggs,Dairy,2,19-04-2024,unsold
+PN023,Eggs,Dairy,9,12-04-2024,sold
+PN023,Eggs,Dairy,17,11-04-2024,sold
+PN023,Eggs,Dairy,1,07-04-2024,sold
+PN023,Eggs,Dairy,2,30-03-2024,sold
+PN023,Eggs,Dairy,20,28-03-2024,sold
+PN023,Eggs,Dairy,19,26-03-2024,sold
+PN023,Eggs,Dairy,9,11-03-2024,sold
+PN023,Eggs,Dairy,5,10-03-2024,sold
+PN023,Eggs,Dairy,14,10-03-2024,sold
+PN023,Eggs,Dairy,3,04-03-2024,unsold
+PN023,Eggs,Dairy,9,26-02-2024,sold
+PN023,Eggs,Dairy,9,26-02-2024,sold
+PN023,Eggs,Dairy,3,19-02-2024,sold
+PN023,Eggs,Dairy,5,06-02-2024,unsold
+PN023,Eggs,Dairy,5,06-02-2024,unsold
+PN023,Eggs,Dairy,9,29-01-2024,sold
+PN023,Eggs,Dairy,2,23-01-2024,sold
+PN023,Eggs,Dairy,19,22-01-2024,sold
+PN023,Eggs,Dairy,16,22-01-2024,sold
+PN023,Eggs,Dairy,11,22-01-2024,sold
+PN023,Eggs,Dairy,6,22-01-2024,sold
+PN023,Eggs,Dairy,5,22-01-2024,sold
+PN023,Eggs,Dairy,11,22-01-2024,sold
+PN024,Guinness,Beverages,17,26-07-2025,sold
+PN024,Guinness,Beverages,3,25-07-2025,sold
+PN024,Guinness,Beverages,4,21-07-2025,sold
+PN024,Guinness,Beverages,20,16-07-2025,sold
+PN024,Guinness,Beverages,5,11-07-2025,sold
+PN024,Guinness,Beverages,17,10-07-2025,sold
+PN024,Guinness,Beverages,11,01-07-2025,sold
+PN024,Guinness,Beverages,6,30-06-2025,sold
+PN024,Guinness,Beverages,1,30-06-2025,sold
+PN024,Guinness,Beverages,12,17-06-2025,sold
+PN024,Guinness,Beverages,17,30-05-2025,sold
+PN024,Guinness,Beverages,10,24-05-2025,sold
+PN024,Guinness,Beverages,4,15-05-2025,sold
+PN024,Guinness,Beverages,9,12-05-2025,sold
+PN024,Guinness,Beverages,7,04-05-2025,sold
+PN024,Guinness,Beverages,6,03-05-2025,sold
+PN024,Guinness,Beverages,16,17-04-2025,sold
+PN024,Guinness,Beverages,3,12-04-2025,sold
+PN024,Guinness,Beverages,7,06-04-2025,sold
+PN024,Guinness,Beverages,2,30-03-2025,sold
+PN024,Guinness,Beverages,14,27-03-2025,sold
+PN024,Guinness,Beverages,5,03-03-2025,sold
+PN024,Guinness,Beverages,11,21-02-2025,sold
+PN024,Guinness,Beverages,14,16-02-2025,sold
+PN024,Guinness,Beverages,12,14-02-2025,sold
+PN024,Guinness,Beverages,16,01-01-2025,sold
+PN024,Guinness,Beverages,8,17-12-2024,sold
+PN024,Guinness,Beverages,20,05-12-2024,sold
+PN024,Guinness,Beverages,1,28-11-2024,sold
+PN024,Guinness,Beverages,14,17-11-2024,sold
+PN024,Guinness,Beverages,15,16-11-2024,sold
+PN024,Guinness,Beverages,19,14-11-2024,sold
+PN024,Guinness,Beverages,14,13-11-2024,sold
+PN024,Guinness,Beverages,6,12-11-2024,sold
+PN024,Guinness,Beverages,20,11-11-2024,sold
+PN024,Guinness,Beverages,4,06-11-2024,unsold
+PN024,Guinness,Beverages,17,03-11-2024,sold
+PN024,Guinness,Beverages,14,24-10-2024,sold
+PN024,Guinness,Beverages,2,17-10-2024,sold
+PN024,Guinness,Beverages,7,14-10-2024,sold
+PN024,Guinness,Beverages,21,13-10-2024,sold
+PN024,Guinness,Beverages,29,13-10-2024,sold
+PN024,Guinness,Beverages,23,13-10-2024,sold
+PN024,Guinness,Beverages,23,13-10-2024,sold
+PN024,Guinness,Beverages,12,13-10-2024,sold
+PN024,Guinness,Beverages,5,02-10-2024,sold
+PN024,Guinness,Beverages,12,30-09-2024,sold
+PN024,Guinness,Beverages,4,15-09-2024,unsold
+PN024,Guinness,Beverages,14,14-09-2024,sold
+PN024,Guinness,Beverages,3,10-09-2024,sold
+PN024,Guinness,Beverages,16,03-09-2024,sold
+PN024,Guinness,Beverages,2,27-08-2024,sold
+PN024,Guinness,Beverages,4,20-08-2024,sold
+PN024,Guinness,Beverages,9,19-08-2024,sold
+PN024,Guinness,Beverages,20,17-08-2024,sold
+PN024,Guinness,Beverages,6,15-08-2024,sold
+PN024,Guinness,Beverages,2,10-08-2024,unsold
+PN024,Guinness,Beverages,5,07-08-2024,sold
+PN024,Guinness,Beverages,8,05-08-2024,sold
+PN024,Guinness,Beverages,18,20-07-2024,sold
+PN024,Guinness,Beverages,3,01-07-2024,unsold
+PN024,Guinness,Beverages,11,30-06-2024,sold
+PN024,Guinness,Beverages,5,26-06-2024,sold
+PN024,Guinness,Beverages,20,06-06-2024,sold
+PN024,Guinness,Beverages,2,13-05-2024,unsold
+PN024,Guinness,Beverages,5,01-04-2024,unsold
+PN024,Guinness,Beverages,5,21-03-2024,sold
+PN024,Guinness,Beverages,18,21-02-2024,sold
+PN024,Guinness,Beverages,9,14-02-2024,sold
+PN024,Guinness,Beverages,5,10-02-2024,unsold
+PN024,Guinness,Beverages,3,10-02-2024,unsold
+PN024,Guinness,Beverages,11,19-01-2024,sold
+PN025,Ham,Meat,18,04-01-2025,sold
+PN025,Ham,Meat,11,04-01-2025,sold
+PN025,Ham,Meat,14,04-01-2025,sold
+PN025,Ham,Meat,19,04-01-2025,sold
+PN025,Ham,Meat,17,04-01-2025,sold
+PN025,Ham,Meat,15,02-01-2025,sold
+PN025,Ham,Meat,10,02-01-2025,sold
+PN025,Ham,Meat,6,26-12-2024,sold
+PN025,Ham,Meat,6,21-12-2024,sold
+PN025,Ham,Meat,16,20-12-2024,sold
+PN025,Ham,Meat,6,15-12-2024,sold
+PN025,Ham,Meat,4,01-12-2024,sold
+PN025,Ham,Meat,2,30-11-2024,sold
+PN025,Ham,Meat,8,29-11-2024,sold
+PN025,Ham,Meat,3,27-11-2024,sold
+PN025,Ham,Meat,9,24-11-2024,sold
+PN025,Ham,Meat,20,22-11-2024,sold
+PN025,Ham,Meat,2,21-11-2024,unsold
+PN025,Ham,Meat,7,19-11-2024,sold
+PN025,Ham,Meat,5,19-11-2024,unsold
+PN025,Ham,Meat,9,18-11-2024,sold
+PN025,Ham,Meat,10,06-11-2024,sold
+PN025,Ham,Meat,6,24-10-2024,sold
+PN025,Ham,Meat,1,16-10-2024,sold
+PN025,Ham,Meat,8,16-10-2024,sold
+PN025,Ham,Meat,3,15-10-2024,sold
+PN025,Ham,Meat,14,14-10-2024,sold
+PN025,Ham,Meat,3,13-10-2024,sold
+PN025,Ham,Meat,8,07-10-2024,sold
+PN025,Ham,Meat,2,28-09-2024,sold
+PN025,Ham,Meat,2,26-09-2024,sold
+PN025,Ham,Meat,20,26-09-2024,sold
+PN025,Ham,Meat,2,24-09-2024,sold
+PN025,Ham,Meat,14,16-09-2024,sold
+PN025,Ham,Meat,18,13-09-2024,sold
+PN025,Ham,Meat,19,05-09-2024,sold
+PN025,Ham,Meat,16,05-09-2024,sold
+PN025,Ham,Meat,2,03-09-2024,sold
+PN025,Ham,Meat,2,17-08-2024,sold
+PN025,Ham,Meat,1,13-08-2024,unsold
+PN025,Ham,Meat,1,09-08-2024,sold
+PN025,Ham,Meat,17,06-08-2024,sold
+PN025,Ham,Meat,3,30-07-2024,sold
+PN025,Ham,Meat,12,25-07-2024,sold
+PN025,Ham,Meat,2,06-07-2024,sold
+PN025,Ham,Meat,17,01-07-2024,sold
+PN025,Ham,Meat,19,26-06-2024,sold
+PN025,Ham,Meat,17,24-06-2024,sold
+PN025,Ham,Meat,12,24-06-2024,sold
+PN025,Ham,Meat,5,22-06-2024,sold
+PN025,Ham,Meat,20,16-06-2024,sold
+PN025,Ham,Meat,11,12-06-2024,sold
+PN025,Ham,Meat,18,05-06-2024,sold
+PN025,Ham,Meat,14,28-05-2024,sold
+PN025,Ham,Meat,2,16-05-2024,sold
+PN025,Ham,Meat,16,16-05-2024,sold
+PN025,Ham,Meat,5,16-05-2024,unsold
+PN025,Ham,Meat,17,14-05-2024,sold
+PN025,Ham,Meat,18,13-05-2024,sold
+PN025,Ham,Meat,1,10-05-2024,sold
+PN025,Ham,Meat,5,04-05-2024,sold
+PN025,Ham,Meat,7,24-04-2024,sold
+PN025,Ham,Meat,18,15-04-2024,sold
+PN025,Ham,Meat,17,13-04-2024,sold
+PN025,Ham,Meat,2,04-04-2024,sold
+PN025,Ham,Meat,4,18-03-2024,unsold
+PN025,Ham,Meat,2,17-03-2024,sold
+PN025,Ham,Meat,4,10-03-2024,unsold
+PN025,Ham,Meat,4,04-03-2024,unsold
+PN025,Ham,Meat,3,01-03-2024,sold
+PN025,Ham,Meat,2,29-02-2024,sold
+PN025,Ham,Meat,13,10-02-2024,sold
+PN025,Ham,Meat,7,07-02-2024,sold
+PN025,Ham,Meat,16,10-01-2024,sold
+PN026,Lamb,Meat,5,03-01-2025,sold
+PN026,Lamb,Meat,12,25-12-2024,sold
+PN026,Lamb,Meat,14,18-12-2024,sold
+PN026,Lamb,Meat,16,13-12-2024,sold
+PN026,Lamb,Meat,15,27-11-2024,sold
+PN026,Lamb,Meat,9,21-11-2024,sold
+PN026,Lamb,Meat,3,19-11-2024,unsold
+PN026,Lamb,Meat,2,19-11-2024,unsold
+PN026,Lamb,Meat,20,13-11-2024,sold
+PN026,Lamb,Meat,11,10-11-2024,sold
+PN026,Lamb,Meat,5,27-10-2024,unsold
+PN026,Lamb,Meat,3,26-10-2024,sold
+PN026,Lamb,Meat,3,26-10-2024,unsold
+PN026,Lamb,Meat,2,18-10-2024,unsold
+PN026,Lamb,Meat,1,16-10-2024,sold
+PN026,Lamb,Meat,2,14-10-2024,unsold
+PN026,Lamb,Meat,1,12-10-2024,unsold
+PN026,Lamb,Meat,11,11-10-2024,sold
+PN026,Lamb,Meat,4,03-10-2024,sold
+PN026,Lamb,Meat,10,03-10-2024,sold
+PN026,Lamb,Meat,4,27-09-2024,sold
+PN026,Lamb,Meat,17,26-09-2024,sold
+PN026,Lamb,Meat,14,20-09-2024,sold
+PN026,Lamb,Meat,16,18-09-2024,sold
+PN026,Lamb,Meat,14,15-09-2024,sold
+PN026,Lamb,Meat,3,15-09-2024,unsold
+PN026,Lamb,Meat,1,13-09-2024,unsold
+PN026,Lamb,Meat,17,08-09-2024,sold
+PN026,Lamb,Meat,7,19-08-2024,sold
+PN026,Lamb,Meat,17,17-08-2024,sold
+PN026,Lamb,Meat,2,15-08-2024,unsold
+PN026,Lamb,Meat,14,04-08-2024,sold
+PN026,Lamb,Meat,4,31-07-2024,sold
+PN026,Lamb,Meat,8,29-07-2024,sold
+PN026,Lamb,Meat,3,28-07-2024,unsold
+PN026,Lamb,Meat,13,27-07-2024,sold
+PN026,Lamb,Meat,8,26-07-2024,sold
+PN026,Lamb,Meat,5,19-07-2024,sold
+PN026,Lamb,Meat,18,16-07-2024,sold
+PN026,Lamb,Meat,8,09-07-2024,sold
+PN026,Lamb,Meat,12,07-07-2024,sold
+PN026,Lamb,Meat,8,07-07-2024,sold
+PN026,Lamb,Meat,18,04-07-2024,sold
+PN026,Lamb,Meat,12,04-07-2024,sold
+PN026,Lamb,Meat,19,04-07-2024,sold
+PN026,Lamb,Meat,4,04-07-2024,sold
+PN026,Lamb,Meat,3,29-06-2024,unsold
+PN026,Lamb,Meat,15,21-06-2024,sold
+PN026,Lamb,Meat,4,21-06-2024,unsold
+PN026,Lamb,Meat,4,15-06-2024,unsold
+PN026,Lamb,Meat,2,15-06-2024,unsold
+PN026,Lamb,Meat,15,14-06-2024,sold
+PN026,Lamb,Meat,13,02-06-2024,sold
+PN026,Lamb,Meat,2,25-05-2024,sold
+PN026,Lamb,Meat,3,18-05-2024,sold
+PN026,Lamb,Meat,14,17-05-2024,sold
+PN026,Lamb,Meat,15,13-05-2024,sold
+PN026,Lamb,Meat,4,27-04-2024,unsold
+PN026,Lamb,Meat,18,18-04-2024,sold
+PN026,Lamb,Meat,2,15-04-2024,unsold
+PN026,Lamb,Meat,7,03-04-2024,sold
+PN026,Lamb,Meat,17,03-04-2024,sold
+PN026,Lamb,Meat,9,03-04-2024,sold
+PN026,Lamb,Meat,11,03-04-2024,sold
+PN026,Lamb,Meat,2,01-04-2024,sold
+PN026,Lamb,Meat,20,22-03-2024,sold
+PN026,Lamb,Meat,6,21-03-2024,sold
+PN026,Lamb,Meat,7,19-03-2024,sold
+PN026,Lamb,Meat,5,12-03-2024,sold
+PN026,Lamb,Meat,5,07-03-2024,unsold
+PN026,Lamb,Meat,1,05-03-2024,sold
+PN026,Lamb,Meat,3,23-02-2024,unsold
+PN026,Lamb,Meat,1,17-02-2024,unsold
+PN026,Lamb,Meat,13,16-02-2024,sold
+PN026,Lamb,Meat,10,14-02-2024,sold
+PN026,Lamb,Meat,19,02-02-2024,sold
+PN026,Lamb,Meat,4,30-01-2024,sold
+PN026,Lamb,Meat,10,30-01-2024,sold
+PN026,Lamb,Meat,16,28-01-2024,sold
+PN026,Lamb,Meat,20,14-01-2024,sold
+PN026,Lamb,Meat,19,10-01-2024,sold
+PN027,Lettuce,Vegetables,8,28-12-2024,sold
+PN027,Lettuce,Vegetables,3,10-12-2024,sold
+PN027,Lettuce,Vegetables,3,09-12-2024,unsold
+PN027,Lettuce,Vegetables,17,08-12-2024,sold
+PN027,Lettuce,Vegetables,16,06-12-2024,sold
+PN027,Lettuce,Vegetables,2,06-12-2024,unsold
+PN027,Lettuce,Vegetables,4,06-12-2024,unsold
+PN027,Lettuce,Vegetables,8,02-12-2024,sold
+PN027,Lettuce,Vegetables,5,22-11-2024,sold
+PN027,Lettuce,Vegetables,4,21-11-2024,unsold
+PN027,Lettuce,Vegetables,17,10-11-2024,sold
+PN027,Lettuce,Vegetables,3,10-11-2024,sold
+PN027,Lettuce,Vegetables,2,26-10-2024,unsold
+PN027,Lettuce,Vegetables,2,23-10-2024,unsold
+PN027,Lettuce,Vegetables,4,19-10-2024,unsold
+PN027,Lettuce,Vegetables,8,17-10-2024,sold
+PN027,Lettuce,Vegetables,14,15-10-2024,sold
+PN027,Lettuce,Vegetables,2,14-10-2024,unsold
+PN027,Lettuce,Vegetables,4,12-10-2024,unsold
+PN027,Lettuce,Vegetables,16,11-10-2024,sold
+PN027,Lettuce,Vegetables,18,30-09-2024,sold
+PN027,Lettuce,Vegetables,19,30-09-2024,sold
+PN027,Lettuce,Vegetables,3,28-09-2024,sold
+PN027,Lettuce,Vegetables,3,25-09-2024,sold
+PN027,Lettuce,Vegetables,5,24-09-2024,sold
+PN027,Lettuce,Vegetables,9,20-09-2024,sold
+PN027,Lettuce,Vegetables,3,16-09-2024,unsold
+PN027,Lettuce,Vegetables,4,29-08-2024,unsold
+PN027,Lettuce,Vegetables,2,22-08-2024,sold
+PN027,Lettuce,Vegetables,20,21-08-2024,sold
+PN027,Lettuce,Vegetables,10,18-08-2024,sold
+PN027,Lettuce,Vegetables,9,09-08-2024,sold
+PN027,Lettuce,Vegetables,19,07-08-2024,sold
+PN027,Lettuce,Vegetables,10,05-08-2024,sold
+PN027,Lettuce,Vegetables,1,29-07-2024,sold
+PN027,Lettuce,Vegetables,4,23-07-2024,unsold
+PN027,Lettuce,Vegetables,2,22-07-2024,unsold
+PN027,Lettuce,Vegetables,8,15-07-2024,sold
+PN027,Lettuce,Vegetables,11,13-07-2024,sold
+PN027,Lettuce,Vegetables,11,07-07-2024,sold
+PN027,Lettuce,Vegetables,5,06-07-2024,unsold
+PN027,Lettuce,Vegetables,2,06-07-2024,unsold
+PN027,Lettuce,Vegetables,1,29-06-2024,unsold
+PN027,Lettuce,Vegetables,4,16-06-2024,sold
+PN027,Lettuce,Vegetables,6,09-06-2024,sold
+PN027,Lettuce,Vegetables,19,08-06-2024,sold
+PN027,Lettuce,Vegetables,1,08-06-2024,unsold
+PN027,Lettuce,Vegetables,10,30-05-2024,sold
+PN027,Lettuce,Vegetables,2,23-05-2024,unsold
+PN027,Lettuce,Vegetables,11,22-05-2024,sold
+PN027,Lettuce,Vegetables,19,18-05-2024,sold
+PN027,Lettuce,Vegetables,15,17-05-2024,sold
+PN027,Lettuce,Vegetables,1,15-05-2024,unsold
+PN027,Lettuce,Vegetables,8,03-05-2024,sold
+PN027,Lettuce,Vegetables,5,03-05-2024,unsold
+PN027,Lettuce,Vegetables,3,27-04-2024,sold
+PN027,Lettuce,Vegetables,4,23-04-2024,sold
+PN027,Lettuce,Vegetables,16,16-04-2024,sold
+PN027,Lettuce,Vegetables,15,10-04-2024,sold
+PN027,Lettuce,Vegetables,4,06-04-2024,unsold
+PN027,Lettuce,Vegetables,5,04-04-2024,sold
+PN027,Lettuce,Vegetables,2,01-04-2024,unsold
+PN027,Lettuce,Vegetables,2,27-03-2024,unsold
+PN027,Lettuce,Vegetables,14,04-03-2024,sold
+PN027,Lettuce,Vegetables,4,02-03-2024,unsold
+PN027,Lettuce,Vegetables,16,29-02-2024,sold
+PN027,Lettuce,Vegetables,11,28-02-2024,sold
+PN027,Lettuce,Vegetables,17,26-02-2024,sold
+PN027,Lettuce,Vegetables,14,14-02-2024,sold
+PN027,Lettuce,Vegetables,3,30-01-2024,sold
+PN027,Lettuce,Vegetables,7,26-01-2024,sold
+PN027,Lettuce,Vegetables,9,23-01-2024,sold
+PN027,Lettuce,Vegetables,2,04-01-2024,unsold
+PN028,Milk,Dairy,5,06-01-2025,sold
+PN028,Milk,Dairy,4,02-01-2025,sold
+PN028,Milk,Dairy,19,23-12-2024,sold
+PN028,Milk,Dairy,14,22-12-2024,sold
+PN028,Milk,Dairy,3,19-12-2024,unsold
+PN028,Milk,Dairy,11,10-12-2024,sold
+PN028,Milk,Dairy,4,09-12-2024,unsold
+PN028,Milk,Dairy,1,28-11-2024,sold
+PN028,Milk,Dairy,15,27-11-2024,sold
+PN028,Milk,Dairy,1,23-11-2024,sold
+PN028,Milk,Dairy,5,22-11-2024,sold
+PN028,Milk,Dairy,3,19-11-2024,unsold
+PN028,Milk,Dairy,4,14-11-2024,unsold
+PN028,Milk,Dairy,2,14-11-2024,unsold
+PN028,Milk,Dairy,12,12-11-2024,sold
+PN028,Milk,Dairy,14,09-11-2024,sold
+PN028,Milk,Dairy,3,07-11-2024,sold
+PN028,Milk,Dairy,8,05-11-2024,sold
+PN028,Milk,Dairy,5,04-11-2024,unsold
+PN028,Milk,Dairy,7,01-11-2024,sold
+PN028,Milk,Dairy,3,30-10-2024,unsold
+PN028,Milk,Dairy,5,26-10-2024,unsold
+PN028,Milk,Dairy,4,25-10-2024,sold
+PN028,Milk,Dairy,9,23-10-2024,sold
+PN028,Milk,Dairy,3,21-10-2024,unsold
+PN028,Milk,Dairy,2,21-10-2024,unsold
+PN028,Milk,Dairy,3,20-10-2024,unsold
+PN028,Milk,Dairy,6,19-10-2024,sold
+PN028,Milk,Dairy,5,19-10-2024,unsold
+PN028,Milk,Dairy,4,18-10-2024,sold
+PN028,Milk,Dairy,1,18-10-2024,unsold
+PN028,Milk,Dairy,10,10-10-2024,sold
+PN028,Milk,Dairy,4,10-10-2024,sold
+PN028,Milk,Dairy,10,09-10-2024,sold
+PN028,Milk,Dairy,4,09-10-2024,sold
+PN028,Milk,Dairy,14,04-10-2024,sold
+PN028,Milk,Dairy,9,03-10-2024,sold
+PN028,Milk,Dairy,6,03-10-2024,sold
+PN028,Milk,Dairy,17,27-09-2024,sold
+PN028,Milk,Dairy,12,23-09-2024,sold
+PN028,Milk,Dairy,18,22-09-2024,sold
+PN028,Milk,Dairy,11,18-09-2024,sold
+PN028,Milk,Dairy,4,15-09-2024,unsold
+PN028,Milk,Dairy,12,13-09-2024,sold
+PN028,Milk,Dairy,19,11-09-2024,sold
+PN028,Milk,Dairy,3,06-09-2024,sold
+PN028,Milk,Dairy,5,05-09-2024,unsold
+PN028,Milk,Dairy,19,27-08-2024,sold
+PN028,Milk,Dairy,4,27-08-2024,sold
+PN028,Milk,Dairy,20,26-08-2024,sold
+PN028,Milk,Dairy,14,26-08-2024,sold
+PN028,Milk,Dairy,2,25-08-2024,sold
+PN028,Milk,Dairy,4,12-08-2024,sold
+PN028,Milk,Dairy,18,04-08-2024,sold
+PN028,Milk,Dairy,1,01-08-2024,unsold
+PN028,Milk,Dairy,5,30-07-2024,sold
+PN028,Milk,Dairy,13,28-07-2024,sold
+PN028,Milk,Dairy,8,21-07-2024,sold
+PN028,Milk,Dairy,4,20-07-2024,sold
+PN028,Milk,Dairy,13,15-07-2024,sold
+PN028,Milk,Dairy,15,13-07-2024,sold
+PN028,Milk,Dairy,6,10-07-2024,sold
+PN028,Milk,Dairy,18,06-07-2024,sold
+PN028,Milk,Dairy,2,06-07-2024,sold
+PN028,Milk,Dairy,16,03-07-2024,sold
+PN028,Milk,Dairy,5,01-07-2024,sold
+PN028,Milk,Dairy,18,27-06-2024,sold
+PN028,Milk,Dairy,3,19-06-2024,sold
+PN028,Milk,Dairy,13,17-06-2024,sold
+PN028,Milk,Dairy,3,15-06-2024,unsold
+PN028,Milk,Dairy,16,12-06-2024,sold
+PN028,Milk,Dairy,7,12-06-2024,sold
+PN028,Milk,Dairy,3,12-06-2024,unsold
+PN028,Milk,Dairy,5,12-06-2024,unsold
+PN028,Milk,Dairy,2,11-06-2024,unsold
+PN028,Milk,Dairy,8,10-06-2024,sold
+PN028,Milk,Dairy,15,10-06-2024,sold
+PN028,Milk,Dairy,1,09-06-2024,sold
+PN028,Milk,Dairy,19,06-06-2024,sold
+PN028,Milk,Dairy,13,05-06-2024,sold
+PN028,Milk,Dairy,16,05-06-2024,sold
+PN028,Milk,Dairy,10,24-05-2024,sold
+PN028,Milk,Dairy,5,19-05-2024,sold
+PN028,Milk,Dairy,1,07-05-2024,sold
+PN028,Milk,Dairy,1,03-05-2024,unsold
+PN028,Milk,Dairy,18,30-04-2024,sold
+PN028,Milk,Dairy,2,28-04-2024,sold
+PN028,Milk,Dairy,1,27-04-2024,unsold
+PN028,Milk,Dairy,15,18-04-2024,sold
+PN028,Milk,Dairy,1,18-04-2024,unsold
+PN028,Milk,Dairy,14,15-04-2024,sold
+PN028,Milk,Dairy,10,12-04-2024,sold
+PN028,Milk,Dairy,12,11-04-2024,sold
+PN028,Milk,Dairy,5,11-04-2024,unsold
+PN028,Milk,Dairy,4,10-04-2024,sold
+PN028,Milk,Dairy,9,05-04-2024,sold
+PN028,Milk,Dairy,20,04-04-2024,sold
+PN028,Milk,Dairy,17,02-04-2024,sold
+PN028,Milk,Dairy,19,25-03-2024,sold
+PN028,Milk,Dairy,18,24-03-2024,sold
+PN028,Milk,Dairy,16,16-03-2024,sold
+PN028,Milk,Dairy,3,07-03-2024,unsold
+PN028,Milk,Dairy,14,29-02-2024,sold
+PN028,Milk,Dairy,17,28-02-2024,sold
+PN028,Milk,Dairy,13,25-02-2024,sold
+PN028,Milk,Dairy,14,18-02-2024,sold
+PN028,Milk,Dairy,18,12-02-2024,sold
+PN028,Milk,Dairy,9,12-02-2024,sold
+PN028,Milk,Dairy,13,12-02-2024,sold
+PN028,Milk,Dairy,16,12-02-2024,sold
+PN028,Milk,Dairy,15,12-02-2024,sold
+PN028,Milk,Dairy,10,12-02-2024,sold
+PN028,Milk,Dairy,15,12-02-2024,sold
+PN028,Milk,Dairy,19,12-02-2024,sold
+PN028,Milk,Dairy,8,12-02-2024,sold
+PN028,Milk,Dairy,18,12-02-2024,sold
+PN028,Milk,Dairy,10,12-02-2024,sold
+PN028,Milk,Dairy,9,10-02-2024,sold
+PN028,Milk,Dairy,3,10-02-2024,unsold
+PN028,Milk,Dairy,1,09-02-2024,sold
+PN028,Milk,Dairy,1,05-02-2024,sold
+PN028,Milk,Dairy,18,03-02-2024,sold
+PN028,Milk,Dairy,3,27-01-2024,sold
+PN028,Milk,Dairy,1,22-01-2024,sold
+PN028,Milk,Dairy,13,15-01-2024,sold
+PN028,Milk,Dairy,14,12-01-2024,sold
+PN028,Milk,Dairy,17,10-01-2024,sold
+PN028,Milk,Dairy,11,08-01-2024,sold
+PN028,Milk,Dairy,20,08-01-2024,sold
+PN028,Milk,Dairy,5,08-01-2024,sold
+PN028,Milk,Dairy,15,08-01-2024,sold
+PN028,Milk,Dairy,19,08-01-2024,sold
+PN028,Milk,Dairy,15,08-01-2024,sold
+PN028,Milk,Dairy,12,08-01-2024,sold
+PN028,Milk,Dairy,17,08-01-2024,sold
+PN028,Milk,Dairy,14,08-01-2024,sold
+PN028,Milk,Dairy,5,08-01-2024,sold
+PN028,Milk,Dairy,7,08-01-2024,sold
+PN028,Milk,Dairy,10,05-01-2024,sold
+PN029,Mussels,Seafood,16,13-01-2025,sold
+PN029,Mussels,Seafood,3,28-12-2024,unsold
+PN029,Mussels,Seafood,4,22-12-2024,unsold
+PN029,Mussels,Seafood,5,13-12-2024,unsold
+PN029,Mussels,Seafood,10,03-12-2024,sold
+PN029,Mussels,Seafood,9,30-11-2024,sold
+PN029,Mussels,Seafood,1,21-11-2024,unsold
+PN029,Mussels,Seafood,3,19-11-2024,unsold
+PN029,Mussels,Seafood,6,18-11-2024,sold
+PN029,Mussels,Seafood,12,18-11-2024,sold
+PN029,Mussels,Seafood,17,16-11-2024,sold
+PN029,Mussels,Seafood,3,15-11-2024,sold
+PN029,Mussels,Seafood,12,12-11-2024,sold
+PN029,Mussels,Seafood,6,04-11-2024,sold
+PN029,Mussels,Seafood,2,25-10-2024,unsold
+PN029,Mussels,Seafood,11,24-10-2024,sold
+PN029,Mussels,Seafood,4,20-10-2024,unsold
+PN029,Mussels,Seafood,5,19-10-2024,unsold
+PN029,Mussels,Seafood,7,12-10-2024,sold
+PN029,Mussels,Seafood,15,12-10-2024,sold
+PN029,Mussels,Seafood,13,12-10-2024,sold
+PN029,Mussels,Seafood,5,28-09-2024,sold
+PN029,Mussels,Seafood,3,24-09-2024,unsold
+PN029,Mussels,Seafood,4,21-09-2024,sold
+PN029,Mussels,Seafood,6,16-09-2024,sold
+PN029,Mussels,Seafood,19,11-09-2024,sold
+PN029,Mussels,Seafood,5,25-08-2024,sold
+PN029,Mussels,Seafood,10,25-08-2024,sold
+PN029,Mussels,Seafood,5,25-08-2024,sold
+PN029,Mussels,Seafood,7,22-08-2024,sold
+PN029,Mussels,Seafood,19,21-08-2024,sold
+PN029,Mussels,Seafood,1,12-08-2024,unsold
+PN029,Mussels,Seafood,10,10-08-2024,sold
+PN029,Mussels,Seafood,1,07-08-2024,sold
+PN029,Mussels,Seafood,12,06-08-2024,sold
+PN029,Mussels,Seafood,5,01-08-2024,sold
+PN029,Mussels,Seafood,20,28-07-2024,sold
+PN029,Mussels,Seafood,9,26-07-2024,sold
+PN029,Mussels,Seafood,6,24-07-2024,sold
+PN029,Mussels,Seafood,10,24-07-2024,sold
+PN029,Mussels,Seafood,1,23-07-2024,unsold
+PN029,Mussels,Seafood,17,04-07-2024,sold
+PN029,Mussels,Seafood,1,28-06-2024,sold
+PN029,Mussels,Seafood,4,27-06-2024,sold
+PN029,Mussels,Seafood,1,15-06-2024,unsold
+PN029,Mussels,Seafood,1,12-06-2024,unsold
+PN029,Mussels,Seafood,3,08-06-2024,unsold
+PN029,Mussels,Seafood,13,05-06-2024,sold
+PN029,Mussels,Seafood,1,03-06-2024,unsold
+PN029,Mussels,Seafood,19,20-05-2024,sold
+PN029,Mussels,Seafood,5,15-05-2024,unsold
+PN029,Mussels,Seafood,5,03-05-2024,unsold
+PN029,Mussels,Seafood,12,27-04-2024,sold
+PN029,Mussels,Seafood,11,18-04-2024,sold
+PN029,Mussels,Seafood,18,17-04-2024,sold
+PN029,Mussels,Seafood,8,04-04-2024,sold
+PN029,Mussels,Seafood,3,04-04-2024,sold
+PN029,Mussels,Seafood,10,31-03-2024,sold
+PN029,Mussels,Seafood,20,30-03-2024,sold
+PN029,Mussels,Seafood,1,30-03-2024,sold
+PN029,Mussels,Seafood,13,28-03-2024,sold
+PN029,Mussels,Seafood,20,17-03-2024,sold
+PN029,Mussels,Seafood,5,16-03-2024,unsold
+PN029,Mussels,Seafood,1,14-03-2024,unsold
+PN029,Mussels,Seafood,2,13-03-2024,unsold
+PN029,Mussels,Seafood,12,10-03-2024,sold
+PN029,Mussels,Seafood,16,08-03-2024,sold
+PN029,Mussels,Seafood,11,25-02-2024,sold
+PN029,Mussels,Seafood,17,15-02-2024,sold
+PN029,Mussels,Seafood,20,14-02-2024,sold
+PN029,Mussels,Seafood,7,09-02-2024,sold
+PN029,Mussels,Seafood,3,04-02-2024,sold
+PN029,Mussels,Seafood,3,11-01-2024,sold
+PN030,Onions,Vegetables,17,20-01-2025,sold
+PN030,Onions,Vegetables,19,19-01-2025,sold
+PN030,Onions,Vegetables,8,11-12-2024,sold
+PN030,Onions,Vegetables,14,09-12-2024,sold
+PN030,Onions,Vegetables,4,06-12-2024,unsold
+PN030,Onions,Vegetables,2,02-12-2024,sold
+PN030,Onions,Vegetables,5,02-12-2024,unsold
+PN030,Onions,Vegetables,20,26-11-2024,sold
+PN030,Onions,Vegetables,19,25-11-2024,sold
+PN030,Onions,Vegetables,5,02-11-2024,sold
+PN030,Onions,Vegetables,19,30-10-2024,sold
+PN030,Onions,Vegetables,1,23-10-2024,unsold
+PN030,Onions,Vegetables,5,15-10-2024,sold
+PN030,Onions,Vegetables,5,15-10-2024,unsold
+PN030,Onions,Vegetables,15,10-10-2024,sold
+PN030,Onions,Vegetables,4,20-09-2024,sold
+PN030,Onions,Vegetables,6,18-09-2024,sold
+PN030,Onions,Vegetables,2,16-09-2024,unsold
+PN030,Onions,Vegetables,12,13-09-2024,sold
+PN030,Onions,Vegetables,20,11-09-2024,sold
+PN030,Onions,Vegetables,20,09-09-2024,sold
+PN030,Onions,Vegetables,1,03-09-2024,sold
+PN030,Onions,Vegetables,4,29-08-2024,unsold
+PN030,Onions,Vegetables,10,27-08-2024,sold
+PN030,Onions,Vegetables,11,27-08-2024,sold
+PN030,Onions,Vegetables,1,21-08-2024,unsold
+PN030,Onions,Vegetables,13,19-08-2024,sold
+PN030,Onions,Vegetables,4,17-08-2024,sold
+PN030,Onions,Vegetables,4,13-08-2024,unsold
+PN030,Onions,Vegetables,2,12-08-2024,unsold
+PN030,Onions,Vegetables,5,02-08-2024,unsold
+PN030,Onions,Vegetables,4,01-08-2024,unsold
+PN030,Onions,Vegetables,17,31-07-2024,sold
+PN030,Onions,Vegetables,3,17-07-2024,unsold
+PN030,Onions,Vegetables,18,15-07-2024,sold
+PN030,Onions,Vegetables,15,14-07-2024,sold
+PN030,Onions,Vegetables,3,13-07-2024,unsold
+PN030,Onions,Vegetables,3,10-07-2024,sold
+PN030,Onions,Vegetables,18,08-07-2024,sold
+PN030,Onions,Vegetables,1,08-07-2024,unsold
+PN030,Onions,Vegetables,2,01-07-2024,unsold
+PN030,Onions,Vegetables,5,29-06-2024,unsold
+PN030,Onions,Vegetables,11,25-06-2024,sold
+PN030,Onions,Vegetables,1,11-06-2024,unsold
+PN030,Onions,Vegetables,4,05-06-2024,unsold
+PN030,Onions,Vegetables,13,04-06-2024,sold
+PN030,Onions,Vegetables,15,02-06-2024,sold
+PN030,Onions,Vegetables,2,23-05-2024,unsold
+PN030,Onions,Vegetables,1,19-05-2024,sold
+PN030,Onions,Vegetables,8,15-05-2024,sold
+PN030,Onions,Vegetables,4,14-05-2024,sold
+PN030,Onions,Vegetables,12,14-05-2024,sold
+PN030,Onions,Vegetables,2,14-05-2024,sold
+PN030,Onions,Vegetables,3,07-05-2024,unsold
+PN030,Onions,Vegetables,1,07-05-2024,unsold
+PN030,Onions,Vegetables,1,04-05-2024,sold
+PN030,Onions,Vegetables,6,04-05-2024,sold
+PN030,Onions,Vegetables,1,27-04-2024,unsold
+PN030,Onions,Vegetables,3,26-04-2024,sold
+PN030,Onions,Vegetables,13,18-04-2024,sold
+PN030,Onions,Vegetables,9,18-04-2024,sold
+PN030,Onions,Vegetables,4,14-04-2024,sold
+PN030,Onions,Vegetables,15,12-04-2024,sold
+PN030,Onions,Vegetables,1,10-04-2024,unsold
+PN030,Onions,Vegetables,9,08-04-2024,sold
+PN030,Onions,Vegetables,2,06-04-2024,unsold
+PN030,Onions,Vegetables,11,27-03-2024,sold
+PN030,Onions,Vegetables,1,27-03-2024,unsold
+PN030,Onions,Vegetables,17,19-03-2024,sold
+PN030,Onions,Vegetables,10,15-03-2024,sold
+PN030,Onions,Vegetables,1,14-03-2024,unsold
+PN030,Onions,Vegetables,9,13-03-2024,sold
+PN030,Onions,Vegetables,1,13-03-2024,unsold
+PN030,Onions,Vegetables,3,11-03-2024,unsold
+PN030,Onions,Vegetables,20,08-03-2024,sold
+PN030,Onions,Vegetables,18,06-03-2024,sold
+PN030,Onions,Vegetables,3,02-03-2024,unsold
+PN030,Onions,Vegetables,2,01-03-2024,unsold
+PN030,Onions,Vegetables,20,28-02-2024,sold
+PN030,Onions,Vegetables,7,23-02-2024,sold
+PN030,Onions,Vegetables,2,19-02-2024,unsold
+PN030,Onions,Vegetables,2,17-02-2024,unsold
+PN030,Onions,Vegetables,3,15-02-2024,unsold
+PN030,Onions,Vegetables,3,10-02-2024,unsold
+PN030,Onions,Vegetables,17,08-02-2024,sold
+PN030,Onions,Vegetables,11,29-01-2024,sold
+PN030,Onions,Vegetables,5,27-01-2024,unsold
+PN030,Onions,Vegetables,5,27-01-2024,unsold
+PN030,Onions,Vegetables,19,09-01-2024,sold
+PN030,Onions,Vegetables,10,08-01-2024,sold
+PN030,Onions,Vegetables,3,04-01-2024,unsold
+PN031,Orange Juice,Beverages,6,04-01-2025,sold
+PN031,Orange Juice,Beverages,5,29-12-2024,sold
+PN031,Orange Juice,Beverages,4,25-12-2024,sold
+PN031,Orange Juice,Beverages,14,18-12-2024,sold
+PN031,Orange Juice,Beverages,6,16-12-2024,sold
+PN031,Orange Juice,Beverages,14,13-12-2024,sold
+PN031,Orange Juice,Beverages,1,20-11-2024,sold
+PN031,Orange Juice,Beverages,18,07-11-2024,sold
+PN031,Orange Juice,Beverages,3,05-11-2024,sold
+PN031,Orange Juice,Beverages,2,26-10-2024,unsold
+PN031,Orange Juice,Beverages,8,24-10-2024,sold
+PN031,Orange Juice,Beverages,7,19-10-2024,sold
+PN031,Orange Juice,Beverages,4,15-10-2024,sold
+PN031,Orange Juice,Beverages,6,10-10-2024,sold
+PN031,Orange Juice,Beverages,12,25-09-2024,sold
+PN031,Orange Juice,Beverages,7,24-09-2024,sold
+PN031,Orange Juice,Beverages,2,17-09-2024,sold
+PN031,Orange Juice,Beverages,17,16-09-2024,sold
+PN031,Orange Juice,Beverages,11,23-08-2024,sold
+PN031,Orange Juice,Beverages,8,13-08-2024,sold
+PN031,Orange Juice,Beverages,4,13-08-2024,unsold
+PN031,Orange Juice,Beverages,20,10-08-2024,sold
+PN031,Orange Juice,Beverages,7,09-08-2024,sold
+PN031,Orange Juice,Beverages,8,04-08-2024,sold
+PN031,Orange Juice,Beverages,19,27-07-2024,sold
+PN031,Orange Juice,Beverages,3,17-07-2024,unsold
+PN031,Orange Juice,Beverages,20,11-07-2024,sold
+PN031,Orange Juice,Beverages,20,22-06-2024,sold
+PN031,Orange Juice,Beverages,17,08-06-2024,sold
+PN031,Orange Juice,Beverages,14,02-06-2024,sold
+PN031,Orange Juice,Beverages,4,02-06-2024,sold
+PN031,Orange Juice,Beverages,2,28-05-2024,sold
+PN031,Orange Juice,Beverages,1,27-05-2024,sold
+PN031,Orange Juice,Beverages,17,23-05-2024,sold
+PN031,Orange Juice,Beverages,8,18-05-2024,sold
+PN031,Orange Juice,Beverages,3,18-05-2024,sold
+PN031,Orange Juice,Beverages,2,17-05-2024,sold
+PN031,Orange Juice,Beverages,1,14-05-2024,sold
+PN031,Orange Juice,Beverages,12,04-05-2024,sold
+PN031,Orange Juice,Beverages,17,27-04-2024,sold
+PN031,Orange Juice,Beverages,6,26-04-2024,sold
+PN031,Orange Juice,Beverages,1,13-04-2024,sold
+PN031,Orange Juice,Beverages,9,01-04-2024,sold
+PN031,Orange Juice,Beverages,2,31-03-2024,sold
+PN031,Orange Juice,Beverages,7,29-03-2024,sold
+PN031,Orange Juice,Beverages,10,26-03-2024,sold
+PN031,Orange Juice,Beverages,15,22-03-2024,sold
+PN031,Orange Juice,Beverages,6,21-03-2024,sold
+PN031,Orange Juice,Beverages,12,09-03-2024,sold
+PN031,Orange Juice,Beverages,18,07-03-2024,sold
+PN031,Orange Juice,Beverages,1,04-03-2024,sold
+PN031,Orange Juice,Beverages,10,17-02-2024,sold
+PN031,Orange Juice,Beverages,8,11-02-2024,sold
+PN031,Orange Juice,Beverages,7,02-02-2024,sold
+PN031,Orange Juice,Beverages,16,02-02-2024,sold
+PN031,Orange Juice,Beverages,5,02-02-2024,unsold
+PN031,Orange Juice,Beverages,19,30-01-2024,sold
+PN031,Orange Juice,Beverages,18,28-01-2024,sold
+PN031,Orange Juice,Beverages,19,23-01-2024,sold
+PN031,Orange Juice,Beverages,4,22-01-2024,sold
+PN031,Orange Juice,Beverages,11,21-01-2024,sold
+PN031,Orange Juice,Beverages,12,15-01-2024,sold
+PN032,Oranges,Fruits,15,09-01-2025,sold
+PN032,Oranges,Fruits,19,09-01-2025,sold
+PN032,Oranges,Fruits,18,06-01-2025,sold
+PN032,Oranges,Fruits,14,26-12-2024,sold
+PN032,Oranges,Fruits,3,23-12-2024,sold
+PN032,Oranges,Fruits,3,13-12-2024,sold
+PN032,Oranges,Fruits,10,13-12-2024,sold
+PN032,Oranges,Fruits,1,13-12-2024,unsold
+PN032,Oranges,Fruits,4,07-12-2024,unsold
+PN032,Oranges,Fruits,2,25-11-2024,sold
+PN032,Oranges,Fruits,1,24-11-2024,unsold
+PN032,Oranges,Fruits,2,20-10-2024,unsold
+PN032,Oranges,Fruits,2,20-10-2024,unsold
+PN032,Oranges,Fruits,1,19-10-2024,unsold
+PN032,Oranges,Fruits,3,19-10-2024,unsold
+PN032,Oranges,Fruits,15,17-10-2024,sold
+PN032,Oranges,Fruits,8,15-10-2024,sold
+PN032,Oranges,Fruits,18,15-10-2024,sold
+PN032,Oranges,Fruits,7,15-10-2024,sold
+PN032,Oranges,Fruits,4,13-10-2024,unsold
+PN032,Oranges,Fruits,1,12-10-2024,unsold
+PN032,Oranges,Fruits,2,22-09-2024,sold
+PN032,Oranges,Fruits,1,16-09-2024,sold
+PN032,Oranges,Fruits,7,16-09-2024,sold
+PN032,Oranges,Fruits,2,16-09-2024,unsold
+PN032,Oranges,Fruits,7,11-09-2024,sold
+PN032,Oranges,Fruits,1,07-09-2024,unsold
+PN032,Oranges,Fruits,3,05-09-2024,unsold
+PN032,Oranges,Fruits,9,04-09-2024,sold
+PN032,Oranges,Fruits,9,26-08-2024,sold
+PN032,Oranges,Fruits,3,23-08-2024,sold
+PN032,Oranges,Fruits,4,21-08-2024,sold
+PN032,Oranges,Fruits,5,21-08-2024,sold
+PN032,Oranges,Fruits,4,21-08-2024,unsold
+PN032,Oranges,Fruits,2,15-08-2024,unsold
+PN032,Oranges,Fruits,9,03-08-2024,sold
+PN032,Oranges,Fruits,2,21-07-2024,sold
+PN032,Oranges,Fruits,2,16-07-2024,unsold
+PN032,Oranges,Fruits,2,07-07-2024,unsold
+PN032,Oranges,Fruits,1,02-07-2024,unsold
+PN032,Oranges,Fruits,2,01-07-2024,unsold
+PN032,Oranges,Fruits,9,29-06-2024,sold
+PN032,Oranges,Fruits,2,29-06-2024,unsold
+PN032,Oranges,Fruits,7,14-06-2024,sold
+PN032,Oranges,Fruits,12,14-06-2024,sold
+PN032,Oranges,Fruits,15,04-06-2024,sold
+PN032,Oranges,Fruits,3,23-05-2024,unsold
+PN032,Oranges,Fruits,7,21-05-2024,sold
+PN032,Oranges,Fruits,5,11-05-2024,unsold
+PN032,Oranges,Fruits,2,11-05-2024,unsold
+PN032,Oranges,Fruits,16,10-05-2024,sold
+PN032,Oranges,Fruits,15,07-05-2024,sold
+PN032,Oranges,Fruits,17,05-05-2024,sold
+PN032,Oranges,Fruits,7,04-05-2024,sold
+PN032,Oranges,Fruits,16,03-05-2024,sold
+PN032,Oranges,Fruits,1,28-04-2024,unsold
+PN032,Oranges,Fruits,13,24-04-2024,sold
+PN032,Oranges,Fruits,12,21-04-2024,sold
+PN032,Oranges,Fruits,7,15-04-2024,sold
+PN032,Oranges,Fruits,1,15-04-2024,unsold
+PN032,Oranges,Fruits,13,11-04-2024,sold
+PN032,Oranges,Fruits,1,06-04-2024,unsold
+PN032,Oranges,Fruits,6,04-04-2024,sold
+PN032,Oranges,Fruits,8,01-04-2024,sold
+PN032,Oranges,Fruits,2,16-03-2024,unsold
+PN032,Oranges,Fruits,4,13-03-2024,sold
+PN032,Oranges,Fruits,5,07-03-2024,unsold
+PN032,Oranges,Fruits,16,05-03-2024,sold
+PN032,Oranges,Fruits,3,04-03-2024,unsold
+PN032,Oranges,Fruits,2,29-02-2024,sold
+PN032,Oranges,Fruits,20,22-02-2024,sold
+PN032,Oranges,Fruits,9,18-02-2024,sold
+PN032,Oranges,Fruits,3,15-02-2024,unsold
+PN032,Oranges,Fruits,5,11-02-2024,sold
+PN032,Oranges,Fruits,1,06-02-2024,unsold
+PN032,Oranges,Fruits,19,02-02-2024,sold
+PN032,Oranges,Fruits,7,01-02-2024,sold
+PN032,Oranges,Fruits,1,16-01-2024,sold
+PN032,Oranges,Fruits,9,09-01-2024,sold
+PN032,Oranges,Fruits,4,04-01-2024,unsold
+PN032,Oranges,Fruits,2,03-01-2024,unsold
+PN033,Oysters,Seafood,9,12-01-2025,sold
+PN033,Oysters,Seafood,16,12-01-2025,sold
+PN033,Oysters,Seafood,15,09-01-2025,sold
+PN033,Oysters,Seafood,11,09-01-2025,sold
+PN033,Oysters,Seafood,15,11-12-2024,sold
+PN033,Oysters,Seafood,11,24-11-2024,sold
+PN033,Oysters,Seafood,18,22-11-2024,sold
+PN033,Oysters,Seafood,9,22-11-2024,sold
+PN033,Oysters,Seafood,5,21-11-2024,unsold
+PN033,Oysters,Seafood,11,13-11-2024,sold
+PN033,Oysters,Seafood,15,10-11-2024,sold
+PN033,Oysters,Seafood,19,06-11-2024,sold
+PN033,Oysters,Seafood,3,30-10-2024,unsold
+PN033,Oysters,Seafood,11,28-10-2024,sold
+PN033,Oysters,Seafood,14,27-10-2024,sold
+PN033,Oysters,Seafood,4,26-10-2024,unsold
+PN033,Oysters,Seafood,4,22-10-2024,unsold
+PN033,Oysters,Seafood,18,21-10-2024,sold
+PN033,Oysters,Seafood,1,18-10-2024,unsold
+PN033,Oysters,Seafood,5,16-10-2024,unsold
+PN033,Oysters,Seafood,20,15-10-2024,sold
+PN033,Oysters,Seafood,19,12-10-2024,sold
+PN033,Oysters,Seafood,1,10-10-2024,unsold
+PN033,Oysters,Seafood,7,06-10-2024,sold
+PN033,Oysters,Seafood,1,03-10-2024,sold
+PN033,Oysters,Seafood,1,29-09-2024,sold
+PN033,Oysters,Seafood,13,25-09-2024,sold
+PN033,Oysters,Seafood,4,18-09-2024,unsold
+PN033,Oysters,Seafood,11,17-09-2024,sold
+PN033,Oysters,Seafood,3,16-09-2024,unsold
+PN033,Oysters,Seafood,4,16-09-2024,unsold
+PN033,Oysters,Seafood,14,10-09-2024,sold
+PN033,Oysters,Seafood,7,07-09-2024,sold
+PN033,Oysters,Seafood,14,01-09-2024,sold
+PN033,Oysters,Seafood,4,12-08-2024,unsold
+PN033,Oysters,Seafood,2,12-08-2024,unsold
+PN033,Oysters,Seafood,3,30-07-2024,sold
+PN033,Oysters,Seafood,13,16-07-2024,sold
+PN033,Oysters,Seafood,19,05-07-2024,sold
+PN033,Oysters,Seafood,2,03-07-2024,sold
+PN033,Oysters,Seafood,2,29-06-2024,unsold
+PN033,Oysters,Seafood,19,25-06-2024,sold
+PN033,Oysters,Seafood,9,15-06-2024,sold
+PN033,Oysters,Seafood,1,15-06-2024,unsold
+PN033,Oysters,Seafood,6,07-06-2024,sold
+PN033,Oysters,Seafood,1,03-06-2024,unsold
+PN033,Oysters,Seafood,20,30-05-2024,sold
+PN033,Oysters,Seafood,9,20-05-2024,sold
+PN033,Oysters,Seafood,18,20-05-2024,sold
+PN033,Oysters,Seafood,20,19-05-2024,sold
+PN033,Oysters,Seafood,3,19-05-2024,unsold
+PN033,Oysters,Seafood,2,15-05-2024,unsold
+PN033,Oysters,Seafood,8,14-05-2024,sold
+PN033,Oysters,Seafood,17,11-05-2024,sold
+PN033,Oysters,Seafood,2,08-05-2024,sold
+PN033,Oysters,Seafood,5,07-05-2024,sold
+PN033,Oysters,Seafood,2,06-05-2024,sold
+PN033,Oysters,Seafood,5,25-04-2024,unsold
+PN033,Oysters,Seafood,20,20-04-2024,sold
+PN033,Oysters,Seafood,6,18-04-2024,sold
+PN033,Oysters,Seafood,5,14-04-2024,unsold
+PN033,Oysters,Seafood,2,06-04-2024,unsold
+PN033,Oysters,Seafood,20,02-04-2024,sold
+PN033,Oysters,Seafood,4,02-04-2024,sold
+PN033,Oysters,Seafood,5,02-04-2024,unsold
+PN033,Oysters,Seafood,14,29-03-2024,sold
+PN033,Oysters,Seafood,11,26-03-2024,sold
+PN033,Oysters,Seafood,2,19-03-2024,unsold
+PN033,Oysters,Seafood,3,17-03-2024,sold
+PN033,Oysters,Seafood,17,05-03-2024,sold
+PN033,Oysters,Seafood,1,05-03-2024,sold
+PN033,Oysters,Seafood,3,01-03-2024,unsold
+PN033,Oysters,Seafood,6,29-02-2024,sold
+PN033,Oysters,Seafood,11,23-02-2024,sold
+PN033,Oysters,Seafood,2,17-02-2024,unsold
+PN033,Oysters,Seafood,5,17-02-2024,unsold
+PN033,Oysters,Seafood,5,17-02-2024,unsold
+PN033,Oysters,Seafood,14,12-02-2024,sold
+PN033,Oysters,Seafood,10,03-02-2024,sold
+PN033,Oysters,Seafood,17,03-02-2024,sold
+PN033,Oysters,Seafood,2,18-01-2024,sold
+PN034,Pasta,Staples,1,24-12-2025,sold
+PN034,Pasta,Staples,1,19-12-2025,sold
+PN034,Pasta,Staples,16,17-12-2025,sold
+PN034,Pasta,Staples,15,08-12-2025,sold
+PN034,Pasta,Staples,16,07-12-2025,sold
+PN034,Pasta,Staples,1,05-12-2025,sold
+PN034,Pasta,Staples,14,30-11-2025,sold
+PN034,Pasta,Staples,4,30-11-2025,sold
+PN034,Pasta,Staples,4,28-11-2025,sold
+PN034,Pasta,Staples,5,24-11-2025,sold
+PN034,Pasta,Staples,14,23-11-2025,sold
+PN034,Pasta,Staples,9,10-11-2025,sold
+PN034,Pasta,Staples,5,09-11-2025,sold
+PN034,Pasta,Staples,4,06-11-2025,sold
+PN034,Pasta,Staples,11,04-11-2025,sold
+PN034,Pasta,Staples,8,26-10-2025,sold
+PN034,Pasta,Staples,7,20-10-2025,sold
+PN034,Pasta,Staples,7,19-10-2025,sold
+PN034,Pasta,Staples,5,01-10-2025,sold
+PN034,Pasta,Staples,12,25-09-2025,sold
+PN034,Pasta,Staples,1,23-09-2025,sold
+PN034,Pasta,Staples,5,11-09-2025,sold
+PN034,Pasta,Staples,9,09-09-2025,sold
+PN034,Pasta,Staples,7,09-09-2025,sold
+PN034,Pasta,Staples,10,08-09-2025,sold
+PN034,Pasta,Staples,16,08-09-2025,sold
+PN034,Pasta,Staples,3,31-08-2025,sold
+PN034,Pasta,Staples,15,30-08-2025,sold
+PN034,Pasta,Staples,14,28-08-2025,sold
+PN034,Pasta,Staples,13,13-08-2025,sold
+PN034,Pasta,Staples,13,09-08-2025,sold
+PN034,Pasta,Staples,7,08-08-2025,sold
+PN034,Pasta,Staples,5,06-08-2025,sold
+PN034,Pasta,Staples,8,05-08-2025,sold
+PN034,Pasta,Staples,5,04-08-2025,sold
+PN034,Pasta,Staples,1,03-08-2025,sold
+PN034,Pasta,Staples,5,25-07-2025,sold
+PN034,Pasta,Staples,9,24-07-2025,sold
+PN034,Pasta,Staples,2,22-07-2025,sold
+PN034,Pasta,Staples,1,17-07-2025,sold
+PN034,Pasta,Staples,14,16-07-2025,sold
+PN034,Pasta,Staples,8,13-07-2025,sold
+PN034,Pasta,Staples,16,09-07-2025,sold
+PN034,Pasta,Staples,1,08-07-2025,sold
+PN034,Pasta,Staples,9,04-07-2025,sold
+PN034,Pasta,Staples,10,03-07-2025,sold
+PN034,Pasta,Staples,19,18-06-2025,sold
+PN034,Pasta,Staples,5,10-06-2025,sold
+PN034,Pasta,Staples,12,25-05-2025,sold
+PN034,Pasta,Staples,16,16-05-2025,sold
+PN034,Pasta,Staples,18,12-05-2025,sold
+PN034,Pasta,Staples,5,01-05-2025,sold
+PN034,Pasta,Staples,9,27-04-2025,sold
+PN034,Pasta,Staples,10,24-04-2025,sold
+PN034,Pasta,Staples,7,18-04-2025,sold
+PN034,Pasta,Staples,18,14-04-2025,sold
+PN034,Pasta,Staples,9,13-04-2025,sold
+PN034,Pasta,Staples,4,13-04-2025,sold
+PN034,Pasta,Staples,10,08-04-2025,sold
+PN034,Pasta,Staples,4,08-04-2025,sold
+PN034,Pasta,Staples,4,07-04-2025,sold
+PN034,Pasta,Staples,3,21-03-2025,sold
+PN034,Pasta,Staples,8,21-03-2025,sold
+PN034,Pasta,Staples,2,18-03-2025,sold
+PN034,Pasta,Staples,3,16-03-2025,sold
+PN034,Pasta,Staples,7,12-03-2025,sold
+PN034,Pasta,Staples,5,04-03-2025,sold
+PN034,Pasta,Staples,8,28-02-2025,sold
+PN034,Pasta,Staples,17,24-02-2025,sold
+PN034,Pasta,Staples,2,20-02-2025,sold
+PN034,Pasta,Staples,10,15-02-2025,sold
+PN034,Pasta,Staples,9,14-02-2025,sold
+PN034,Pasta,Staples,12,14-02-2025,sold
+PN034,Pasta,Staples,2,12-02-2025,sold
+PN034,Pasta,Staples,7,11-02-2025,sold
+PN034,Pasta,Staples,2,06-02-2025,sold
+PN034,Pasta,Staples,8,22-01-2025,sold
+PN034,Pasta,Staples,7,21-01-2025,sold
+PN034,Pasta,Staples,7,17-01-2025,sold
+PN034,Pasta,Staples,4,16-01-2025,sold
+PN034,Pasta,Staples,9,10-01-2025,sold
+PN034,Pasta,Staples,8,05-01-2025,sold
+PN034,Pasta,Staples,3,01-01-2025,sold
+PN034,Pasta,Staples,6,25-12-2024,sold
+PN034,Pasta,Staples,1,10-12-2024,sold
+PN034,Pasta,Staples,5,05-12-2024,sold
+PN034,Pasta,Staples,5,02-12-2024,unsold
+PN034,Pasta,Staples,6,27-11-2024,sold
+PN034,Pasta,Staples,14,24-11-2024,sold
+PN034,Pasta,Staples,10,20-11-2024,sold
+PN034,Pasta,Staples,4,28-10-2024,sold
+PN034,Pasta,Staples,20,27-10-2024,sold
+PN034,Pasta,Staples,5,29-08-2024,sold
+PN034,Pasta,Staples,14,21-08-2024,sold
+PN034,Pasta,Staples,15,19-08-2024,sold
+PN034,Pasta,Staples,10,02-08-2024,sold
+PN034,Pasta,Staples,2,26-07-2024,unsold
+PN034,Pasta,Staples,6,28-06-2024,sold
+PN034,Pasta,Staples,2,11-05-2024,sold
+PN034,Pasta,Staples,20,04-04-2024,sold
+PN034,Pasta,Staples,3,27-03-2024,unsold
+PN034,Pasta,Staples,3,27-03-2024,unsold
+PN034,Pasta,Staples,12,21-03-2024,sold
+PN034,Pasta,Staples,4,18-03-2024,unsold
+PN034,Pasta,Staples,14,12-03-2024,sold
+PN034,Pasta,Staples,5,25-02-2024,unsold
+PN034,Pasta,Staples,3,16-02-2024,sold
+PN034,Pasta,Staples,1,10-02-2024,unsold
+PN034,Pasta,Staples,9,04-02-2024,sold
+PN034,Pasta,Staples,12,01-02-2024,sold
+PN034,Pasta,Staples,7,29-01-2024,sold
+PN034,Pasta,Staples,12,08-01-2024,sold
+PN035,Pepper,Spices,14,10-01-2025,sold
+PN035,Pepper,Spices,7,30-12-2024,sold
+PN035,Pepper,Spices,3,17-12-2024,sold
+PN035,Pepper,Spices,4,01-12-2024,sold
+PN035,Pepper,Spices,9,30-11-2024,sold
+PN035,Pepper,Spices,5,25-11-2024,sold
+PN035,Pepper,Spices,15,17-11-2024,sold
+PN035,Pepper,Spices,12,10-11-2024,sold
+PN035,Pepper,Spices,19,07-11-2024,sold
+PN035,Pepper,Spices,20,07-11-2024,sold
+PN035,Pepper,Spices,1,02-11-2024,sold
+PN035,Pepper,Spices,1,01-11-2024,sold
+PN035,Pepper,Spices,1,14-10-2024,sold
+PN035,Pepper,Spices,12,14-10-2024,sold
+PN035,Pepper,Spices,16,05-10-2024,sold
+PN035,Pepper,Spices,13,01-10-2024,sold
+PN035,Pepper,Spices,12,21-09-2024,sold
+PN035,Pepper,Spices,2,15-09-2024,sold
+PN035,Pepper,Spices,7,10-09-2024,sold
+PN035,Pepper,Spices,15,04-09-2024,sold
+PN035,Pepper,Spices,2,21-08-2024,sold
+PN035,Pepper,Spices,18,13-08-2024,sold
+PN035,Pepper,Spices,18,09-08-2024,sold
+PN035,Pepper,Spices,19,07-08-2024,sold
+PN035,Pepper,Spices,11,18-07-2024,sold
+PN035,Pepper,Spices,17,16-07-2024,sold
+PN035,Pepper,Spices,20,07-07-2024,sold
+PN035,Pepper,Spices,3,05-07-2024,sold
+PN035,Pepper,Spices,9,14-06-2024,sold
+PN035,Pepper,Spices,18,27-05-2024,sold
+PN035,Pepper,Spices,5,10-05-2024,sold
+PN035,Pepper,Spices,8,04-05-2024,sold
+PN035,Pepper,Spices,11,02-05-2024,sold
+PN035,Pepper,Spices,6,16-04-2024,sold
+PN035,Pepper,Spices,3,14-04-2024,sold
+PN035,Pepper,Spices,17,27-03-2024,sold
+PN035,Pepper,Spices,5,01-03-2024,sold
+PN035,Pepper,Spices,4,29-02-2024,sold
+PN035,Pepper,Spices,4,17-02-2024,sold
+PN035,Pepper,Spices,14,12-02-2024,sold
+PN035,Pepper,Spices,3,03-02-2024,sold
+PN035,Pepper,Spices,18,03-01-2024,sold
+PN036,Pineapple,Fruits,13,06-01-2025,sold
+PN036,Pineapple,Fruits,3,19-12-2024,unsold
+PN036,Pineapple,Fruits,12,05-12-2024,sold
+PN036,Pineapple,Fruits,4,04-12-2024,unsold
+PN036,Pineapple,Fruits,9,03-12-2024,sold
+PN036,Pineapple,Fruits,4,01-12-2024,unsold
+PN036,Pineapple,Fruits,3,21-11-2024,unsold
+PN036,Pineapple,Fruits,12,06-11-2024,sold
+PN036,Pineapple,Fruits,13,31-10-2024,sold
+PN036,Pineapple,Fruits,5,25-10-2024,unsold
+PN036,Pineapple,Fruits,19,20-10-2024,sold
+PN036,Pineapple,Fruits,2,20-10-2024,sold
+PN036,Pineapple,Fruits,3,10-10-2024,sold
+PN036,Pineapple,Fruits,19,30-09-2024,sold
+PN036,Pineapple,Fruits,2,29-09-2024,sold
+PN036,Pineapple,Fruits,2,24-09-2024,unsold
+PN036,Pineapple,Fruits,5,19-09-2024,unsold
+PN036,Pineapple,Fruits,1,13-09-2024,sold
+PN036,Pineapple,Fruits,15,12-09-2024,sold
+PN036,Pineapple,Fruits,15,11-09-2024,sold
+PN036,Pineapple,Fruits,9,09-09-2024,sold
+PN036,Pineapple,Fruits,3,13-08-2024,unsold
+PN036,Pineapple,Fruits,12,02-08-2024,sold
+PN036,Pineapple,Fruits,1,23-07-2024,unsold
+PN036,Pineapple,Fruits,3,19-07-2024,sold
+PN036,Pineapple,Fruits,9,15-07-2024,sold
+PN036,Pineapple,Fruits,17,14-07-2024,sold
+PN036,Pineapple,Fruits,14,06-07-2024,sold
+PN036,Pineapple,Fruits,17,03-07-2024,sold
+PN036,Pineapple,Fruits,2,02-07-2024,sold
+PN036,Pineapple,Fruits,8,28-06-2024,sold
+PN036,Pineapple,Fruits,2,28-06-2024,unsold
+PN036,Pineapple,Fruits,13,27-06-2024,sold
+PN036,Pineapple,Fruits,1,20-06-2024,sold
+PN036,Pineapple,Fruits,12,08-06-2024,sold
+PN036,Pineapple,Fruits,20,05-06-2024,sold
+PN036,Pineapple,Fruits,5,03-06-2024,unsold
+PN036,Pineapple,Fruits,2,30-05-2024,unsold
+PN036,Pineapple,Fruits,20,27-05-2024,sold
+PN036,Pineapple,Fruits,1,19-05-2024,unsold
+PN036,Pineapple,Fruits,10,30-04-2024,sold
+PN036,Pineapple,Fruits,20,21-04-2024,sold
+PN036,Pineapple,Fruits,3,17-04-2024,sold
+PN036,Pineapple,Fruits,19,17-04-2024,sold
+PN036,Pineapple,Fruits,5,15-04-2024,unsold
+PN036,Pineapple,Fruits,1,14-04-2024,unsold
+PN036,Pineapple,Fruits,3,02-04-2024,unsold
+PN036,Pineapple,Fruits,18,01-04-2024,sold
+PN036,Pineapple,Fruits,4,24-03-2024,sold
+PN036,Pineapple,Fruits,5,23-03-2024,unsold
+PN036,Pineapple,Fruits,1,19-03-2024,sold
+PN036,Pineapple,Fruits,4,19-03-2024,unsold
+PN036,Pineapple,Fruits,3,18-03-2024,sold
+PN036,Pineapple,Fruits,6,05-03-2024,sold
+PN036,Pineapple,Fruits,20,26-02-2024,sold
+PN036,Pineapple,Fruits,3,15-02-2024,unsold
+PN036,Pineapple,Fruits,19,11-02-2024,sold
+PN036,Pineapple,Fruits,2,10-02-2024,unsold
+PN036,Pineapple,Fruits,20,06-02-2024,sold
+PN036,Pineapple,Fruits,14,26-01-2024,sold
+PN036,Pineapple,Fruits,4,25-01-2024,unsold
+PN037,Potatoes,Vegetables,10,11-01-2025,sold
+PN037,Potatoes,Vegetables,5,02-01-2025,sold
+PN037,Potatoes,Vegetables,10,01-01-2025,sold
+PN037,Potatoes,Vegetables,4,28-12-2024,unsold
+PN037,Potatoes,Vegetables,4,26-12-2024,sold
+PN037,Potatoes,Vegetables,3,22-12-2024,unsold
+PN037,Potatoes,Vegetables,14,18-12-2024,sold
+PN037,Potatoes,Vegetables,3,18-12-2024,sold
+PN037,Potatoes,Vegetables,18,11-12-2024,sold
+PN037,Potatoes,Vegetables,8,10-12-2024,sold
+PN037,Potatoes,Vegetables,11,09-12-2024,sold
+PN037,Potatoes,Vegetables,3,09-12-2024,unsold
+PN037,Potatoes,Vegetables,6,06-12-2024,sold
+PN037,Potatoes,Vegetables,1,06-12-2024,unsold
+PN037,Potatoes,Vegetables,2,06-12-2024,unsold
+PN037,Potatoes,Vegetables,1,03-12-2024,sold
+PN037,Potatoes,Vegetables,6,03-12-2024,sold
+PN037,Potatoes,Vegetables,2,30-11-2024,sold
+PN037,Potatoes,Vegetables,3,22-11-2024,sold
+PN037,Potatoes,Vegetables,2,20-11-2024,sold
+PN037,Potatoes,Vegetables,2,19-11-2024,sold
+PN037,Potatoes,Vegetables,12,18-11-2024,sold
+PN037,Potatoes,Vegetables,5,14-11-2024,unsold
+PN037,Potatoes,Vegetables,2,14-11-2024,unsold
+PN037,Potatoes,Vegetables,15,06-11-2024,sold
+PN037,Potatoes,Vegetables,17,03-11-2024,sold
+PN037,Potatoes,Vegetables,6,03-11-2024,sold
+PN037,Potatoes,Vegetables,6,01-11-2024,sold
+PN037,Potatoes,Vegetables,5,30-10-2024,unsold
+PN037,Potatoes,Vegetables,15,23-10-2024,sold
+PN037,Potatoes,Vegetables,2,21-10-2024,unsold
+PN037,Potatoes,Vegetables,2,21-10-2024,unsold
+PN037,Potatoes,Vegetables,2,19-10-2024,unsold
+PN037,Potatoes,Vegetables,5,18-10-2024,unsold
+PN037,Potatoes,Vegetables,3,18-10-2024,unsold
+PN037,Potatoes,Vegetables,2,16-10-2024,unsold
+PN037,Potatoes,Vegetables,4,14-10-2024,unsold
+PN037,Potatoes,Vegetables,13,08-10-2024,sold
+PN037,Potatoes,Vegetables,13,05-10-2024,sold
+PN037,Potatoes,Vegetables,11,04-10-2024,sold
+PN037,Potatoes,Vegetables,7,03-10-2024,sold
+PN037,Potatoes,Vegetables,13,29-09-2024,sold
+PN037,Potatoes,Vegetables,8,21-09-2024,sold
+PN037,Potatoes,Vegetables,3,19-09-2024,unsold
+PN037,Potatoes,Vegetables,5,17-09-2024,sold
+PN037,Potatoes,Vegetables,11,17-09-2024,sold
+PN037,Potatoes,Vegetables,3,17-09-2024,unsold
+PN037,Potatoes,Vegetables,7,16-09-2024,sold
+PN037,Potatoes,Vegetables,4,16-09-2024,unsold
+PN037,Potatoes,Vegetables,12,15-09-2024,sold
+PN037,Potatoes,Vegetables,2,14-09-2024,unsold
+PN037,Potatoes,Vegetables,6,12-09-2024,sold
+PN037,Potatoes,Vegetables,11,07-09-2024,sold
+PN037,Potatoes,Vegetables,12,07-09-2024,sold
+PN037,Potatoes,Vegetables,11,06-09-2024,sold
+PN037,Potatoes,Vegetables,12,05-09-2024,sold
+PN037,Potatoes,Vegetables,2,05-09-2024,unsold
+PN037,Potatoes,Vegetables,3,04-09-2024,unsold
+PN037,Potatoes,Vegetables,5,02-09-2024,sold
+PN037,Potatoes,Vegetables,8,01-09-2024,sold
+PN037,Potatoes,Vegetables,13,29-08-2024,sold
+PN037,Potatoes,Vegetables,2,28-08-2024,sold
+PN037,Potatoes,Vegetables,13,28-08-2024,sold
+PN037,Potatoes,Vegetables,16,27-08-2024,sold
+PN037,Potatoes,Vegetables,17,26-08-2024,sold
+PN037,Potatoes,Vegetables,2,21-08-2024,unsold
+PN037,Potatoes,Vegetables,5,20-08-2024,sold
+PN037,Potatoes,Vegetables,19,20-08-2024,sold
+PN037,Potatoes,Vegetables,1,20-08-2024,sold
+PN037,Potatoes,Vegetables,7,14-08-2024,sold
+PN037,Potatoes,Vegetables,9,13-08-2024,sold
+PN037,Potatoes,Vegetables,4,13-08-2024,unsold
+PN037,Potatoes,Vegetables,3,10-08-2024,unsold
+PN037,Potatoes,Vegetables,16,03-08-2024,sold
+PN037,Potatoes,Vegetables,5,02-08-2024,unsold
+PN037,Potatoes,Vegetables,4,02-08-2024,unsold
+PN037,Potatoes,Vegetables,5,30-07-2024,sold
+PN037,Potatoes,Vegetables,19,29-07-2024,sold
+PN037,Potatoes,Vegetables,15,24-07-2024,sold
+PN037,Potatoes,Vegetables,4,22-07-2024,unsold
+PN037,Potatoes,Vegetables,18,18-07-2024,sold
+PN037,Potatoes,Vegetables,5,17-07-2024,unsold
+PN037,Potatoes,Vegetables,4,08-07-2024,sold
+PN037,Potatoes,Vegetables,4,07-07-2024,unsold
+PN037,Potatoes,Vegetables,4,02-07-2024,unsold
+PN037,Potatoes,Vegetables,2,01-07-2024,unsold
+PN037,Potatoes,Vegetables,1,30-06-2024,sold
+PN037,Potatoes,Vegetables,3,21-06-2024,sold
+PN037,Potatoes,Vegetables,2,19-06-2024,sold
+PN037,Potatoes,Vegetables,4,17-06-2024,sold
+PN037,Potatoes,Vegetables,3,17-06-2024,sold
+PN037,Potatoes,Vegetables,1,15-06-2024,unsold
+PN037,Potatoes,Vegetables,2,15-06-2024,unsold
+PN037,Potatoes,Vegetables,7,14-06-2024,sold
+PN037,Potatoes,Vegetables,1,12-06-2024,unsold
+PN037,Potatoes,Vegetables,9,07-06-2024,sold
+PN037,Potatoes,Vegetables,4,04-06-2024,sold
+PN037,Potatoes,Vegetables,5,30-05-2024,unsold
+PN037,Potatoes,Vegetables,9,29-05-2024,sold
+PN037,Potatoes,Vegetables,4,26-05-2024,sold
+PN037,Potatoes,Vegetables,6,21-05-2024,sold
+PN037,Potatoes,Vegetables,15,17-05-2024,sold
+PN037,Potatoes,Vegetables,4,16-05-2024,unsold
+PN037,Potatoes,Vegetables,9,12-05-2024,sold
+PN037,Potatoes,Vegetables,3,11-05-2024,unsold
+PN037,Potatoes,Vegetables,9,10-05-2024,sold
+PN037,Potatoes,Vegetables,9,07-05-2024,sold
+PN037,Potatoes,Vegetables,2,07-05-2024,unsold
+PN037,Potatoes,Vegetables,4,03-05-2024,unsold
+PN037,Potatoes,Vegetables,1,03-05-2024,unsold
+PN037,Potatoes,Vegetables,2,22-04-2024,sold
+PN037,Potatoes,Vegetables,20,18-04-2024,sold
+PN037,Potatoes,Vegetables,2,18-04-2024,unsold
+PN037,Potatoes,Vegetables,4,15-04-2024,sold
+PN037,Potatoes,Vegetables,20,15-04-2024,sold
+PN037,Potatoes,Vegetables,7,12-04-2024,sold
+PN037,Potatoes,Vegetables,1,11-04-2024,unsold
+PN037,Potatoes,Vegetables,5,10-04-2024,unsold
+PN037,Potatoes,Vegetables,11,09-04-2024,sold
+PN037,Potatoes,Vegetables,20,09-04-2024,sold
+PN037,Potatoes,Vegetables,19,08-04-2024,sold
+PN037,Potatoes,Vegetables,1,06-04-2024,unsold
+PN037,Potatoes,Vegetables,10,06-04-2024,sold
+PN037,Potatoes,Vegetables,13,06-04-2024,sold
+PN037,Potatoes,Vegetables,13,06-04-2024,sold
+PN037,Potatoes,Vegetables,14,06-04-2024,sold
+PN037,Potatoes,Vegetables,14,06-04-2024,sold
+PN037,Potatoes,Vegetables,6,06-04-2024,sold
+PN037,Potatoes,Vegetables,13,06-04-2024,sold
+PN037,Potatoes,Vegetables,7,06-04-2024,sold
+PN037,Potatoes,Vegetables,3,05-04-2024,sold
+PN037,Potatoes,Vegetables,19,04-04-2024,sold
+PN037,Potatoes,Vegetables,13,03-04-2024,sold
+PN037,Potatoes,Vegetables,20,03-04-2024,sold
+PN037,Potatoes,Vegetables,15,02-04-2024,sold
+PN037,Potatoes,Vegetables,18,31-03-2024,sold
+PN037,Potatoes,Vegetables,18,28-03-2024,sold
+PN037,Potatoes,Vegetables,20,24-03-2024,sold
+PN037,Potatoes,Vegetables,3,23-03-2024,unsold
+PN037,Potatoes,Vegetables,14,18-03-2024,sold
+PN037,Potatoes,Vegetables,2,18-03-2024,unsold
+PN037,Potatoes,Vegetables,6,12-03-2024,sold
+PN037,Potatoes,Vegetables,15,08-03-2024,sold
+PN037,Potatoes,Vegetables,6,05-03-2024,sold
+PN037,Potatoes,Vegetables,6,24-02-2024,sold
+PN037,Potatoes,Vegetables,4,22-02-2024,unsold
+PN037,Potatoes,Vegetables,5,22-02-2024,unsold
+PN037,Potatoes,Vegetables,1,19-02-2024,sold
+PN037,Potatoes,Vegetables,11,13-02-2024,sold
+PN037,Potatoes,Vegetables,10,10-02-2024,sold
+PN037,Potatoes,Vegetables,3,10-02-2024,unsold
+PN037,Potatoes,Vegetables,4,10-02-2024,unsold
+PN037,Potatoes,Vegetables,9,09-02-2024,sold
+PN037,Potatoes,Vegetables,3,06-02-2024,unsold
+PN037,Potatoes,Vegetables,8,01-02-2024,sold
+PN037,Potatoes,Vegetables,5,31-01-2024,sold
+PN037,Potatoes,Vegetables,16,29-01-2024,sold
+PN037,Potatoes,Vegetables,4,28-01-2024,sold
+PN037,Potatoes,Vegetables,1,25-01-2024,unsold
+PN037,Potatoes,Vegetables,4,24-01-2024,unsold
+PN037,Potatoes,Vegetables,13,21-01-2024,sold
+PN037,Potatoes,Vegetables,8,13-01-2024,sold
+PN037,Potatoes,Vegetables,5,06-01-2024,unsold
+PN038,Pumpkin,Vegetables,5,17-12-2024,sold
+PN038,Pumpkin,Vegetables,19,15-12-2024,sold
+PN038,Pumpkin,Vegetables,4,04-12-2024,unsold
+PN038,Pumpkin,Vegetables,4,30-11-2024,sold
+PN038,Pumpkin,Vegetables,20,25-11-2024,sold
+PN038,Pumpkin,Vegetables,15,22-11-2024,sold
+PN038,Pumpkin,Vegetables,11,12-11-2024,sold
+PN038,Pumpkin,Vegetables,13,04-11-2024,sold
+PN038,Pumpkin,Vegetables,4,02-11-2024,sold
+PN038,Pumpkin,Vegetables,12,28-10-2024,sold
+PN038,Pumpkin,Vegetables,4,26-10-2024,unsold
+PN038,Pumpkin,Vegetables,11,25-10-2024,sold
+PN038,Pumpkin,Vegetables,12,23-10-2024,sold
+PN038,Pumpkin,Vegetables,1,23-10-2024,unsold
+PN038,Pumpkin,Vegetables,1,21-10-2024,unsold
+PN038,Pumpkin,Vegetables,5,20-10-2024,unsold
+PN038,Pumpkin,Vegetables,12,01-10-2024,sold
+PN038,Pumpkin,Vegetables,11,01-10-2024,sold
+PN038,Pumpkin,Vegetables,14,01-10-2024,sold
+PN038,Pumpkin,Vegetables,13,01-10-2024,sold
+PN038,Pumpkin,Vegetables,18,30-09-2024,sold
+PN038,Pumpkin,Vegetables,2,25-09-2024,sold
+PN038,Pumpkin,Vegetables,3,25-09-2024,sold
+PN038,Pumpkin,Vegetables,4,19-09-2024,unsold
+PN038,Pumpkin,Vegetables,5,18-09-2024,unsold
+PN038,Pumpkin,Vegetables,1,17-09-2024,unsold
+PN038,Pumpkin,Vegetables,1,14-09-2024,unsold
+PN038,Pumpkin,Vegetables,9,12-09-2024,sold
+PN038,Pumpkin,Vegetables,18,08-09-2024,sold
+PN038,Pumpkin,Vegetables,14,06-09-2024,sold
+PN038,Pumpkin,Vegetables,9,06-09-2024,sold
+PN038,Pumpkin,Vegetables,2,05-09-2024,sold
+PN038,Pumpkin,Vegetables,16,29-08-2024,sold
+PN038,Pumpkin,Vegetables,3,15-08-2024,unsold
+PN038,Pumpkin,Vegetables,2,14-08-2024,sold
+PN038,Pumpkin,Vegetables,6,13-08-2024,sold
+PN038,Pumpkin,Vegetables,4,13-08-2024,unsold
+PN038,Pumpkin,Vegetables,1,10-08-2024,unsold
+PN038,Pumpkin,Vegetables,16,06-08-2024,sold
+PN038,Pumpkin,Vegetables,2,26-07-2024,sold
+PN038,Pumpkin,Vegetables,4,26-07-2024,unsold
+PN038,Pumpkin,Vegetables,6,24-07-2024,sold
+PN038,Pumpkin,Vegetables,3,20-07-2024,sold
+PN038,Pumpkin,Vegetables,14,19-07-2024,sold
+PN038,Pumpkin,Vegetables,3,17-07-2024,unsold
+PN038,Pumpkin,Vegetables,3,07-07-2024,unsold
+PN038,Pumpkin,Vegetables,3,06-07-2024,unsold
+PN038,Pumpkin,Vegetables,16,01-07-2024,sold
+PN038,Pumpkin,Vegetables,18,29-06-2024,sold
+PN038,Pumpkin,Vegetables,14,28-06-2024,sold
+PN038,Pumpkin,Vegetables,11,25-06-2024,sold
+PN038,Pumpkin,Vegetables,4,24-06-2024,sold
+PN038,Pumpkin,Vegetables,11,21-06-2024,sold
+PN038,Pumpkin,Vegetables,1,17-06-2024,unsold
+PN038,Pumpkin,Vegetables,4,15-06-2024,unsold
+PN038,Pumpkin,Vegetables,10,12-06-2024,sold
+PN038,Pumpkin,Vegetables,17,12-06-2024,sold
+PN038,Pumpkin,Vegetables,4,12-06-2024,unsold
+PN038,Pumpkin,Vegetables,1,07-06-2024,unsold
+PN038,Pumpkin,Vegetables,2,30-05-2024,unsold
+PN038,Pumpkin,Vegetables,4,13-05-2024,unsold
+PN038,Pumpkin,Vegetables,8,11-05-2024,sold
+PN038,Pumpkin,Vegetables,1,11-05-2024,unsold
+PN038,Pumpkin,Vegetables,18,27-04-2024,sold
+PN038,Pumpkin,Vegetables,5,20-04-2024,sold
+PN038,Pumpkin,Vegetables,8,18-04-2024,sold
+PN038,Pumpkin,Vegetables,5,18-04-2024,unsold
+PN038,Pumpkin,Vegetables,10,13-04-2024,sold
+PN038,Pumpkin,Vegetables,5,11-04-2024,sold
+PN038,Pumpkin,Vegetables,1,11-04-2024,unsold
+PN038,Pumpkin,Vegetables,1,10-04-2024,unsold
+PN038,Pumpkin,Vegetables,4,10-04-2024,unsold
+PN038,Pumpkin,Vegetables,9,08-04-2024,sold
+PN038,Pumpkin,Vegetables,3,07-04-2024,sold
+PN038,Pumpkin,Vegetables,5,29-03-2024,sold
+PN038,Pumpkin,Vegetables,15,18-03-2024,sold
+PN038,Pumpkin,Vegetables,20,13-03-2024,sold
+PN038,Pumpkin,Vegetables,5,13-03-2024,unsold
+PN038,Pumpkin,Vegetables,6,07-03-2024,sold
+PN038,Pumpkin,Vegetables,2,05-03-2024,sold
+PN038,Pumpkin,Vegetables,10,04-03-2024,sold
+PN038,Pumpkin,Vegetables,13,04-03-2024,sold
+PN038,Pumpkin,Vegetables,14,01-03-2024,sold
+PN038,Pumpkin,Vegetables,1,28-02-2024,sold
+PN038,Pumpkin,Vegetables,5,25-02-2024,unsold
+PN038,Pumpkin,Vegetables,2,17-02-2024,unsold
+PN038,Pumpkin,Vegetables,17,05-02-2024,sold
+PN038,Pumpkin,Vegetables,18,23-01-2024,sold
+PN038,Pumpkin,Vegetables,11,19-01-2024,sold
+PN038,Pumpkin,Vegetables,11,18-01-2024,sold
+PN039,Red Wine,Beverages,14,30-12-2027,sold
+PN039,Red Wine,Beverages,4,29-12-2027,sold
+PN039,Red Wine,Beverages,10,22-12-2027,sold
+PN039,Red Wine,Beverages,3,20-12-2027,sold
+PN039,Red Wine,Beverages,18,20-12-2027,sold
+PN039,Red Wine,Beverages,17,16-12-2027,sold
+PN039,Red Wine,Beverages,10,11-12-2027,sold
+PN039,Red Wine,Beverages,5,09-12-2027,sold
+PN039,Red Wine,Beverages,2,04-12-2027,sold
+PN039,Red Wine,Beverages,15,02-12-2027,sold
+PN039,Red Wine,Beverages,8,27-11-2027,sold
+PN039,Red Wine,Beverages,2,26-11-2027,sold
+PN039,Red Wine,Beverages,1,18-11-2027,sold
+PN039,Red Wine,Beverages,7,17-11-2027,sold
+PN039,Red Wine,Beverages,3,08-11-2027,sold
+PN039,Red Wine,Beverages,15,08-11-2027,sold
+PN039,Red Wine,Beverages,21,08-11-2027,sold
+PN039,Red Wine,Beverages,24,08-11-2027,sold
+PN039,Red Wine,Beverages,9,05-11-2027,sold
+PN039,Red Wine,Beverages,7,03-11-2027,sold
+PN039,Red Wine,Beverages,3,30-10-2027,sold
+PN039,Red Wine,Beverages,15,29-10-2027,sold
+PN039,Red Wine,Beverages,4,28-10-2027,sold
+PN039,Red Wine,Beverages,1,27-10-2027,sold
+PN039,Red Wine,Beverages,10,24-10-2027,sold
+PN039,Red Wine,Beverages,6,23-10-2027,sold
+PN039,Red Wine,Beverages,1,13-10-2027,sold
+PN039,Red Wine,Beverages,8,09-10-2027,sold
+PN039,Red Wine,Beverages,1,04-10-2027,sold
+PN039,Red Wine,Beverages,25,03-10-2027,sold
+PN039,Red Wine,Beverages,24,03-10-2027,sold
+PN039,Red Wine,Beverages,18,03-10-2027,sold
+PN039,Red Wine,Beverages,21,03-10-2027,sold
+PN039,Red Wine,Beverages,5,30-09-2027,sold
+PN039,Red Wine,Beverages,2,28-09-2027,sold
+PN039,Red Wine,Beverages,4,05-09-2027,sold
+PN039,Red Wine,Beverages,14,30-08-2027,sold
+PN039,Red Wine,Beverages,12,27-08-2027,sold
+PN039,Red Wine,Beverages,16,25-08-2027,sold
+PN039,Red Wine,Beverages,14,11-08-2027,sold
+PN039,Red Wine,Beverages,4,10-08-2027,sold
+PN039,Red Wine,Beverages,5,09-08-2027,sold
+PN039,Red Wine,Beverages,11,07-08-2027,sold
+PN039,Red Wine,Beverages,5,04-08-2027,sold
+PN039,Red Wine,Beverages,25,29-07-2027,sold
+PN039,Red Wine,Beverages,21,29-07-2027,sold
+PN039,Red Wine,Beverages,22,29-07-2027,sold
+PN039,Red Wine,Beverages,29,29-07-2027,sold
+PN039,Red Wine,Beverages,10,27-07-2027,sold
+PN039,Red Wine,Beverages,2,21-07-2027,sold
+PN039,Red Wine,Beverages,8,18-07-2027,sold
+PN039,Red Wine,Beverages,7,17-07-2027,sold
+PN039,Red Wine,Beverages,6,16-07-2027,sold
+PN039,Red Wine,Beverages,5,14-07-2027,sold
+PN039,Red Wine,Beverages,7,14-07-2027,sold
+PN039,Red Wine,Beverages,4,12-07-2027,sold
+PN039,Red Wine,Beverages,10,10-07-2027,sold
+PN039,Red Wine,Beverages,2,09-07-2027,sold
+PN039,Red Wine,Beverages,3,07-07-2027,sold
+PN039,Red Wine,Beverages,9,04-07-2027,sold
+PN039,Red Wine,Beverages,14,25-06-2027,sold
+PN039,Red Wine,Beverages,8,24-06-2027,sold
+PN039,Red Wine,Beverages,5,22-06-2027,sold
+PN039,Red Wine,Beverages,3,22-06-2027,sold
+PN039,Red Wine,Beverages,7,15-06-2027,sold
+PN039,Red Wine,Beverages,1,14-06-2027,sold
+PN039,Red Wine,Beverages,12,12-06-2027,sold
+PN039,Red Wine,Beverages,8,04-06-2027,sold
+PN039,Red Wine,Beverages,5,31-05-2027,sold
+PN039,Red Wine,Beverages,9,30-05-2027,sold
+PN039,Red Wine,Beverages,6,22-05-2027,sold
+PN039,Red Wine,Beverages,2,21-05-2027,sold
+PN039,Red Wine,Beverages,11,20-05-2027,sold
+PN039,Red Wine,Beverages,8,17-05-2027,sold
+PN039,Red Wine,Beverages,10,13-05-2027,sold
+PN039,Red Wine,Beverages,10,09-05-2027,sold
+PN039,Red Wine,Beverages,7,03-05-2027,sold
+PN039,Red Wine,Beverages,14,03-05-2027,sold
+PN039,Red Wine,Beverages,8,25-04-2027,sold
+PN039,Red Wine,Beverages,4,23-04-2027,sold
+PN039,Red Wine,Beverages,6,22-04-2027,sold
+PN039,Red Wine,Beverages,8,16-04-2027,sold
+PN039,Red Wine,Beverages,3,16-04-2027,sold
+PN039,Red Wine,Beverages,4,14-04-2027,sold
+PN039,Red Wine,Beverages,8,10-04-2027,sold
+PN039,Red Wine,Beverages,6,08-04-2027,sold
+PN039,Red Wine,Beverages,3,07-04-2027,sold
+PN039,Red Wine,Beverages,10,04-04-2027,sold
+PN039,Red Wine,Beverages,9,03-04-2027,sold
+PN039,Red Wine,Beverages,1,03-04-2027,sold
+PN039,Red Wine,Beverages,6,31-03-2027,sold
+PN039,Red Wine,Beverages,9,31-03-2027,sold
+PN039,Red Wine,Beverages,8,30-03-2027,sold
+PN039,Red Wine,Beverages,3,28-03-2027,sold
+PN039,Red Wine,Beverages,5,16-03-2027,sold
+PN039,Red Wine,Beverages,1,25-02-2027,sold
+PN039,Red Wine,Beverages,8,25-02-2027,sold
+PN039,Red Wine,Beverages,2,25-02-2027,sold
+PN039,Red Wine,Beverages,2,24-02-2027,sold
+PN039,Red Wine,Beverages,4,24-02-2027,sold
+PN039,Red Wine,Beverages,5,18-02-2027,sold
+PN039,Red Wine,Beverages,23,13-02-2027,sold
+PN039,Red Wine,Beverages,13,13-02-2027,sold
+PN039,Red Wine,Beverages,11,13-02-2027,sold
+PN039,Red Wine,Beverages,22,13-02-2027,sold
+PN039,Red Wine,Beverages,16,13-02-2027,sold
+PN039,Red Wine,Beverages,18,13-02-2027,sold
+PN039,Red Wine,Beverages,24,13-02-2027,sold
+PN039,Red Wine,Beverages,26,13-02-2027,sold
+PN039,Red Wine,Beverages,11,13-02-2027,sold
+PN039,Red Wine,Beverages,19,13-02-2027,sold
+PN039,Red Wine,Beverages,28,13-02-2027,sold
+PN039,Red Wine,Beverages,1,12-02-2027,sold
+PN039,Red Wine,Beverages,9,09-02-2027,sold
+PN039,Red Wine,Beverages,10,09-02-2027,sold
+PN039,Red Wine,Beverages,6,09-02-2027,sold
+PN039,Red Wine,Beverages,1,05-02-2027,sold
+PN039,Red Wine,Beverages,5,02-02-2027,sold
+PN039,Red Wine,Beverages,7,01-02-2027,sold
+PN039,Red Wine,Beverages,7,01-02-2027,sold
+PN039,Red Wine,Beverages,2,31-01-2027,sold
+PN039,Red Wine,Beverages,4,29-01-2027,sold
+PN039,Red Wine,Beverages,10,29-01-2027,sold
+PN039,Red Wine,Beverages,2,25-01-2027,sold
+PN039,Red Wine,Beverages,10,18-01-2027,sold
+PN039,Red Wine,Beverages,5,17-01-2027,sold
+PN039,Red Wine,Beverages,1,17-01-2027,sold
+PN039,Red Wine,Beverages,10,16-01-2027,sold
+PN039,Red Wine,Beverages,2,14-01-2027,sold
+PN039,Red Wine,Beverages,8,13-01-2027,sold
+PN039,Red Wine,Beverages,1,10-01-2027,sold
+PN039,Red Wine,Beverages,15,28-12-2024,sold
+PN039,Red Wine,Beverages,5,28-12-2024,sold
+PN039,Red Wine,Beverages,1,28-12-2024,sold
+PN039,Red Wine,Beverages,9,28-12-2024,sold
+PN039,Red Wine,Beverages,7,28-12-2024,sold
+PN039,Red Wine,Beverages,7,28-12-2024,sold
+PN039,Red Wine,Beverages,7,28-12-2024,sold
+PN039,Red Wine,Beverages,10,28-12-2024,sold
+PN039,Red Wine,Beverages,2,28-12-2024,sold
+PN039,Red Wine,Beverages,5,28-12-2024,sold
+PN039,Red Wine,Beverages,13,28-12-2024,sold
+PN039,Red Wine,Beverages,2,28-12-2024,sold
+PN039,Red Wine,Beverages,2,28-12-2024,sold
+PN039,Red Wine,Beverages,1,28-12-2024,sold
+PN039,Red Wine,Beverages,4,28-12-2024,sold
+PN039,Red Wine,Beverages,12,18-12-2024,sold
+PN039,Red Wine,Beverages,8,02-12-2024,sold
+PN039,Red Wine,Beverages,10,07-11-2024,sold
+PN039,Red Wine,Beverages,10,25-10-2024,sold
+PN039,Red Wine,Beverages,4,16-09-2024,sold
+PN039,Red Wine,Beverages,4,09-09-2024,sold
+PN039,Red Wine,Beverages,8,09-09-2024,sold
+PN039,Red Wine,Beverages,15,28-08-2024,sold
+PN039,Red Wine,Beverages,1,22-08-2024,sold
+PN039,Red Wine,Beverages,8,14-08-2024,sold
+PN039,Red Wine,Beverages,6,31-07-2024,sold
+PN039,Red Wine,Beverages,7,10-07-2024,sold
+PN039,Red Wine,Beverages,15,22-06-2024,sold
+PN039,Red Wine,Beverages,7,14-06-2024,sold
+PN039,Red Wine,Beverages,5,02-06-2024,sold
+PN039,Red Wine,Beverages,7,03-05-2024,sold
+PN039,Red Wine,Beverages,11,01-05-2024,sold
+PN039,Red Wine,Beverages,10,05-04-2024,sold
+PN039,Red Wine,Beverages,11,03-04-2024,sold
+PN039,Red Wine,Beverages,1,17-03-2024,unsold
+PN039,Red Wine,Beverages,10,27-02-2024,sold
+PN039,Red Wine,Beverages,10,08-02-2024,sold
+PN039,Red Wine,Beverages,7,22-01-2024,sold
+PN040,Salami,Meat,5,21-01-2025,sold
+PN040,Salami,Meat,8,13-01-2025,sold
+PN040,Salami,Meat,2,01-01-2025,sold
+PN040,Salami,Meat,1,01-01-2025,sold
+PN040,Salami,Meat,11,12-12-2024,sold
+PN040,Salami,Meat,8,01-12-2024,sold
+PN040,Salami,Meat,2,30-11-2024,sold
+PN040,Salami,Meat,11,20-11-2024,sold
+PN040,Salami,Meat,9,14-11-2024,sold
+PN040,Salami,Meat,4,12-11-2024,sold
+PN040,Salami,Meat,11,25-10-2024,sold
+PN040,Salami,Meat,1,25-10-2024,sold
+PN040,Salami,Meat,7,24-10-2024,sold
+PN040,Salami,Meat,1,22-10-2024,unsold
+PN040,Salami,Meat,9,20-10-2024,sold
+PN040,Salami,Meat,1,16-10-2024,unsold
+PN040,Salami,Meat,3,15-10-2024,unsold
+PN040,Salami,Meat,10,11-10-2024,sold
+PN040,Salami,Meat,3,02-10-2024,sold
+PN040,Salami,Meat,14,02-10-2024,sold
+PN040,Salami,Meat,13,14-09-2024,sold
+PN040,Salami,Meat,9,12-09-2024,sold
+PN040,Salami,Meat,4,06-09-2024,sold
+PN040,Salami,Meat,11,25-08-2024,sold
+PN040,Salami,Meat,10,17-08-2024,sold
+PN040,Salami,Meat,5,15-08-2024,sold
+PN040,Salami,Meat,2,13-08-2024,sold
+PN040,Salami,Meat,1,10-08-2024,unsold
+PN040,Salami,Meat,6,04-08-2024,sold
+PN040,Salami,Meat,8,04-08-2024,sold
+PN040,Salami,Meat,10,04-08-2024,sold
+PN040,Salami,Meat,1,04-08-2024,sold
+PN040,Salami,Meat,1,28-07-2024,sold
+PN040,Salami,Meat,2,28-07-2024,unsold
+PN040,Salami,Meat,16,24-07-2024,sold
+PN040,Salami,Meat,1,15-07-2024,sold
+PN040,Salami,Meat,18,11-07-2024,sold
+PN040,Salami,Meat,16,03-07-2024,sold
+PN040,Salami,Meat,17,25-06-2024,sold
+PN040,Salami,Meat,4,15-06-2024,unsold
+PN040,Salami,Meat,15,09-06-2024,sold
+PN040,Salami,Meat,11,09-06-2024,sold
+PN040,Salami,Meat,13,06-06-2024,sold
+PN040,Salami,Meat,13,26-05-2024,sold
+PN040,Salami,Meat,5,13-05-2024,unsold
+PN040,Salami,Meat,3,13-05-2024,unsold
+PN040,Salami,Meat,1,12-05-2024,unsold
+PN040,Salami,Meat,3,12-05-2024,unsold
+PN040,Salami,Meat,10,09-05-2024,sold
+PN040,Salami,Meat,19,05-05-2024,sold
+PN040,Salami,Meat,16,30-04-2024,sold
+PN040,Salami,Meat,5,27-04-2024,unsold
+PN040,Salami,Meat,18,25-04-2024,sold
+PN040,Salami,Meat,18,20-04-2024,sold
+PN040,Salami,Meat,14,09-04-2024,sold
+PN040,Salami,Meat,14,07-04-2024,sold
+PN040,Salami,Meat,15,31-03-2024,sold
+PN040,Salami,Meat,5,13-03-2024,unsold
+PN040,Salami,Meat,3,11-03-2024,unsold
+PN040,Salami,Meat,20,05-03-2024,sold
+PN040,Salami,Meat,2,04-03-2024,unsold
+PN040,Salami,Meat,10,28-01-2024,sold
+PN040,Salami,Meat,2,25-01-2024,unsold
+PN040,Salami,Meat,19,23-01-2024,sold
+PN040,Salami,Meat,6,21-01-2024,sold
+PN040,Salami,Meat,5,17-01-2024,sold
+PN040,Salami,Meat,17,03-01-2024,sold
+PN040,Salami,Meat,2,03-01-2024,unsold
+PN041,Salmon Fillets,Seafood,15,03-01-2025,sold
+PN041,Salmon Fillets,Seafood,16,30-12-2024,sold
+PN041,Salmon Fillets,Seafood,13,22-12-2024,sold
+PN041,Salmon Fillets,Seafood,16,21-12-2024,sold
+PN041,Salmon Fillets,Seafood,5,13-12-2024,unsold
+PN041,Salmon Fillets,Seafood,15,28-11-2024,sold
+PN041,Salmon Fillets,Seafood,11,24-11-2024,sold
+PN041,Salmon Fillets,Seafood,3,24-11-2024,sold
+PN041,Salmon Fillets,Seafood,7,19-11-2024,sold
+PN041,Salmon Fillets,Seafood,16,05-11-2024,sold
+PN041,Salmon Fillets,Seafood,17,27-10-2024,sold
+PN041,Salmon Fillets,Seafood,5,19-10-2024,unsold
+PN041,Salmon Fillets,Seafood,10,17-10-2024,sold
+PN041,Salmon Fillets,Seafood,18,05-10-2024,sold
+PN041,Salmon Fillets,Seafood,14,26-09-2024,sold
+PN041,Salmon Fillets,Seafood,2,13-09-2024,unsold
+PN041,Salmon Fillets,Seafood,9,27-08-2024,sold
+PN041,Salmon Fillets,Seafood,16,14-08-2024,sold
+PN041,Salmon Fillets,Seafood,4,09-08-2024,sold
+PN041,Salmon Fillets,Seafood,13,04-08-2024,sold
+PN041,Salmon Fillets,Seafood,19,03-08-2024,sold
+PN041,Salmon Fillets,Seafood,11,01-08-2024,sold
+PN041,Salmon Fillets,Seafood,1,22-07-2024,unsold
+PN041,Salmon Fillets,Seafood,10,10-07-2024,sold
+PN041,Salmon Fillets,Seafood,13,20-06-2024,sold
+PN041,Salmon Fillets,Seafood,14,13-06-2024,sold
+PN041,Salmon Fillets,Seafood,2,07-06-2024,unsold
+PN041,Salmon Fillets,Seafood,3,03-06-2024,unsold
+PN041,Salmon Fillets,Seafood,17,29-05-2024,sold
+PN041,Salmon Fillets,Seafood,14,28-05-2024,sold
+PN041,Salmon Fillets,Seafood,8,22-05-2024,sold
+PN041,Salmon Fillets,Seafood,16,14-05-2024,sold
+PN041,Salmon Fillets,Seafood,6,06-05-2024,sold
+PN041,Salmon Fillets,Seafood,10,03-05-2024,sold
+PN041,Salmon Fillets,Seafood,2,18-04-2024,sold
+PN041,Salmon Fillets,Seafood,11,01-04-2024,sold
+PN041,Salmon Fillets,Seafood,7,31-03-2024,sold
+PN041,Salmon Fillets,Seafood,11,25-03-2024,sold
+PN041,Salmon Fillets,Seafood,17,25-03-2024,sold
+PN041,Salmon Fillets,Seafood,5,20-03-2024,sold
+PN041,Salmon Fillets,Seafood,8,20-03-2024,sold
+PN041,Salmon Fillets,Seafood,2,18-03-2024,sold
+PN041,Salmon Fillets,Seafood,3,16-03-2024,unsold
+PN041,Salmon Fillets,Seafood,17,15-03-2024,sold
+PN041,Salmon Fillets,Seafood,16,10-03-2024,sold
+PN041,Salmon Fillets,Seafood,5,07-03-2024,sold
+PN041,Salmon Fillets,Seafood,4,22-02-2024,unsold
+PN041,Salmon Fillets,Seafood,6,21-02-2024,sold
+PN041,Salmon Fillets,Seafood,8,13-02-2024,sold
+PN041,Salmon Fillets,Seafood,19,11-02-2024,sold
+PN041,Salmon Fillets,Seafood,7,10-02-2024,sold
+PN041,Salmon Fillets,Seafood,12,07-02-2024,sold
+PN041,Salmon Fillets,Seafood,2,04-02-2024,sold
+PN041,Salmon Fillets,Seafood,8,03-02-2024,sold
+PN041,Salmon Fillets,Seafood,19,28-01-2024,sold
+PN041,Salmon Fillets,Seafood,13,25-01-2024,sold
+PN041,Salmon Fillets,Seafood,1,23-01-2024,sold
+PN041,Salmon Fillets,Seafood,5,20-01-2024,sold
+PN041,Salmon Fillets,Seafood,7,12-01-2024,sold
+PN041,Salmon Fillets,Seafood,19,09-01-2024,sold
+PN041,Salmon Fillets,Seafood,12,08-01-2024,sold
+PN042,Smoothie,Beverages,5,31-04-2024,unsold
+PN042,Smoothie,Beverages,1,29-12-2024,sold
+PN042,Smoothie,Beverages,13,28-12-2024,sold
+PN042,Smoothie,Beverages,4,27-12-2024,sold
+PN042,Smoothie,Beverages,3,25-12-2024,sold
+PN042,Smoothie,Beverages,4,12-12-2024,sold
+PN042,Smoothie,Beverages,15,11-12-2024,sold
+PN042,Smoothie,Beverages,15,03-12-2024,sold
+PN042,Smoothie,Beverages,2,29-11-2024,sold
+PN042,Smoothie,Beverages,15,21-11-2024,sold
+PN042,Smoothie,Beverages,11,27-10-2024,sold
+PN042,Smoothie,Beverages,4,18-10-2024,sold
+PN042,Smoothie,Beverages,2,06-10-2024,sold
+PN042,Smoothie,Beverages,5,04-10-2024,unsold
+PN042,Smoothie,Beverages,4,16-09-2024,sold
+PN042,Smoothie,Beverages,11,14-09-2024,sold
+PN042,Smoothie,Beverages,4,09-09-2024,sold
+PN042,Smoothie,Beverages,12,31-08-2024,sold
+PN042,Smoothie,Beverages,3,27-08-2024,sold
+PN042,Smoothie,Beverages,3,24-08-2024,sold
+PN042,Smoothie,Beverages,10,11-08-2024,sold
+PN042,Smoothie,Beverages,6,03-08-2024,sold
+PN042,Smoothie,Beverages,9,01-08-2024,sold
+PN042,Smoothie,Beverages,14,27-07-2024,sold
+PN042,Smoothie,Beverages,7,24-07-2024,sold
+PN042,Smoothie,Beverages,16,21-07-2024,sold
+PN042,Smoothie,Beverages,11,21-07-2024,sold
+PN042,Smoothie,Beverages,18,13-07-2024,sold
+PN042,Smoothie,Beverages,12,07-07-2024,sold
+PN042,Smoothie,Beverages,12,04-07-2024,sold
+PN042,Smoothie,Beverages,1,04-07-2024,sold
+PN042,Smoothie,Beverages,2,03-07-2024,sold
+PN042,Smoothie,Beverages,9,03-07-2024,sold
+PN042,Smoothie,Beverages,7,27-06-2024,sold
+PN042,Smoothie,Beverages,1,23-06-2024,sold
+PN042,Smoothie,Beverages,13,10-06-2024,sold
+PN042,Smoothie,Beverages,1,02-06-2024,sold
+PN042,Smoothie,Beverages,19,26-05-2024,sold
+PN042,Smoothie,Beverages,9,18-05-2024,sold
+PN042,Smoothie,Beverages,14,17-05-2024,sold
+PN042,Smoothie,Beverages,7,12-05-2024,sold
+PN042,Smoothie,Beverages,15,26-04-2024,sold
+PN042,Smoothie,Beverages,6,25-04-2024,sold
+PN042,Smoothie,Beverages,10,22-04-2024,sold
+PN042,Smoothie,Beverages,9,22-04-2024,sold
+PN042,Smoothie,Beverages,3,18-04-2024,sold
+PN042,Smoothie,Beverages,6,11-04-2024,sold
+PN042,Smoothie,Beverages,20,03-04-2024,sold
+PN042,Smoothie,Beverages,14,03-04-2024,sold
+PN042,Smoothie,Beverages,10,28-03-2024,sold
+PN042,Smoothie,Beverages,7,27-03-2024,sold
+PN042,Smoothie,Beverages,18,23-03-2024,sold
+PN042,Smoothie,Beverages,9,23-03-2024,sold
+PN042,Smoothie,Beverages,11,20-03-2024,sold
+PN042,Smoothie,Beverages,5,27-02-2024,unsold
+PN042,Smoothie,Beverages,15,06-02-2024,sold
+PN042,Smoothie,Beverages,8,01-02-2024,sold
+PN042,Smoothie,Beverages,7,25-01-2024,sold
+PN042,Smoothie,Beverages,8,22-01-2024,sold
+PN043,Soft Drinks,Beverages,13,21-08-2025,sold
+PN043,Soft Drinks,Beverages,14,07-08-2025,sold
+PN043,Soft Drinks,Beverages,4,20-07-2025,sold
+PN043,Soft Drinks,Beverages,2,30-06-2025,sold
+PN043,Soft Drinks,Beverages,7,28-06-2025,sold
+PN043,Soft Drinks,Beverages,9,24-06-2025,sold
+PN043,Soft Drinks,Beverages,10,21-06-2025,sold
+PN043,Soft Drinks,Beverages,12,10-06-2025,sold
+PN043,Soft Drinks,Beverages,9,10-05-2025,sold
+PN043,Soft Drinks,Beverages,11,06-05-2025,sold
+PN043,Soft Drinks,Beverages,5,25-03-2025,sold
+PN043,Soft Drinks,Beverages,21,12-03-2025,sold
+PN043,Soft Drinks,Beverages,13,12-03-2025,sold
+PN043,Soft Drinks,Beverages,13,12-03-2025,sold
+PN043,Soft Drinks,Beverages,2,28-02-2025,sold
+PN043,Soft Drinks,Beverages,20,28-02-2025,sold
+PN043,Soft Drinks,Beverages,17,24-01-2025,sold
+PN043,Soft Drinks,Beverages,8,02-01-2025,sold
+PN043,Soft Drinks,Beverages,9,01-01-2025,sold
+PN043,Soft Drinks,Beverages,14,30-12-2024,sold
+PN043,Soft Drinks,Beverages,14,29-12-2024,sold
+PN043,Soft Drinks,Beverages,9,22-12-2024,sold
+PN043,Soft Drinks,Beverages,10,18-12-2024,sold
+PN043,Soft Drinks,Beverages,16,05-12-2024,sold
+PN043,Soft Drinks,Beverages,3,30-11-2024,sold
+PN043,Soft Drinks,Beverages,4,29-11-2024,sold
+PN043,Soft Drinks,Beverages,8,25-11-2024,sold
+PN043,Soft Drinks,Beverages,9,22-11-2024,sold
+PN043,Soft Drinks,Beverages,1,31-10-2024,sold
+PN043,Soft Drinks,Beverages,8,18-10-2024,sold
+PN043,Soft Drinks,Beverages,17,07-10-2024,sold
+PN043,Soft Drinks,Beverages,10,07-10-2024,sold
+PN043,Soft Drinks,Beverages,9,01-10-2024,sold
+PN043,Soft Drinks,Beverages,7,28-09-2024,sold
+PN043,Soft Drinks,Beverages,11,27-09-2024,sold
+PN043,Soft Drinks,Beverages,17,19-09-2024,sold
+PN043,Soft Drinks,Beverages,15,04-09-2024,sold
+PN043,Soft Drinks,Beverages,1,03-09-2024,sold
+PN043,Soft Drinks,Beverages,10,03-09-2024,sold
+PN043,Soft Drinks,Beverages,9,30-08-2024,sold
+PN043,Soft Drinks,Beverages,9,30-08-2024,sold
+PN043,Soft Drinks,Beverages,19,16-08-2024,sold
+PN043,Soft Drinks,Beverages,5,17-07-2024,sold
+PN043,Soft Drinks,Beverages,1,24-05-2024,sold
+PN043,Soft Drinks,Beverages,3,19-05-2024,unsold
+PN043,Soft Drinks,Beverages,4,29-01-2024,unsold
+PN043,Soft Drinks,Beverages,15,09-01-2024,sold
+PN044,Sparkling Wine,Beverages,13,31-12-2025,sold
+PN044,Sparkling Wine,Beverages,8,24-11-2025,sold
+PN044,Sparkling Wine,Beverages,16,08-11-2025,sold
+PN044,Sparkling Wine,Beverages,28,08-11-2025,sold
+PN044,Sparkling Wine,Beverages,2,04-11-2025,sold
+PN044,Sparkling Wine,Beverages,12,29-10-2025,sold
+PN044,Sparkling Wine,Beverages,6,27-10-2025,sold
+PN044,Sparkling Wine,Beverages,12,22-10-2025,sold
+PN044,Sparkling Wine,Beverages,2,17-10-2025,sold
+PN044,Sparkling Wine,Beverages,4,07-10-2025,sold
+PN044,Sparkling Wine,Beverages,25,03-10-2025,sold
+PN044,Sparkling Wine,Beverages,20,03-10-2025,sold
+PN044,Sparkling Wine,Beverages,7,01-10-2025,sold
+PN044,Sparkling Wine,Beverages,12,19-09-2025,sold
+PN044,Sparkling Wine,Beverages,9,15-09-2025,sold
+PN044,Sparkling Wine,Beverages,7,10-09-2025,sold
+PN044,Sparkling Wine,Beverages,1,06-08-2025,sold
+PN044,Sparkling Wine,Beverages,15,30-07-2025,sold
+PN044,Sparkling Wine,Beverages,29,29-07-2025,sold
+PN044,Sparkling Wine,Beverages,9,23-07-2025,sold
+PN044,Sparkling Wine,Beverages,7,20-07-2025,sold
+PN044,Sparkling Wine,Beverages,14,05-07-2025,sold
+PN044,Sparkling Wine,Beverages,13,24-06-2025,sold
+PN044,Sparkling Wine,Beverages,8,14-06-2025,sold
+PN044,Sparkling Wine,Beverages,7,25-04-2025,sold
+PN044,Sparkling Wine,Beverages,1,08-04-2025,sold
+PN044,Sparkling Wine,Beverages,7,01-04-2025,sold
+PN044,Sparkling Wine,Beverages,4,18-03-2025,sold
+PN044,Sparkling Wine,Beverages,17,09-03-2025,sold
+PN044,Sparkling Wine,Beverages,10,26-02-2025,sold
+PN044,Sparkling Wine,Beverages,19,22-02-2025,sold
+PN044,Sparkling Wine,Beverages,19,13-02-2025,sold
+PN044,Sparkling Wine,Beverages,19,13-02-2025,sold
+PN044,Sparkling Wine,Beverages,19,06-02-2025,sold
+PN044,Sparkling Wine,Beverages,8,03-02-2025,sold
+PN044,Sparkling Wine,Beverages,18,18-01-2025,sold
+PN044,Sparkling Wine,Beverages,11,16-01-2025,sold
+PN044,Sparkling Wine,Beverages,5,02-01-2025,sold
+PN044,Sparkling Wine,Beverages,9,01-01-2025,sold
+PN044,Sparkling Wine,Beverages,9,09-12-2024,sold
+PN044,Sparkling Wine,Beverages,12,24-11-2024,sold
+PN044,Sparkling Wine,Beverages,16,17-11-2024,sold
+PN044,Sparkling Wine,Beverages,17,01-11-2024,sold
+PN044,Sparkling Wine,Beverages,19,21-09-2024,sold
+PN044,Sparkling Wine,Beverages,16,17-09-2024,sold
+PN044,Sparkling Wine,Beverages,1,03-08-2024,sold
+PN044,Sparkling Wine,Beverages,6,10-07-2024,sold
+PN044,Sparkling Wine,Beverages,14,29-06-2024,sold
+PN044,Sparkling Wine,Beverages,15,22-06-2024,sold
+PN044,Sparkling Wine,Beverages,19,10-06-2024,sold
+PN044,Sparkling Wine,Beverages,13,07-06-2024,sold
+PN044,Sparkling Wine,Beverages,4,04-06-2024,sold
+PN044,Sparkling Wine,Beverages,10,31-05-2024,sold
+PN044,Sparkling Wine,Beverages,4,27-05-2024,sold
+PN044,Sparkling Wine,Beverages,3,18-03-2024,sold
+PN044,Sparkling Wine,Beverages,18,24-02-2024,sold
+PN044,Sparkling Wine,Beverages,20,11-02-2024,sold
+PN044,Sparkling Wine,Beverages,1,04-02-2024,unsold
+PN044,Sparkling Wine,Beverages,15,23-01-2024,sold
+PN045,Spinach,Vegetables,14,30-12-2024,sold
+PN045,Spinach,Vegetables,19,23-12-2024,sold
+PN045,Spinach,Vegetables,1,22-12-2024,unsold
+PN045,Spinach,Vegetables,20,14-12-2024,sold
+PN045,Spinach,Vegetables,1,07-12-2024,unsold
+PN045,Spinach,Vegetables,4,07-12-2024,unsold
+PN045,Spinach,Vegetables,4,06-12-2024,unsold
+PN045,Spinach,Vegetables,2,06-12-2024,unsold
+PN045,Spinach,Vegetables,6,04-12-2024,sold
+PN045,Spinach,Vegetables,2,04-12-2024,unsold
+PN045,Spinach,Vegetables,4,24-11-2024,unsold
+PN045,Spinach,Vegetables,3,10-11-2024,sold
+PN045,Spinach,Vegetables,20,30-10-2024,sold
+PN045,Spinach,Vegetables,20,27-10-2024,sold
+PN045,Spinach,Vegetables,3,25-10-2024,unsold
+PN045,Spinach,Vegetables,3,23-10-2024,unsold
+PN045,Spinach,Vegetables,1,20-10-2024,unsold
+PN045,Spinach,Vegetables,2,19-10-2024,unsold
+PN045,Spinach,Vegetables,6,18-10-2024,sold
+PN045,Spinach,Vegetables,1,16-10-2024,unsold
+PN045,Spinach,Vegetables,16,15-10-2024,sold
+PN045,Spinach,Vegetables,20,14-10-2024,sold
+PN045,Spinach,Vegetables,17,06-10-2024,sold
+PN045,Spinach,Vegetables,4,04-10-2024,sold
+PN045,Spinach,Vegetables,6,01-10-2024,sold
+PN045,Spinach,Vegetables,10,28-09-2024,sold
+PN045,Spinach,Vegetables,1,22-09-2024,sold
+PN045,Spinach,Vegetables,2,16-09-2024,unsold
+PN045,Spinach,Vegetables,9,12-09-2024,sold
+PN045,Spinach,Vegetables,17,30-08-2024,sold
+PN045,Spinach,Vegetables,2,27-08-2024,unsold
+PN045,Spinach,Vegetables,18,12-08-2024,sold
+PN045,Spinach,Vegetables,4,11-08-2024,unsold
+PN045,Spinach,Vegetables,2,06-08-2024,sold
+PN045,Spinach,Vegetables,4,02-08-2024,unsold
+PN045,Spinach,Vegetables,17,31-07-2024,sold
+PN045,Spinach,Vegetables,10,29-07-2024,sold
+PN045,Spinach,Vegetables,7,28-07-2024,sold
+PN045,Spinach,Vegetables,2,28-07-2024,unsold
+PN045,Spinach,Vegetables,3,26-07-2024,unsold
+PN045,Spinach,Vegetables,5,25-07-2024,sold
+PN045,Spinach,Vegetables,18,24-07-2024,sold
+PN045,Spinach,Vegetables,14,24-07-2024,sold
+PN045,Spinach,Vegetables,2,17-07-2024,unsold
+PN045,Spinach,Vegetables,9,16-07-2024,sold
+PN045,Spinach,Vegetables,11,15-07-2024,sold
+PN045,Spinach,Vegetables,13,10-07-2024,sold
+PN045,Spinach,Vegetables,13,10-07-2024,sold
+PN045,Spinach,Vegetables,4,08-07-2024,unsold
+PN045,Spinach,Vegetables,6,06-07-2024,sold
+PN045,Spinach,Vegetables,4,28-06-2024,sold
+PN045,Spinach,Vegetables,4,28-06-2024,unsold
+PN045,Spinach,Vegetables,16,17-06-2024,sold
+PN045,Spinach,Vegetables,3,12-06-2024,unsold
+PN045,Spinach,Vegetables,12,08-06-2024,sold
+PN045,Spinach,Vegetables,1,07-06-2024,unsold
+PN045,Spinach,Vegetables,5,03-06-2024,unsold
+PN045,Spinach,Vegetables,1,03-06-2024,unsold
+PN045,Spinach,Vegetables,2,31-05-2024,sold
+PN045,Spinach,Vegetables,8,26-05-2024,sold
+PN045,Spinach,Vegetables,12,23-05-2024,sold
+PN045,Spinach,Vegetables,1,16-05-2024,unsold
+PN045,Spinach,Vegetables,11,08-05-2024,sold
+PN045,Spinach,Vegetables,18,02-05-2024,sold
+PN045,Spinach,Vegetables,11,27-04-2024,sold
+PN045,Spinach,Vegetables,18,24-04-2024,sold
+PN045,Spinach,Vegetables,3,18-04-2024,sold
+PN045,Spinach,Vegetables,2,18-04-2024,unsold
+PN045,Spinach,Vegetables,17,13-04-2024,sold
+PN045,Spinach,Vegetables,18,04-04-2024,sold
+PN045,Spinach,Vegetables,10,03-04-2024,sold
+PN045,Spinach,Vegetables,3,31-03-2024,sold
+PN045,Spinach,Vegetables,18,30-03-2024,sold
+PN045,Spinach,Vegetables,3,27-03-2024,unsold
+PN045,Spinach,Vegetables,13,13-03-2024,sold
+PN045,Spinach,Vegetables,1,13-03-2024,unsold
+PN045,Spinach,Vegetables,11,09-03-2024,sold
+PN045,Spinach,Vegetables,18,09-03-2024,sold
+PN045,Spinach,Vegetables,3,04-03-2024,sold
+PN045,Spinach,Vegetables,1,01-03-2024,unsold
+PN045,Spinach,Vegetables,8,27-02-2024,sold
+PN045,Spinach,Vegetables,2,22-02-2024,unsold
+PN045,Spinach,Vegetables,1,22-02-2024,unsold
+PN045,Spinach,Vegetables,5,17-02-2024,unsold
+PN045,Spinach,Vegetables,19,08-02-2024,sold
+PN045,Spinach,Vegetables,17,01-02-2024,sold
+PN045,Spinach,Vegetables,2,24-01-2024,sold
+PN045,Spinach,Vegetables,12,05-01-2024,sold
+PN045,Spinach,Vegetables,4,04-01-2024,unsold
+PN046,Strawberries,Fruits,14,03-01-2025,sold
+PN046,Strawberries,Fruits,12,02-01-2025,sold
+PN046,Strawberries,Fruits,12,26-12-2024,sold
+PN046,Strawberries,Fruits,4,22-12-2024,unsold
+PN046,Strawberries,Fruits,2,22-12-2024,unsold
+PN046,Strawberries,Fruits,14,18-12-2024,sold
+PN046,Strawberries,Fruits,4,18-12-2024,unsold
+PN046,Strawberries,Fruits,11,10-12-2024,sold
+PN046,Strawberries,Fruits,2,04-12-2024,unsold
+PN046,Strawberries,Fruits,8,30-11-2024,sold
+PN046,Strawberries,Fruits,6,25-11-2024,sold
+PN046,Strawberries,Fruits,5,21-11-2024,unsold
+PN046,Strawberries,Fruits,5,21-11-2024,unsold
+PN046,Strawberries,Fruits,20,15-11-2024,sold
+PN046,Strawberries,Fruits,2,15-11-2024,unsold
+PN046,Strawberries,Fruits,13,12-11-2024,sold
+PN046,Strawberries,Fruits,2,31-10-2024,sold
+PN046,Strawberries,Fruits,4,30-10-2024,sold
+PN046,Strawberries,Fruits,12,26-10-2024,sold
+PN046,Strawberries,Fruits,5,23-10-2024,sold
+PN046,Strawberries,Fruits,8,18-10-2024,sold
+PN046,Strawberries,Fruits,1,16-10-2024,unsold
+PN046,Strawberries,Fruits,3,15-10-2024,unsold
+PN046,Strawberries,Fruits,1,13-10-2024,unsold
+PN046,Strawberries,Fruits,12,12-10-2024,sold
+PN046,Strawberries,Fruits,11,09-10-2024,sold
+PN046,Strawberries,Fruits,4,04-10-2024,sold
+PN046,Strawberries,Fruits,8,03-10-2024,sold
+PN046,Strawberries,Fruits,4,26-09-2024,sold
+PN046,Strawberries,Fruits,1,18-09-2024,unsold
+PN046,Strawberries,Fruits,2,16-09-2024,unsold
+PN046,Strawberries,Fruits,3,07-09-2024,unsold
+PN046,Strawberries,Fruits,1,05-09-2024,unsold
+PN046,Strawberries,Fruits,12,03-09-2024,sold
+PN046,Strawberries,Fruits,18,28-08-2024,sold
+PN046,Strawberries,Fruits,2,27-08-2024,unsold
+PN046,Strawberries,Fruits,6,22-08-2024,sold
+PN046,Strawberries,Fruits,1,16-08-2024,sold
+PN046,Strawberries,Fruits,10,15-08-2024,sold
+PN046,Strawberries,Fruits,4,15-08-2024,unsold
+PN046,Strawberries,Fruits,5,15-08-2024,unsold
+PN046,Strawberries,Fruits,17,10-08-2024,sold
+PN046,Strawberries,Fruits,12,03-08-2024,sold
+PN046,Strawberries,Fruits,20,28-07-2024,sold
+PN046,Strawberries,Fruits,4,04-07-2024,sold
+PN046,Strawberries,Fruits,5,27-06-2024,unsold
+PN046,Strawberries,Fruits,10,22-06-2024,sold
+PN046,Strawberries,Fruits,4,12-06-2024,unsold
+PN046,Strawberries,Fruits,3,12-06-2024,unsold
+PN046,Strawberries,Fruits,5,05-06-2024,unsold
+PN046,Strawberries,Fruits,20,01-06-2024,sold
+PN046,Strawberries,Fruits,3,30-05-2024,unsold
+PN046,Strawberries,Fruits,1,23-05-2024,unsold
+PN046,Strawberries,Fruits,19,19-05-2024,sold
+PN046,Strawberries,Fruits,1,15-05-2024,unsold
+PN046,Strawberries,Fruits,1,15-05-2024,unsold
+PN046,Strawberries,Fruits,4,14-05-2024,sold
+PN046,Strawberries,Fruits,3,12-05-2024,sold
+PN046,Strawberries,Fruits,5,11-05-2024,unsold
+PN046,Strawberries,Fruits,19,05-05-2024,sold
+PN046,Strawberries,Fruits,9,03-05-2024,sold
+PN046,Strawberries,Fruits,3,28-04-2024,unsold
+PN046,Strawberries,Fruits,2,28-04-2024,unsold
+PN046,Strawberries,Fruits,1,18-04-2024,unsold
+PN046,Strawberries,Fruits,1,11-04-2024,sold
+PN046,Strawberries,Fruits,5,11-04-2024,unsold
+PN046,Strawberries,Fruits,7,06-04-2024,sold
+PN046,Strawberries,Fruits,18,04-04-2024,sold
+PN046,Strawberries,Fruits,12,03-04-2024,sold
+PN046,Strawberries,Fruits,2,02-04-2024,sold
+PN046,Strawberries,Fruits,5,27-03-2024,unsold
+PN046,Strawberries,Fruits,12,24-03-2024,sold
+PN046,Strawberries,Fruits,1,14-03-2024,unsold
+PN046,Strawberries,Fruits,3,13-03-2024,unsold
+PN046,Strawberries,Fruits,5,13-03-2024,unsold
+PN046,Strawberries,Fruits,8,11-03-2024,sold
+PN046,Strawberries,Fruits,1,09-03-2024,unsold
+PN046,Strawberries,Fruits,4,02-03-2024,sold
+PN046,Strawberries,Fruits,4,23-02-2024,unsold
+PN046,Strawberries,Fruits,2,22-02-2024,unsold
+PN046,Strawberries,Fruits,2,22-02-2024,unsold
+PN046,Strawberries,Fruits,12,20-02-2024,sold
+PN046,Strawberries,Fruits,13,08-02-2024,sold
+PN046,Strawberries,Fruits,10,03-02-2024,sold
+PN046,Strawberries,Fruits,2,17-01-2024,sold
+PN046,Strawberries,Fruits,19,06-01-2024,sold
+PN046,Strawberries,Fruits,1,03-01-2024,unsold
+PN047,Tomatoes,Vegetables,17,26-12-2024,sold
+PN047,Tomatoes,Vegetables,3,22-12-2024,unsold
+PN047,Tomatoes,Vegetables,5,09-12-2024,unsold
+PN047,Tomatoes,Vegetables,4,24-11-2024,unsold
+PN047,Tomatoes,Vegetables,7,21-11-2024,sold
+PN047,Tomatoes,Vegetables,18,13-11-2024,sold
+PN047,Tomatoes,Vegetables,4,06-11-2024,sold
+PN047,Tomatoes,Vegetables,17,01-11-2024,sold
+PN047,Tomatoes,Vegetables,5,30-10-2024,unsold
+PN047,Tomatoes,Vegetables,2,24-10-2024,unsold
+PN047,Tomatoes,Vegetables,5,23-10-2024,unsold
+PN047,Tomatoes,Vegetables,2,20-10-2024,sold
+PN047,Tomatoes,Vegetables,4,20-10-2024,unsold
+PN047,Tomatoes,Vegetables,5,14-10-2024,unsold
+PN047,Tomatoes,Vegetables,9,04-10-2024,sold
+PN047,Tomatoes,Vegetables,15,28-09-2024,sold
+PN047,Tomatoes,Vegetables,15,25-09-2024,sold
+PN047,Tomatoes,Vegetables,6,18-09-2024,sold
+PN047,Tomatoes,Vegetables,13,12-09-2024,sold
+PN047,Tomatoes,Vegetables,9,01-09-2024,sold
+PN047,Tomatoes,Vegetables,18,29-08-2024,sold
+PN047,Tomatoes,Vegetables,15,21-08-2024,sold
+PN047,Tomatoes,Vegetables,5,21-08-2024,unsold
+PN047,Tomatoes,Vegetables,5,21-08-2024,unsold
+PN047,Tomatoes,Vegetables,17,15-08-2024,sold
+PN047,Tomatoes,Vegetables,3,13-08-2024,unsold
+PN047,Tomatoes,Vegetables,5,10-08-2024,sold
+PN047,Tomatoes,Vegetables,17,29-07-2024,sold
+PN047,Tomatoes,Vegetables,1,28-07-2024,sold
+PN047,Tomatoes,Vegetables,1,26-07-2024,unsold
+PN047,Tomatoes,Vegetables,6,16-07-2024,sold
+PN047,Tomatoes,Vegetables,5,16-07-2024,unsold
+PN047,Tomatoes,Vegetables,5,07-07-2024,unsold
+PN047,Tomatoes,Vegetables,2,01-07-2024,unsold
+PN047,Tomatoes,Vegetables,5,01-07-2024,unsold
+PN047,Tomatoes,Vegetables,1,27-06-2024,unsold
+PN047,Tomatoes,Vegetables,3,18-06-2024,unsold
+PN047,Tomatoes,Vegetables,3,15-06-2024,unsold
+PN047,Tomatoes,Vegetables,15,13-06-2024,sold
+PN047,Tomatoes,Vegetables,14,03-06-2024,sold
+PN047,Tomatoes,Vegetables,7,29-05-2024,sold
+PN047,Tomatoes,Vegetables,7,29-05-2024,sold
+PN047,Tomatoes,Vegetables,15,25-05-2024,sold
+PN047,Tomatoes,Vegetables,3,19-05-2024,unsold
+PN047,Tomatoes,Vegetables,5,15-05-2024,sold
+PN047,Tomatoes,Vegetables,8,15-05-2024,sold
+PN047,Tomatoes,Vegetables,11,12-05-2024,sold
+PN047,Tomatoes,Vegetables,2,12-05-2024,unsold
+PN047,Tomatoes,Vegetables,5,11-05-2024,unsold
+PN047,Tomatoes,Vegetables,3,10-05-2024,sold
+PN047,Tomatoes,Vegetables,5,03-05-2024,unsold
+PN047,Tomatoes,Vegetables,14,29-04-2024,sold
+PN047,Tomatoes,Vegetables,12,22-04-2024,sold
+PN047,Tomatoes,Vegetables,2,19-04-2024,unsold
+PN047,Tomatoes,Vegetables,1,18-04-2024,unsold
+PN047,Tomatoes,Vegetables,4,18-04-2024,unsold
+PN047,Tomatoes,Vegetables,3,14-04-2024,unsold
+PN047,Tomatoes,Vegetables,9,10-04-2024,sold
+PN047,Tomatoes,Vegetables,3,29-03-2024,sold
+PN047,Tomatoes,Vegetables,4,23-03-2024,sold
+PN047,Tomatoes,Vegetables,16,20-03-2024,sold
+PN047,Tomatoes,Vegetables,20,18-03-2024,sold
+PN047,Tomatoes,Vegetables,2,14-03-2024,unsold
+PN047,Tomatoes,Vegetables,20,06-03-2024,sold
+PN047,Tomatoes,Vegetables,6,05-03-2024,sold
+PN047,Tomatoes,Vegetables,6,04-03-2024,sold
+PN047,Tomatoes,Vegetables,8,27-02-2024,sold
+PN047,Tomatoes,Vegetables,5,25-02-2024,unsold
+PN047,Tomatoes,Vegetables,11,24-02-2024,sold
+PN047,Tomatoes,Vegetables,5,17-02-2024,sold
+PN047,Tomatoes,Vegetables,7,12-02-2024,sold
+PN047,Tomatoes,Vegetables,6,05-02-2024,sold
+PN047,Tomatoes,Vegetables,1,02-02-2024,unsold
+PN047,Tomatoes,Vegetables,8,30-01-2024,sold
+PN047,Tomatoes,Vegetables,5,24-01-2024,unsold
+PN047,Tomatoes,Vegetables,4,22-01-2024,unsold
+PN047,Tomatoes,Vegetables,16,19-01-2024,sold
+PN047,Tomatoes,Vegetables,9,18-01-2024,sold
+PN048,Turkey,Meat,15,10-01-2025,sold
+PN048,Turkey,Meat,15,08-01-2025,sold
+PN048,Turkey,Meat,14,08-01-2025,sold
+PN048,Turkey,Meat,12,08-01-2025,sold
+PN048,Turkey,Meat,5,08-01-2025,sold
+PN048,Turkey,Meat,11,08-01-2025,sold
+PN048,Turkey,Meat,11,08-01-2025,sold
+PN048,Turkey,Meat,5,06-01-2025,sold
+PN048,Turkey,Meat,7,04-01-2025,sold
+PN048,Turkey,Meat,6,03-01-2025,sold
+PN048,Turkey,Meat,1,30-12-2024,sold
+PN048,Turkey,Meat,3,28-12-2024,unsold
+PN048,Turkey,Meat,3,22-12-2024,sold
+PN048,Turkey,Meat,12,19-12-2024,sold
+PN048,Turkey,Meat,1,17-12-2024,sold
+PN048,Turkey,Meat,20,15-12-2024,sold
+PN048,Turkey,Meat,4,12-12-2024,sold
+PN048,Turkey,Meat,8,06-12-2024,sold
+PN048,Turkey,Meat,2,05-12-2024,sold
+PN048,Turkey,Meat,1,04-12-2024,unsold
+PN048,Turkey,Meat,13,22-11-2024,sold
+PN048,Turkey,Meat,8,21-11-2024,sold
+PN048,Turkey,Meat,8,09-11-2024,sold
+PN048,Turkey,Meat,4,01-11-2024,sold
+PN048,Turkey,Meat,12,27-10-2024,sold
+PN048,Turkey,Meat,5,24-10-2024,unsold
+PN048,Turkey,Meat,15,23-10-2024,sold
+PN048,Turkey,Meat,4,23-10-2024,unsold
+PN048,Turkey,Meat,3,20-10-2024,unsold
+PN048,Turkey,Meat,4,19-10-2024,unsold
+PN048,Turkey,Meat,2,07-10-2024,unsold
+PN048,Turkey,Meat,13,05-10-2024,sold
+PN048,Turkey,Meat,6,28-09-2024,sold
+PN048,Turkey,Meat,15,28-09-2024,sold
+PN048,Turkey,Meat,12,14-09-2024,sold
+PN048,Turkey,Meat,14,08-09-2024,sold
+PN048,Turkey,Meat,19,01-09-2024,sold
+PN048,Turkey,Meat,16,01-09-2024,sold
+PN048,Turkey,Meat,5,27-08-2024,unsold
+PN048,Turkey,Meat,9,12-08-2024,sold
+PN048,Turkey,Meat,3,03-08-2024,sold
+PN048,Turkey,Meat,2,29-07-2024,sold
+PN048,Turkey,Meat,10,28-07-2024,sold
+PN048,Turkey,Meat,4,26-07-2024,unsold
+PN048,Turkey,Meat,17,23-07-2024,sold
+PN048,Turkey,Meat,1,23-07-2024,sold
+PN048,Turkey,Meat,1,23-07-2024,unsold
+PN048,Turkey,Meat,16,20-07-2024,sold
+PN048,Turkey,Meat,16,18-07-2024,sold
+PN048,Turkey,Meat,2,17-07-2024,unsold
+PN048,Turkey,Meat,16,11-07-2024,sold
+PN048,Turkey,Meat,2,28-06-2024,sold
+PN048,Turkey,Meat,3,22-06-2024,sold
+PN048,Turkey,Meat,2,21-06-2024,unsold
+PN048,Turkey,Meat,14,17-06-2024,sold
+PN048,Turkey,Meat,11,16-06-2024,sold
+PN048,Turkey,Meat,4,15-06-2024,sold
+PN048,Turkey,Meat,3,15-06-2024,unsold
+PN048,Turkey,Meat,6,30-05-2024,sold
+PN048,Turkey,Meat,5,28-05-2024,sold
+PN048,Turkey,Meat,10,13-05-2024,sold
+PN048,Turkey,Meat,1,11-05-2024,unsold
+PN048,Turkey,Meat,5,10-05-2024,sold
+PN048,Turkey,Meat,15,06-05-2024,sold
+PN048,Turkey,Meat,18,05-05-2024,sold
+PN048,Turkey,Meat,1,25-04-2024,unsold
+PN048,Turkey,Meat,5,25-04-2024,unsold
+PN048,Turkey,Meat,5,21-04-2024,sold
+PN048,Turkey,Meat,18,20-04-2024,sold
+PN048,Turkey,Meat,3,17-04-2024,unsold
+PN048,Turkey,Meat,4,15-04-2024,unsold
+PN048,Turkey,Meat,4,10-04-2024,unsold
+PN048,Turkey,Meat,11,07-04-2024,sold
+PN048,Turkey,Meat,14,02-04-2024,sold
+PN048,Turkey,Meat,15,01-04-2024,sold
+PN048,Turkey,Meat,4,31-03-2024,sold
+PN048,Turkey,Meat,7,27-03-2024,sold
+PN048,Turkey,Meat,5,09-03-2024,unsold
+PN048,Turkey,Meat,7,02-03-2024,sold
+PN048,Turkey,Meat,10,27-02-2024,sold
+PN048,Turkey,Meat,2,26-02-2024,sold
+PN048,Turkey,Meat,3,25-02-2024,sold
+PN048,Turkey,Meat,4,23-02-2024,sold
+PN048,Turkey,Meat,3,15-02-2024,sold
+PN048,Turkey,Meat,17,14-02-2024,sold
+PN048,Turkey,Meat,5,14-02-2024,unsold
+PN048,Turkey,Meat,17,06-02-2024,sold
+PN048,Turkey,Meat,9,26-01-2024,sold
+PN048,Turkey,Meat,4,25-01-2024,unsold
+PN048,Turkey,Meat,1,22-01-2024,unsold
+PN048,Turkey,Meat,11,07-01-2024,sold
+PN049,White Wine,Beverages,18,31-12-2026,sold
+PN049,White Wine,Beverages,3,30-12-2026,sold
+PN049,White Wine,Beverages,7,27-12-2026,sold
+PN049,White Wine,Beverages,16,22-12-2026,sold
+PN049,White Wine,Beverages,5,13-12-2026,sold
+PN049,White Wine,Beverages,19,07-12-2026,sold
+PN049,White Wine,Beverages,5,05-12-2026,sold
+PN049,White Wine,Beverages,15,03-12-2026,sold
+PN049,White Wine,Beverages,9,29-11-2026,sold
+PN049,White Wine,Beverages,12,27-11-2026,sold
+PN049,White Wine,Beverages,3,23-11-2026,sold
+PN049,White Wine,Beverages,10,18-11-2026,sold
+PN049,White Wine,Beverages,14,09-11-2026,sold
+PN049,White Wine,Beverages,10,08-11-2026,sold
+PN049,White Wine,Beverages,15,08-11-2026,sold
+PN049,White Wine,Beverages,20,08-11-2026,sold
+PN049,White Wine,Beverages,29,08-11-2026,sold
+PN049,White Wine,Beverages,23,08-11-2026,sold
+PN049,White Wine,Beverages,29,08-11-2026,sold
+PN049,White Wine,Beverages,9,31-10-2026,sold
+PN049,White Wine,Beverages,10,18-10-2026,sold
+PN049,White Wine,Beverages,13,03-10-2026,sold
+PN049,White Wine,Beverages,26,03-10-2026,sold
+PN049,White Wine,Beverages,24,03-10-2026,sold
+PN049,White Wine,Beverages,8,22-09-2026,sold
+PN049,White Wine,Beverages,8,02-09-2026,sold
+PN049,White Wine,Beverages,2,30-08-2026,sold
+PN049,White Wine,Beverages,8,30-08-2026,sold
+PN049,White Wine,Beverages,7,09-08-2026,sold
+PN049,White Wine,Beverages,17,07-08-2026,sold
+PN049,White Wine,Beverages,29,29-07-2026,sold
+PN049,White Wine,Beverages,14,29-07-2026,sold
+PN049,White Wine,Beverages,22,29-07-2026,sold
+PN049,White Wine,Beverages,26,29-07-2026,sold
+PN049,White Wine,Beverages,19,29-07-2026,sold
+PN049,White Wine,Beverages,6,28-07-2026,sold
+PN049,White Wine,Beverages,17,26-07-2026,sold
+PN049,White Wine,Beverages,8,20-07-2026,sold
+PN049,White Wine,Beverages,3,12-07-2026,sold
+PN049,White Wine,Beverages,10,10-07-2026,sold
+PN049,White Wine,Beverages,7,21-06-2026,sold
+PN049,White Wine,Beverages,6,16-06-2026,sold
+PN049,White Wine,Beverages,17,03-06-2026,sold
+PN049,White Wine,Beverages,18,25-05-2026,sold
+PN049,White Wine,Beverages,2,15-05-2026,sold
+PN049,White Wine,Beverages,12,28-04-2026,sold
+PN049,White Wine,Beverages,10,21-04-2026,sold
+PN049,White Wine,Beverages,11,20-04-2026,sold
+PN049,White Wine,Beverages,9,27-03-2026,sold
+PN049,White Wine,Beverages,12,13-02-2026,sold
+PN049,White Wine,Beverages,2,22-01-2026,sold
+PN049,White Wine,Beverages,10,15-01-2026,sold
+PN049,White Wine,Beverages,19,14-01-2026,sold
+PN049,White Wine,Beverages,15,02-01-2026,sold
+PN049,White Wine,Beverages,6,27-11-2024,sold
+PN049,White Wine,Beverages,14,24-11-2024,sold
+PN049,White Wine,Beverages,6,14-11-2024,sold
+PN049,White Wine,Beverages,19,10-11-2024,sold
+PN049,White Wine,Beverages,4,17-10-2024,sold
+PN049,White Wine,Beverages,1,12-10-2024,sold
+PN049,White Wine,Beverages,2,06-08-2024,sold
+PN049,White Wine,Beverages,18,30-07-2024,sold
+PN049,White Wine,Beverages,6,22-07-2024,sold
+PN049,White Wine,Beverages,16,21-07-2024,sold
+PN049,White Wine,Beverages,9,04-05-2024,sold
+PN049,White Wine,Beverages,1,11-04-2024,sold
+PN049,White Wine,Beverages,16,07-04-2024,sold
+PN049,White Wine,Beverages,19,10-03-2024,sold
+PN050,Yogurt,Dairy,15,22-12-2024,sold
+PN050,Yogurt,Dairy,10,06-12-2024,sold
+PN050,Yogurt,Dairy,12,04-12-2024,sold
+PN050,Yogurt,Dairy,3,02-12-2024,unsold
+PN050,Yogurt,Dairy,3,30-11-2024,sold
+PN050,Yogurt,Dairy,14,29-11-2024,sold
+PN050,Yogurt,Dairy,8,29-11-2024,sold
+PN050,Yogurt,Dairy,6,21-11-2024,sold
+PN050,Yogurt,Dairy,17,08-11-2024,sold
+PN050,Yogurt,Dairy,9,06-11-2024,sold
+PN050,Yogurt,Dairy,14,29-10-2024,sold
+PN050,Yogurt,Dairy,13,27-10-2024,sold
+PN050,Yogurt,Dairy,1,24-10-2024,sold
+PN050,Yogurt,Dairy,5,22-10-2024,sold
+PN050,Yogurt,Dairy,10,20-10-2024,sold
+PN050,Yogurt,Dairy,7,14-10-2024,sold
+PN050,Yogurt,Dairy,3,14-10-2024,unsold
+PN050,Yogurt,Dairy,5,25-09-2024,sold
+PN050,Yogurt,Dairy,5,03-09-2024,sold
+PN050,Yogurt,Dairy,7,02-09-2024,sold
+PN050,Yogurt,Dairy,8,27-08-2024,sold
+PN050,Yogurt,Dairy,6,24-08-2024,sold
+PN050,Yogurt,Dairy,3,17-08-2024,sold
+PN050,Yogurt,Dairy,11,15-08-2024,sold
+PN050,Yogurt,Dairy,1,15-08-2024,sold
+PN050,Yogurt,Dairy,1,11-08-2024,unsold
+PN050,Yogurt,Dairy,9,09-08-2024,sold
+PN050,Yogurt,Dairy,5,06-08-2024,sold
+PN050,Yogurt,Dairy,9,06-08-2024,sold
+PN050,Yogurt,Dairy,5,02-08-2024,unsold
+PN050,Yogurt,Dairy,3,02-08-2024,unsold
+PN050,Yogurt,Dairy,19,01-08-2024,sold
+PN050,Yogurt,Dairy,12,28-07-2024,sold
+PN050,Yogurt,Dairy,7,08-07-2024,sold
+PN050,Yogurt,Dairy,1,07-07-2024,unsold
+PN050,Yogurt,Dairy,2,07-07-2024,unsold
+PN050,Yogurt,Dairy,9,24-06-2024,sold
+PN050,Yogurt,Dairy,3,14-06-2024,sold
+PN050,Yogurt,Dairy,9,13-06-2024,sold
+PN050,Yogurt,Dairy,3,12-06-2024,unsold
+PN050,Yogurt,Dairy,14,09-06-2024,sold
+PN050,Yogurt,Dairy,2,03-06-2024,unsold
+PN050,Yogurt,Dairy,1,21-05-2024,sold
+PN050,Yogurt,Dairy,20,19-05-2024,sold
+PN050,Yogurt,Dairy,2,16-05-2024,unsold
+PN050,Yogurt,Dairy,19,07-05-2024,sold
+PN050,Yogurt,Dairy,1,02-05-2024,sold
+PN050,Yogurt,Dairy,16,23-04-2024,sold
+PN050,Yogurt,Dairy,5,18-04-2024,unsold
+PN050,Yogurt,Dairy,17,10-04-2024,sold
+PN050,Yogurt,Dairy,1,09-04-2024,sold
+PN050,Yogurt,Dairy,1,01-04-2024,sold
+PN050,Yogurt,Dairy,20,14-03-2024,sold
+PN050,Yogurt,Dairy,13,11-03-2024,sold
+PN050,Yogurt,Dairy,13,07-03-2024,sold
+PN050,Yogurt,Dairy,2,27-02-2024,sold
+PN050,Yogurt,Dairy,7,18-02-2024,sold
+PN050,Yogurt,Dairy,12,17-02-2024,sold
+PN050,Yogurt,Dairy,1,17-02-2024,unsold
+PN050,Yogurt,Dairy,5,09-02-2024,sold
+PN050,Yogurt,Dairy,5,04-01-2024,unsold
