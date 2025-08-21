@@ -1,0 +1,1255 @@
+date,product_id,product,category,quantity_sold,expiry_date,unit_price,discount,discount_price,shelf_life,holiday,event,event_name
+31-12-2024,PN001,Apples,Fruits,7,01-01-2025,0.6,25%,0.45,10,0,1,Galway Christmas Market
+31-12-2024,PN001,Apples,Fruits,7,01-01-2025,0.6,25%,0.45,10,0,1,New Year’s Eve Galway
+31-12-2024,PN007,Brussels Sprouts,Vegetables,5,07-01-2025,1.07,0%,1.07,7,0,1,Galway Christmas Market
+31-12-2024,PN007,Brussels Sprouts,Vegetables,5,07-01-2025,1.07,0%,1.07,7,0,1,New Year’s Eve Galway
+31-12-2024,PN009,Butter,Dairy,6,05-01-2025,3.99,0%,3.99,270,0,1,Galway Christmas Market
+31-12-2024,PN009,Butter,Dairy,6,05-01-2025,3.99,0%,3.99,270,0,1,New Year’s Eve Galway
+31-12-2024,PN010,Butter Croissant,Bakery,17,01-01-2025,1.5,25%,1.13,3,0,1,Galway Christmas Market
+31-12-2024,PN010,Butter Croissant,Bakery,17,01-01-2025,1.5,25%,1.13,3,0,1,New Year’s Eve Galway
+31-12-2024,PN013,Carrots,Vegetables,16,01-01-2025,0.13,25%,0.1,14,0,1,Galway Christmas Market
+31-12-2024,PN013,Carrots,Vegetables,16,01-01-2025,0.13,25%,0.1,14,0,1,New Year’s Eve Galway
+31-12-2024,PN016,Chicken Breast,Meat,9,05-01-2025,3.99,0%,3.99,5,0,1,Galway Christmas Market
+31-12-2024,PN016,Chicken Breast,Meat,9,05-01-2025,3.99,0%,3.99,5,0,1,New Year’s Eve Galway
+31-12-2024,PN026,Lamb,Meat,5,03-01-2025,5.0,0%,5.0,3,0,1,Galway Christmas Market
+31-12-2024,PN026,Lamb,Meat,5,03-01-2025,5.0,0%,5.0,3,0,1,New Year’s Eve Galway
+31-12-2024,PN030,Onions,Vegetables,17,20-01-2025,0.67,0%,0.67,20,0,1,Galway Christmas Market
+31-12-2024,PN030,Onions,Vegetables,17,20-01-2025,0.67,0%,0.67,20,0,1,New Year’s Eve Galway
+31-12-2024,PN040,Salami,Meat,5,21-01-2025,1.6,0%,1.6,21,0,1,Galway Christmas Market
+31-12-2024,PN040,Salami,Meat,5,21-01-2025,1.6,0%,1.6,21,0,1,New Year’s Eve Galway
+31-12-2024,PN049,White Wine,Beverages,18,31-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+31-12-2024,PN049,White Wine,Beverages,18,31-12-2026,10.5,0%,10.5,730,0,1,New Year’s Eve Galway
+31-12-2024,PN044,Sparkling Wine,Beverages,13,31-12-2025,4.5,0%,4.5,365,0,1,Galway Christmas Market
+31-12-2024,PN044,Sparkling Wine,Beverages,13,31-12-2025,4.5,0%,4.5,365,0,1,New Year’s Eve Galway
+30-12-2024,PN001,Apples,Fruits,3,09-01-2025,0.6,0%,0.6,10,0,1,Galway Christmas Market
+30-12-2024,PN003,Basmati Rice,Staples,13,30-12-2025,1.59,0%,1.59,365,0,1,Galway Christmas Market
+30-12-2024,PN004,Beef,Meat,19,20-01-2025,4.5,0%,4.5,21,0,1,Galway Christmas Market
+30-12-2024,PN006,Breakfast Cereals,Staples,14,02-01-2025,1.29,10%,1.16,365,0,1,Galway Christmas Market
+30-12-2024,PN009,Butter,Dairy,19,04-01-2025,3.99,0%,3.99,270,0,1,Galway Christmas Market
+30-12-2024,PN011,Cabbage,Vegetables,2,02-01-2025,1.29,10%,1.16,10,0,1,Galway Christmas Market
+30-12-2024,PN015,Cheese,Dairy,8,20-01-2025,2.5,0%,2.5,21,0,1,Galway Christmas Market
+30-12-2024,PN016,Chicken Breast,Meat,3,31-12-2024,3.99,25%,2.99,5,0,1,Galway Christmas Market
+30-12-2024,PN023,Eggs,Dairy,2,20-01-2025,0.21,0%,0.21,21,0,1,Galway Christmas Market
+30-12-2024,PN028,Milk,Dairy,5,06-01-2025,1.25,0%,1.25,7,0,1,Galway Christmas Market
+30-12-2024,PN030,Onions,Vegetables,19,19-01-2025,0.67,0%,0.67,20,0,1,Galway Christmas Market
+30-12-2024,PN036,Pineapple,Fruits,13,06-01-2025,1.19,0%,1.19,7,0,1,Galway Christmas Market
+30-12-2024,PN039,Red Wine,Beverages,14,30-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+30-12-2024,PN040,Salami,Meat,2,01-01-2025,1.6,15%,1.36,21,0,1,Galway Christmas Market
+30-12-2024,PN041,Salmon Fillets,Seafood,15,03-01-2025,4.25,0%,4.25,4,0,1,Galway Christmas Market
+30-12-2024,PN043,Soft Drinks,Beverages,9,01-01-2025,3.4,15%,2.89,240,0,1,Galway Christmas Market
+30-12-2024,PN046,Strawberries,Fruits,14,03-01-2025,0.5,0%,0.5,4,0,1,Galway Christmas Market
+30-12-2024,PN049,White Wine,Beverages,3,30-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+29-12-2024,PN002,Bananas,Fruits,11,05-01-2025,0.28,0%,0.28,7,0,1,Galway Christmas Market
+29-12-2024,PN017,Chocolates,Confectionery,2,29-12-2025,1.75,0%,1.75,365,0,1,Galway Christmas Market
+29-12-2024,PN017,Chocolates,Confectionery,4,30-12-2024,1.75,25%,1.31,365,0,1,Galway Christmas Market
+29-12-2024,PN029,Mussels,Seafood,16,13-01-2025,3.0,0%,3.0,15,0,1,Galway Christmas Market
+29-12-2024,PN035,Pepper,Spices,7,30-12-2024,1.0,25%,0.75,14,0,1,Galway Christmas Market
+29-12-2024,PN039,Red Wine,Beverages,4,29-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+29-12-2024,PN040,Salami,Meat,1,01-01-2025,1.6,10%,1.44,21,0,1,Galway Christmas Market
+29-12-2024,PN046,Strawberries,Fruits,12,02-01-2025,0.5,0%,0.5,4,0,1,Galway Christmas Market
+29-12-2024,PN048,Turkey,Meat,1,30-12-2024,1.99,25%,1.49,1095,0,1,Galway Christmas Market
+28-12-2024,PN004,Beef,Meat,19,02-01-2025,4.5,5%,4.28,21,0,1,Galway Christmas Market
+28-12-2024,PN022,Easter Eggs,Confectionery,19,28-12-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+28-12-2024,PN024,Guinness,Beverages,17,26-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+28-12-2024,PN031,Orange Juice,Beverages,5,29-12-2024,2.5,25%,1.88,14,0,1,Galway Christmas Market
+28-12-2024,PN033,Oysters,Seafood,9,12-01-2025,3.99,0%,3.99,15,0,1,Galway Christmas Market
+28-12-2024,PN033,Oysters,Seafood,16,12-01-2025,3.99,0%,3.99,15,0,1,Galway Christmas Market
+28-12-2024,PN039,Red Wine,Beverages,15,28-12-2024,10.5,30%,7.35,1095,0,1,Galway Christmas Market
+28-12-2024,PN043,Soft Drinks,Beverages,8,02-01-2025,3.4,5%,3.23,240,0,1,Galway Christmas Market
+28-12-2024,PN043,Soft Drinks,Beverages,14,29-12-2024,3.4,25%,2.55,240,0,1,Galway Christmas Market
+27-12-2024,PN004,Beef,Meat,7,17-01-2025,4.5,0%,4.5,21,0,1,Galway Christmas Market
+27-12-2024,PN009,Butter,Dairy,3,27-12-2024,3.99,30%,2.79,270,0,1,Galway Christmas Market
+27-12-2024,PN013,Carrots,Vegetables,8,10-01-2025,0.13,0%,0.13,14,0,1,Galway Christmas Market
+27-12-2024,PN017,Chocolates,Confectionery,7,27-12-2025,1.75,0%,1.75,365,0,1,Galway Christmas Market
+27-12-2024,PN023,Eggs,Dairy,16,17-01-2025,0.21,0%,0.21,21,0,1,Galway Christmas Market
+27-12-2024,PN024,Guinness,Beverages,3,25-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+27-12-2024,PN027,Lettuce,Vegetables,8,28-12-2024,1.15,25%,0.86,5,0,1,Galway Christmas Market
+27-12-2024,PN035,Pepper,Spices,14,10-01-2025,1.0,0%,1.0,14,0,1,Galway Christmas Market
+27-12-2024,PN048,Turkey,Meat,15,10-01-2025,1.99,0%,1.99,14,0,1,Galway Christmas Market
+27-12-2024,PN049,White Wine,Beverages,7,27-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+26-12-2024,PN003,Basmati Rice,Staples,7,26-12-2025,1.59,0%,1.59,365,1,1,Galway Christmas Market
+26-12-2024,PN003,Basmati Rice,Staples,7,26-12-2025,1.59,0%,1.59,365,1,1,St Stephen’s Day
+26-12-2024,PN015,Cheese,Dairy,8,28-12-2024,2.5,15%,2.13,21,1,1,Galway Christmas Market
+26-12-2024,PN015,Cheese,Dairy,8,28-12-2024,2.5,15%,2.13,21,1,1,St Stephen’s Day
+26-12-2024,PN020,Croissants,Bakery,18,25-01-2025,0.48,0%,0.48,30,1,1,Galway Christmas Market
+26-12-2024,PN020,Croissants,Bakery,18,25-01-2025,0.48,0%,0.48,30,1,1,St Stephen’s Day
+26-12-2024,PN028,Milk,Dairy,4,02-01-2025,1.25,0%,1.25,7,1,1,Galway Christmas Market
+26-12-2024,PN028,Milk,Dairy,4,02-01-2025,1.25,0%,1.25,7,1,1,St Stephen’s Day
+26-12-2024,PN032,Oranges,Fruits,15,09-01-2025,0.6,0%,0.6,14,1,1,Galway Christmas Market
+26-12-2024,PN032,Oranges,Fruits,15,09-01-2025,0.6,0%,0.6,14,1,1,St Stephen’s Day
+26-12-2024,PN032,Oranges,Fruits,19,09-01-2025,0.6,0%,0.6,14,1,1,Galway Christmas Market
+26-12-2024,PN032,Oranges,Fruits,19,09-01-2025,0.6,0%,0.6,14,1,1,St Stephen’s Day
+26-12-2024,PN041,Salmon Fillets,Seafood,16,30-12-2024,4.25,0%,4.25,4,1,1,Galway Christmas Market
+26-12-2024,PN041,Salmon Fillets,Seafood,16,30-12-2024,4.25,0%,4.25,4,1,1,St Stephen’s Day
+25-12-2024,PN003,Basmati Rice,Staples,19,25-12-2025,1.59,0%,1.59,365,1,1,Galway Christmas Market
+25-12-2024,PN003,Basmati Rice,Staples,19,25-12-2025,1.59,0%,1.59,365,1,1,Christmas Day
+25-12-2024,PN005,Bread,Bakery,4,30-12-2024,1.28,0%,1.28,5,1,1,Galway Christmas Market
+25-12-2024,PN005,Bread,Bakery,4,30-12-2024,1.28,0%,1.28,5,1,1,Christmas Day
+25-12-2024,PN009,Butter,Dairy,1,30-12-2024,3.99,0%,3.99,270,1,1,Galway Christmas Market
+25-12-2024,PN009,Butter,Dairy,1,30-12-2024,3.99,0%,3.99,270,1,1,Christmas Day
+25-12-2024,PN014,Charcoal,Non-Food,14,25-12-2026,1.75,0%,1.75,730,1,1,Galway Christmas Market
+25-12-2024,PN014,Charcoal,Non-Food,14,25-12-2026,1.75,0%,1.75,730,1,1,Christmas Day
+25-12-2024,PN017,Chocolates,Confectionery,4,25-12-2025,1.75,0%,1.75,365,1,1,Galway Christmas Market
+25-12-2024,PN017,Chocolates,Confectionery,4,25-12-2025,1.75,0%,1.75,365,1,1,Christmas Day
+25-12-2024,PN033,Oysters,Seafood,15,09-01-2025,3.99,0%,3.99,15,1,1,Galway Christmas Market
+25-12-2024,PN033,Oysters,Seafood,15,09-01-2025,3.99,0%,3.99,15,1,1,Christmas Day
+25-12-2024,PN033,Oysters,Seafood,11,09-01-2025,3.99,0%,3.99,15,1,1,Galway Christmas Market
+25-12-2024,PN033,Oysters,Seafood,11,09-01-2025,3.99,0%,3.99,15,1,1,Christmas Day
+25-12-2024,PN025,Ham,Meat,18,04-01-2025,2.99,0%,2.99,10,1,1,Galway Christmas Market
+25-12-2024,PN025,Ham,Meat,18,04-01-2025,2.99,0%,2.99,10,1,1,Christmas Day
+25-12-2024,PN025,Ham,Meat,11,04-01-2025,2.99,0%,2.99,10,1,1,Galway Christmas Market
+25-12-2024,PN025,Ham,Meat,11,04-01-2025,2.99,0%,2.99,10,1,1,Christmas Day
+25-12-2024,PN025,Ham,Meat,14,04-01-2025,2.99,0%,2.99,10,1,1,Galway Christmas Market
+25-12-2024,PN025,Ham,Meat,14,04-01-2025,2.99,0%,2.99,10,1,1,Christmas Day
+25-12-2024,PN025,Ham,Meat,19,04-01-2025,2.99,0%,2.99,10,1,1,Galway Christmas Market
+25-12-2024,PN025,Ham,Meat,19,04-01-2025,2.99,0%,2.99,10,1,1,Christmas Day
+25-12-2024,PN025,Ham,Meat,17,04-01-2025,2.99,0%,2.99,10,1,1,Galway Christmas Market
+25-12-2024,PN025,Ham,Meat,17,04-01-2025,2.99,0%,2.99,10,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,15,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,15,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,14,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,14,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,12,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,12,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,5,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,5,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,11,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,11,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+25-12-2024,PN048,Turkey,Meat,11,08-01-2025,1.99,0%,1.99,14,1,1,Galway Christmas Market
+25-12-2024,PN048,Turkey,Meat,11,08-01-2025,1.99,0%,1.99,14,1,1,Christmas Day
+24-12-2024,PN001,Apples,Fruits,17,03-01-2025,0.6,0%,0.6,10,0,1,Galway Christmas Market
+24-12-2024,PN003,Basmati Rice,Staples,17,24-12-2025,1.59,0%,1.59,365,0,1,Galway Christmas Market
+24-12-2024,PN003,Basmati Rice,Staples,4,27-12-2024,1.59,10%,1.43,365,0,1,Galway Christmas Market
+24-12-2024,PN008,Burger Patties,Meat,1,24-12-2025,3.0,0%,3.0,365,0,1,Galway Christmas Market
+24-12-2024,PN034,Pasta,Staples,1,24-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+24-12-2024,PN037,Potatoes,Vegetables,4,26-12-2024,0.46,15%,0.39,20,0,1,Galway Christmas Market
+24-12-2024,PN043,Soft Drinks,Beverages,13,21-08-2025,3.4,0%,3.4,240,0,1,Galway Christmas Market
+23-12-2024,PN007,Brussels Sprouts,Vegetables,11,30-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+23-12-2024,PN007,Brussels Sprouts,Vegetables,16,30-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+23-12-2024,PN013,Carrots,Vegetables,18,25-12-2024,0.13,15%,0.11,14,0,1,Galway Christmas Market
+23-12-2024,PN014,Charcoal,Non-Food,13,23-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+23-12-2024,PN022,Easter Eggs,Confectionery,6,23-12-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+23-12-2024,PN024,Guinness,Beverages,4,21-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+23-12-2024,PN025,Ham,Meat,15,02-01-2025,2.99,0%,2.99,10,0,1,Galway Christmas Market
+23-12-2024,PN025,Ham,Meat,10,02-01-2025,2.99,0%,2.99,10,0,1,Galway Christmas Market
+23-12-2024,PN032,Oranges,Fruits,18,06-01-2025,0.6,0%,0.6,14,0,1,Galway Christmas Market
+23-12-2024,PN040,Salami,Meat,8,13-01-2025,1.6,0%,1.6,21,0,1,Galway Christmas Market
+23-12-2024,PN048,Turkey,Meat,5,06-01-2025,1.99,0%,1.99,14,0,1,Galway Christmas Market
+22-12-2024,PN012,Canned Soup,Staples,20,22-12-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+22-12-2024,PN014,Charcoal,Non-Food,6,22-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+22-12-2024,PN014,Charcoal,Non-Food,8,22-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+22-12-2024,PN015,Cheese,Dairy,6,25-12-2024,2.5,10%,2.25,21,0,1,Galway Christmas Market
+22-12-2024,PN019,Coffee,Beverages,4,22-12-2025,3.3,0%,3.3,365,0,1,Galway Christmas Market
+22-12-2024,PN026,Lamb,Meat,12,25-12-2024,5.0,0%,5.0,3,0,1,Galway Christmas Market
+22-12-2024,PN032,Oranges,Fruits,3,23-12-2024,0.6,25%,0.45,14,0,1,Galway Christmas Market
+22-12-2024,PN037,Potatoes,Vegetables,10,11-01-2025,0.46,0%,0.46,20,0,1,Galway Christmas Market
+22-12-2024,PN039,Red Wine,Beverages,10,22-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+22-12-2024,PN046,Strawberries,Fruits,12,26-12-2024,0.5,0%,0.5,4,0,1,Galway Christmas Market
+22-12-2024,PN049,White Wine,Beverages,16,22-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+21-12-2024,PN010,Butter Croissant,Bakery,20,24-12-2024,1.5,0%,1.5,3,0,1,Galway Christmas Market
+21-12-2024,PN014,Charcoal,Non-Food,13,21-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+21-12-2024,PN015,Cheese,Dairy,9,21-12-2024,2.5,30%,1.75,21,0,1,Galway Christmas Market
+21-12-2024,PN023,Eggs,Dairy,6,23-12-2024,0.21,15%,0.18,21,0,1,Galway Christmas Market
+21-12-2024,PN028,Milk,Dairy,14,22-12-2024,1.25,25%,0.94,7,0,1,Galway Christmas Market
+21-12-2024,PN031,Orange Juice,Beverages,6,04-01-2025,2.5,0%,2.5,14,0,1,Galway Christmas Market
+21-12-2024,PN041,Salmon Fillets,Seafood,13,22-12-2024,4.25,25%,3.19,4,0,1,Galway Christmas Market
+21-12-2024,PN048,Turkey,Meat,7,04-01-2025,1.99,0%,1.99,14,0,1,Galway Christmas Market
+20-12-2024,PN001,Apples,Fruits,10,25-12-2024,0.6,5%,0.57,10,0,1,Galway Christmas Market
+20-12-2024,PN011,Cabbage,Vegetables,16,30-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+20-12-2024,PN034,Pasta,Staples,6,25-12-2024,1.45,5%,1.38,365,0,1,Galway Christmas Market
+20-12-2024,PN039,Red Wine,Beverages,3,20-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+20-12-2024,PN039,Red Wine,Beverages,18,20-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+20-12-2024,PN043,Soft Drinks,Beverages,9,22-12-2024,3.4,15%,2.89,240,0,1,Galway Christmas Market
+20-12-2024,PN045,Spinach,Vegetables,14,30-12-2024,1.39,0%,1.39,10,0,1,Galway Christmas Market
+20-12-2024,PN048,Turkey,Meat,6,03-01-2025,1.99,0%,1.99,14,0,1,Galway Christmas Market
+19-12-2024,PN001,Apples,Fruits,14,29-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+19-12-2024,PN005,Bread,Bakery,15,24-12-2024,1.28,0%,1.28,5,0,1,Galway Christmas Market
+19-12-2024,PN012,Canned Soup,Staples,16,19-12-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+19-12-2024,PN014,Charcoal,Non-Food,13,19-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+19-12-2024,PN023,Eggs,Dairy,3,09-01-2025,0.21,0%,0.21,21,0,1,Galway Christmas Market
+19-12-2024,PN025,Ham,Meat,16,20-12-2024,2.99,25%,2.24,10,0,1,Galway Christmas Market
+19-12-2024,PN034,Pasta,Staples,1,19-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+19-12-2024,PN042,Smoothie,Beverages,1,29-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+19-12-2024,PN047,Tomatoes,Vegetables,17,26-12-2024,0.8,0%,0.8,7,0,1,Galway Christmas Market
+19-12-2024,PN050,Yogurt,Dairy,15,22-12-2024,1.35,10%,1.22,15,0,1,Galway Christmas Market
+18-12-2024,PN004,Beef,Meat,2,08-01-2025,4.5,0%,4.5,21,0,1,Galway Christmas Market
+18-12-2024,PN015,Cheese,Dairy,3,08-01-2025,2.5,0%,2.5,21,0,1,Galway Christmas Market
+18-12-2024,PN022,Easter Eggs,Confectionery,16,18-12-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+18-12-2024,PN024,Guinness,Beverages,20,16-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+18-12-2024,PN039,Red Wine,Beverages,12,18-12-2024,10.5,30%,7.35,1095,0,1,Galway Christmas Market
+18-12-2024,PN042,Smoothie,Beverages,13,28-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+18-12-2024,PN046,Strawberries,Fruits,14,18-12-2024,0.5,30%,0.35,4,0,1,Galway Christmas Market
+17-12-2024,PN006,Breakfast Cereals,Staples,6,17-12-2025,1.29,0%,1.29,365,0,1,Galway Christmas Market
+17-12-2024,PN009,Butter,Dairy,11,22-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+17-12-2024,PN010,Butter Croissant,Bakery,19,20-12-2024,1.5,0%,1.5,3,0,1,Galway Christmas Market
+17-12-2024,PN012,Canned Soup,Staples,7,17-12-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+17-12-2024,PN031,Orange Juice,Beverages,14,18-12-2024,2.5,25%,1.88,14,0,1,Galway Christmas Market
+17-12-2024,PN034,Pasta,Staples,16,17-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+17-12-2024,PN037,Potatoes,Vegetables,14,18-12-2024,0.46,25%,0.35,20,0,1,Galway Christmas Market
+17-12-2024,PN041,Salmon Fillets,Seafood,16,21-12-2024,4.25,0%,4.25,4,0,1,Galway Christmas Market
+17-12-2024,PN042,Smoothie,Beverages,4,27-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+16-12-2024,PN009,Butter,Dairy,5,21-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+16-12-2024,PN013,Carrots,Vegetables,6,18-12-2024,0.13,15%,0.11,14,0,1,Galway Christmas Market
+16-12-2024,PN025,Ham,Meat,6,26-12-2024,2.99,0%,2.99,10,0,1,Galway Christmas Market
+16-12-2024,PN028,Milk,Dairy,19,23-12-2024,1.25,0%,1.25,7,0,1,Galway Christmas Market
+16-12-2024,PN037,Potatoes,Vegetables,3,18-12-2024,0.46,15%,0.39,20,0,1,Galway Christmas Market
+16-12-2024,PN039,Red Wine,Beverages,17,16-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+15-12-2024,PN004,Beef,Meat,8,05-01-2025,4.5,0%,4.5,21,0,1,Galway Christmas Market
+15-12-2024,PN005,Bread,Bakery,8,15-12-2024,1.28,30%,0.9,5,0,1,Galway Christmas Market
+15-12-2024,PN011,Cabbage,Vegetables,14,18-12-2024,1.29,10%,1.16,10,0,1,Galway Christmas Market
+15-12-2024,PN013,Carrots,Vegetables,15,15-12-2024,0.13,30%,0.09,14,0,1,Galway Christmas Market
+15-12-2024,PN020,Croissants,Bakery,13,14-01-2025,0.48,0%,0.48,30,0,1,Galway Christmas Market
+15-12-2024,PN023,Eggs,Dairy,8,05-01-2025,0.21,0%,0.21,21,0,1,Galway Christmas Market
+15-12-2024,PN026,Lamb,Meat,14,18-12-2024,5.0,0%,5.0,3,0,1,Galway Christmas Market
+15-12-2024,PN042,Smoothie,Beverages,3,25-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+15-12-2024,PN048,Turkey,Meat,1,17-12-2024,1.99,15%,1.69,14,0,1,Galway Christmas Market
+14-12-2024,PN001,Apples,Fruits,8,24-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+14-12-2024,PN002,Bananas,Fruits,3,15-12-2024,0.28,25%,0.21,7,0,1,Galway Christmas Market
+14-12-2024,PN004,Beef,Meat,18,16-12-2024,4.5,15%,3.83,21,0,1,Galway Christmas Market
+14-12-2024,PN007,Brussels Sprouts,Vegetables,18,21-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+14-12-2024,PN013,Carrots,Vegetables,11,28-12-2024,0.13,0%,0.13,14,0,1,Galway Christmas Market
+13-12-2024,PN002,Bananas,Fruits,6,16-12-2024,0.28,10%,0.25,7,0,1,Galway Christmas Market
+13-12-2024,PN012,Canned Soup,Staples,18,13-12-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+13-12-2024,PN015,Cheese,Dairy,2,03-01-2025,2.5,0%,2.5,21,0,1,Galway Christmas Market
+13-12-2024,PN024,Guinness,Beverages,5,11-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+13-12-2024,PN025,Ham,Meat,6,15-12-2024,2.99,15%,2.54,10,0,1,Galway Christmas Market
+13-12-2024,PN037,Potatoes,Vegetables,5,02-01-2025,0.46,0%,0.46,20,0,1,Galway Christmas Market
+13-12-2024,PN038,Pumpkin,Vegetables,5,17-12-2024,3.45,0%,3.45,4,0,1,Galway Christmas Market
+13-12-2024,PN045,Spinach,Vegetables,19,23-12-2024,1.39,0%,1.39,10,0,1,Galway Christmas Market
+13-12-2024,PN049,White Wine,Beverages,5,13-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+12-12-2024,PN007,Brussels Sprouts,Vegetables,18,12-12-2024,1.07,30%,0.75,7,0,1,Galway Christmas Market
+12-12-2024,PN008,Burger Patties,Meat,16,12-12-2025,3.0,0%,3.0,365,0,1,Galway Christmas Market
+12-12-2024,PN024,Guinness,Beverages,17,10-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+12-12-2024,PN032,Oranges,Fruits,14,26-12-2024,0.6,0%,0.6,14,0,1,Galway Christmas Market
+12-12-2024,PN037,Potatoes,Vegetables,10,01-01-2025,0.46,0%,0.46,20,0,1,Galway Christmas Market
+11-12-2024,PN001,Apples,Fruits,11,21-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+11-12-2024,PN011,Cabbage,Vegetables,2,21-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+11-12-2024,PN013,Carrots,Vegetables,6,25-12-2024,0.13,0%,0.13,14,0,1,Galway Christmas Market
+11-12-2024,PN025,Ham,Meat,6,21-12-2024,2.99,0%,2.99,10,0,1,Galway Christmas Market
+11-12-2024,PN031,Orange Juice,Beverages,4,25-12-2024,2.5,0%,2.5,14,0,1,Galway Christmas Market
+11-12-2024,PN038,Pumpkin,Vegetables,19,15-12-2024,3.45,0%,3.45,4,0,1,Galway Christmas Market
+11-12-2024,PN039,Red Wine,Beverages,10,11-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+10-12-2024,PN004,Beef,Meat,3,31-12-2024,4.5,0%,4.5,21,0,1,Galway Christmas Market
+10-12-2024,PN007,Brussels Sprouts,Vegetables,4,17-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+10-12-2024,PN016,Chicken Breast,Meat,4,10-12-2024,3.99,30%,2.79,5,0,1,Galway Christmas Market
+10-12-2024,PN026,Lamb,Meat,16,13-12-2024,5.0,0%,5.0,3,0,1,Galway Christmas Market
+10-12-2024,PN037,Potatoes,Vegetables,8,10-12-2024,0.46,30%,0.32,20,0,1,Galway Christmas Market
+10-12-2024,PN039,Red Wine,Beverages,5,28-12-2024,10.5,30%,7.35,1095,0,1,Galway Christmas Market
+10-12-2024,PN043,Soft Drinks,Beverages,14,07-08-2025,3.4,0%,3.4,240,0,1,Galway Christmas Market
+09-12-2024,PN015,Cheese,Dairy,9,30-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+09-12-2024,PN022,Easter Eggs,Confectionery,14,09-12-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+09-12-2024,PN022,Easter Eggs,Confectionery,17,09-12-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+09-12-2024,PN039,Red Wine,Beverages,5,09-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+08-12-2024,PN005,Bread,Bakery,13,08-12-2024,1.28,30%,0.9,5,0,1,Galway Christmas Market
+08-12-2024,PN018,Cinnamon,Spices,17,08-12-2026,1.0,0%,1.0,730,0,1,Galway Christmas Market
+08-12-2024,PN018,Cinnamon,Spices,8,08-12-2026,1.0,0%,1.0,730,0,1,Galway Christmas Market
+08-12-2024,PN018,Cinnamon,Spices,4,11-12-2024,1.0,10%,0.9,730,0,1,Galway Christmas Market
+08-12-2024,PN034,Pasta,Staples,15,08-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+08-12-2024,PN048,Turkey,Meat,3,22-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+07-12-2024,PN001,Apples,Fruits,6,17-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+07-12-2024,PN005,Bread,Bakery,13,07-12-2024,1.28,30%,0.9,5,0,1,Galway Christmas Market
+07-12-2024,PN007,Brussels Sprouts,Vegetables,10,14-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+07-12-2024,PN009,Butter,Dairy,20,12-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+07-12-2024,PN016,Chicken Breast,Meat,11,12-12-2024,3.99,0%,3.99,5,0,1,Galway Christmas Market
+07-12-2024,PN017,Chocolates,Confectionery,5,07-12-2025,1.75,0%,1.75,365,0,1,Galway Christmas Market
+07-12-2024,PN034,Pasta,Staples,16,07-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+07-12-2024,PN049,White Wine,Beverages,19,07-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+06-12-2024,PN005,Bread,Bakery,3,11-12-2024,1.28,0%,1.28,5,0,1,Galway Christmas Market
+06-12-2024,PN008,Burger Patties,Meat,12,06-12-2025,3.0,0%,3.0,365,0,1,Galway Christmas Market
+06-12-2024,PN011,Cabbage,Vegetables,13,16-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+06-12-2024,PN013,Carrots,Vegetables,5,20-12-2024,0.13,0%,0.13,14,0,1,Galway Christmas Market
+06-12-2024,PN018,Cinnamon,Spices,4,06-12-2026,1.0,0%,1.0,730,0,1,Galway Christmas Market
+06-12-2024,PN020,Croissants,Bakery,13,06-12-2024,0.48,30%,0.34,30,0,1,Galway Christmas Market
+06-12-2024,PN044,Sparkling Wine,Beverages,9,09-12-2024,4.5,10%,4.05,365,0,1,Galway Christmas Market
+06-12-2024,PN046,Strawberries,Fruits,11,10-12-2024,0.5,0%,0.5,4,0,1,Galway Christmas Market
+05-12-2024,PN001,Apples,Fruits,10,15-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+05-12-2024,PN001,Apples,Fruits,1,10-12-2024,0.6,5%,0.57,10,0,1,Galway Christmas Market
+05-12-2024,PN002,Bananas,Fruits,19,12-12-2024,0.28,0%,0.28,7,0,1,Galway Christmas Market
+05-12-2024,PN006,Breakfast Cereals,Staples,9,05-12-2025,1.29,0%,1.29,365,0,1,Galway Christmas Market
+05-12-2024,PN007,Brussels Sprouts,Vegetables,15,12-12-2024,1.07,0%,1.07,7,0,1,Galway Christmas Market
+05-12-2024,PN014,Charcoal,Non-Food,10,07-12-2024,1.75,15%,1.49,730,0,1,Galway Christmas Market
+05-12-2024,PN020,Croissants,Bakery,4,04-01-2025,0.48,0%,0.48,30,0,1,Galway Christmas Market
+05-12-2024,PN027,Lettuce,Vegetables,3,10-12-2024,1.15,0%,1.15,5,0,1,Galway Christmas Market
+05-12-2024,PN034,Pasta,Staples,1,05-12-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+05-12-2024,PN034,Pasta,Staples,1,10-12-2024,1.45,5%,1.38,365,0,1,Galway Christmas Market
+05-12-2024,PN048,Turkey,Meat,12,19-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+05-12-2024,PN049,White Wine,Beverages,5,05-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+04-12-2024,PN008,Burger Patties,Meat,9,04-12-2025,3.0,0%,3.0,365,0,1,Galway Christmas Market
+04-12-2024,PN011,Cabbage,Vegetables,5,14-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+04-12-2024,PN017,Chocolates,Confectionery,15,04-12-2025,1.75,0%,1.75,365,0,1,Galway Christmas Market
+04-12-2024,PN037,Potatoes,Vegetables,11,09-12-2024,0.46,5%,0.44,20,0,1,Galway Christmas Market
+04-12-2024,PN039,Red Wine,Beverages,2,04-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+04-12-2024,PN045,Spinach,Vegetables,20,14-12-2024,1.39,0%,1.39,10,0,1,Galway Christmas Market
+03-12-2024,PN009,Butter,Dairy,6,08-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+03-12-2024,PN009,Butter,Dairy,16,08-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+03-12-2024,PN013,Carrots,Vegetables,8,05-12-2024,0.13,15%,0.11,14,0,1,Galway Christmas Market
+03-12-2024,PN014,Charcoal,Non-Food,5,03-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+03-12-2024,PN015,Cheese,Dairy,1,05-12-2024,2.5,15%,2.13,21,0,1,Galway Christmas Market
+03-12-2024,PN018,Cinnamon,Spices,14,03-12-2026,1.0,0%,1.0,730,0,1,Galway Christmas Market
+03-12-2024,PN018,Cinnamon,Spices,5,03-12-2026,1.0,0%,1.0,730,0,1,Galway Christmas Market
+03-12-2024,PN024,Guinness,Beverages,11,01-07-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+03-12-2024,PN027,Lettuce,Vegetables,17,08-12-2024,1.15,0%,1.15,5,0,1,Galway Christmas Market
+03-12-2024,PN028,Milk,Dairy,11,10-12-2024,1.25,0%,1.25,7,0,1,Galway Christmas Market
+03-12-2024,PN035,Pepper,Spices,3,17-12-2024,1.0,0%,1.0,14,0,1,Galway Christmas Market
+03-12-2024,PN037,Potatoes,Vegetables,6,06-12-2024,0.46,10%,0.41,20,0,1,Galway Christmas Market
+03-12-2024,PN049,White Wine,Beverages,15,03-12-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+02-12-2024,PN001,Apples,Fruits,10,12-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+02-12-2024,PN003,Basmati Rice,Staples,2,02-12-2024,1.59,30%,1.11,365,0,1,Galway Christmas Market
+02-12-2024,PN004,Beef,Meat,3,03-12-2024,4.5,25%,3.38,21,0,1,Galway Christmas Market
+02-12-2024,PN005,Bread,Bakery,15,02-12-2024,1.28,30%,0.9,5,0,1,Galway Christmas Market
+02-12-2024,PN009,Butter,Dairy,17,07-12-2024,3.99,0%,3.99,270,0,1,Galway Christmas Market
+02-12-2024,PN013,Carrots,Vegetables,18,16-12-2024,0.13,0%,0.13,14,0,1,Galway Christmas Market
+02-12-2024,PN021,Cucumber,Vegetables,11,09-12-2024,0.89,0%,0.89,7,0,1,Galway Christmas Market
+02-12-2024,PN022,Easter Eggs,Confectionery,13,03-12-2024,1.2,25%,0.9,365,0,1,Galway Christmas Market
+02-12-2024,PN024,Guinness,Beverages,6,30-06-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+02-12-2024,PN024,Guinness,Beverages,1,30-06-2025,4.66,0%,4.66,210,0,1,Galway Christmas Market
+02-12-2024,PN031,Orange Juice,Beverages,6,16-12-2024,2.5,0%,2.5,14,0,1,Galway Christmas Market
+02-12-2024,PN034,Pasta,Staples,5,05-12-2024,1.45,10%,1.31,365,0,1,Galway Christmas Market
+02-12-2024,PN039,Red Wine,Beverages,15,02-12-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+02-12-2024,PN042,Smoothie,Beverages,4,12-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+01-12-2024,PN001,Apples,Fruits,10,01-12-2024,0.6,30%,0.42,10,0,1,Galway Christmas Market
+01-12-2024,PN009,Butter,Dairy,5,02-12-2024,3.99,25%,2.99,270,0,1,Galway Christmas Market
+01-12-2024,PN014,Charcoal,Non-Food,9,01-12-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+01-12-2024,PN014,Charcoal,Non-Food,6,06-12-2024,1.75,5%,1.66,730,0,1,Galway Christmas Market
+01-12-2024,PN015,Cheese,Dairy,1,22-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+01-12-2024,PN027,Lettuce,Vegetables,16,06-12-2024,1.15,0%,1.15,5,0,1,Galway Christmas Market
+01-12-2024,PN037,Potatoes,Vegetables,1,03-12-2024,0.46,15%,0.39,20,0,1,Galway Christmas Market
+01-12-2024,PN042,Smoothie,Beverages,15,11-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+01-12-2024,PN048,Turkey,Meat,20,15-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+30-11-2024,PN001,Apples,Fruits,1,10-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+30-11-2024,PN003,Basmati Rice,Staples,9,30-11-2025,1.59,0%,1.59,365,0,1,Galway Christmas Market
+30-11-2024,PN034,Pasta,Staples,14,30-11-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+30-11-2024,PN034,Pasta,Staples,4,30-11-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+30-11-2024,PN040,Salami,Meat,8,01-12-2024,1.6,25%,1.2,21,0,1,Galway Christmas Market
+29-11-2024,PN001,Apples,Fruits,5,09-12-2024,0.6,0%,0.6,10,0,1,Galway Christmas Market
+29-11-2024,PN001,Apples,Fruits,3,01-12-2024,0.6,15%,0.51,10,0,1,Galway Christmas Market
+29-11-2024,PN005,Bread,Bakery,7,30-11-2024,1.28,25%,0.96,5,0,1,Galway Christmas Market
+29-11-2024,PN016,Chicken Breast,Meat,6,04-12-2024,3.99,0%,3.99,5,0,1,Galway Christmas Market
+29-11-2024,PN017,Chocolates,Confectionery,5,29-11-2025,1.75,0%,1.75,365,0,1,Galway Christmas Market
+29-11-2024,PN031,Orange Juice,Beverages,14,13-12-2024,2.5,0%,2.5,14,0,1,Galway Christmas Market
+29-11-2024,PN032,Oranges,Fruits,3,13-12-2024,0.6,0%,0.6,14,0,1,Galway Christmas Market
+29-11-2024,PN032,Oranges,Fruits,10,13-12-2024,0.6,0%,0.6,14,0,1,Galway Christmas Market
+29-11-2024,PN037,Potatoes,Vegetables,2,30-11-2024,0.46,25%,0.35,20,0,1,Galway Christmas Market
+29-11-2024,PN042,Smoothie,Beverages,2,29-11-2024,4.25,30%,2.98,10,0,1,Galway Christmas Market
+29-11-2024,PN049,White Wine,Beverages,9,29-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+28-11-2024,PN003,Basmati Rice,Staples,17,28-11-2025,1.59,0%,1.59,365,0,1,Galway Christmas Market
+28-11-2024,PN005,Bread,Bakery,7,29-11-2024,1.28,25%,0.96,5,0,1,Galway Christmas Market
+28-11-2024,PN011,Cabbage,Vegetables,16,08-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+28-11-2024,PN015,Cheese,Dairy,3,19-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+28-11-2024,PN021,Cucumber,Vegetables,8,30-11-2024,0.89,15%,0.76,7,0,1,Galway Christmas Market
+28-11-2024,PN025,Ham,Meat,8,29-11-2024,2.99,25%,2.24,10,0,1,Galway Christmas Market
+28-11-2024,PN034,Pasta,Staples,4,28-11-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+28-11-2024,PN036,Pineapple,Fruits,12,05-12-2024,1.19,0%,1.19,7,0,1,Galway Christmas Market
+28-11-2024,PN048,Turkey,Meat,4,12-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+28-11-2024,PN050,Yogurt,Dairy,3,30-11-2024,1.35,15%,1.15,15,0,1,Galway Christmas Market
+27-11-2024,PN004,Beef,Meat,15,18-12-2024,4.5,0%,4.5,21,0,1,Galway Christmas Market
+27-11-2024,PN008,Burger Patties,Meat,1,27-11-2025,3.0,0%,3.0,365,0,1,Galway Christmas Market
+27-11-2024,PN010,Butter Croissant,Bakery,3,30-11-2024,1.5,0%,1.5,3,0,1,Galway Christmas Market
+27-11-2024,PN023,Eggs,Dairy,20,18-12-2024,0.21,0%,0.21,21,0,1,Galway Christmas Market
+27-11-2024,PN026,Lamb,Meat,15,27-11-2024,5.0,30%,3.5,3,0,1,Galway Christmas Market
+27-11-2024,PN027,Lettuce,Vegetables,8,02-12-2024,1.15,0%,1.15,5,0,1,Galway Christmas Market
+27-11-2024,PN039,Red Wine,Beverages,8,27-11-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+27-11-2024,PN039,Red Wine,Beverages,8,02-12-2024,10.5,5%,9.98,1095,0,1,Galway Christmas Market
+27-11-2024,PN049,White Wine,Beverages,12,27-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+26-11-2024,PN015,Cheese,Dairy,9,17-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+26-11-2024,PN015,Cheese,Dairy,4,17-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+26-11-2024,PN016,Chicken Breast,Meat,1,01-12-2024,3.99,0%,3.99,5,0,1,Galway Christmas Market
+26-11-2024,PN020,Croissants,Bakery,1,26-12-2024,0.48,0%,0.48,30,0,1,Galway Christmas Market
+26-11-2024,PN021,Cucumber,Vegetables,16,26-11-2024,0.89,30%,0.62,7,0,1,Galway Christmas Market
+26-11-2024,PN033,Oysters,Seafood,15,11-12-2024,3.99,0%,3.99,15,0,1,Galway Christmas Market
+26-11-2024,PN034,Pasta,Staples,6,27-11-2024,1.45,25%,1.09,365,0,1,Galway Christmas Market
+26-11-2024,PN036,Pineapple,Fruits,9,03-12-2024,1.19,0%,1.19,7,0,1,Galway Christmas Market
+26-11-2024,PN038,Pumpkin,Vegetables,4,30-11-2024,3.45,0%,3.45,4,0,1,Galway Christmas Market
+26-11-2024,PN046,Strawberries,Fruits,8,30-11-2024,0.5,0%,0.5,4,0,1,Galway Christmas Market
+25-11-2024,PN006,Breakfast Cereals,Staples,9,25-11-2025,1.29,0%,1.29,365,0,1,Galway Christmas Market
+25-11-2024,PN011,Cabbage,Vegetables,8,05-12-2024,1.29,0%,1.29,10,0,1,Galway Christmas Market
+25-11-2024,PN021,Cucumber,Vegetables,5,02-12-2024,0.89,0%,0.89,7,0,1,Galway Christmas Market
+25-11-2024,PN049,White Wine,Beverages,6,27-11-2024,10.5,15%,8.93,730,0,1,Galway Christmas Market
+24-11-2024,PN004,Beef,Meat,15,15-12-2024,4.5,0%,4.5,21,0,1,Galway Christmas Market
+24-11-2024,PN006,Breakfast Cereals,Staples,13,24-11-2025,1.29,0%,1.29,365,0,1,Galway Christmas Market
+24-11-2024,PN015,Cheese,Dairy,5,15-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+24-11-2024,PN023,Eggs,Dairy,20,26-11-2024,0.21,15%,0.18,21,0,1,Galway Christmas Market
+24-11-2024,PN034,Pasta,Staples,5,24-11-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+24-11-2024,PN039,Red Wine,Beverages,2,26-11-2027,10.5,15%,8.93,1095,0,1,Galway Christmas Market
+24-11-2024,PN041,Salmon Fillets,Seafood,15,28-11-2024,4.25,0%,4.25,4,0,1,Galway Christmas Market
+24-11-2024,PN044,Sparkling Wine,Beverages,8,24-11-2025,4.5,0%,4.5,365,0,1,Galway Christmas Market
+24-11-2024,PN045,Spinach,Vegetables,6,04-12-2024,1.39,0%,1.39,10,0,1,Galway Christmas Market
+24-11-2024,PN046,Strawberries,Fruits,6,25-11-2024,0.5,25%,0.38,4,0,1,Galway Christmas Market
+23-11-2024,PN002,Bananas,Fruits,9,30-11-2024,0.28,0%,0.28,7,0,1,Galway Christmas Market
+23-11-2024,PN004,Beef,Meat,2,14-12-2024,4.5,0%,4.5,21,0,1,Galway Christmas Market
+23-11-2024,PN007,Brussels Sprouts,Vegetables,2,25-11-2024,1.07,15%,0.91,7,0,1,Galway Christmas Market
+23-11-2024,PN012,Canned Soup,Staples,5,23-11-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+23-11-2024,PN014,Charcoal,Non-Food,10,23-11-2026,1.75,0%,1.75,730,0,1,Galway Christmas Market
+23-11-2024,PN020,Croissants,Bakery,12,23-12-2024,0.48,0%,0.48,30,0,1,Galway Christmas Market
+23-11-2024,PN034,Pasta,Staples,14,23-11-2025,1.45,0%,1.45,365,0,1,Galway Christmas Market
+23-11-2024,PN042,Smoothie,Beverages,15,03-12-2024,4.25,0%,4.25,10,0,1,Galway Christmas Market
+23-11-2024,PN044,Sparkling Wine,Beverages,12,24-11-2024,4.5,25%,3.38,365,0,1,Galway Christmas Market
+23-11-2024,PN049,White Wine,Beverages,3,23-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+23-11-2024,PN049,White Wine,Beverages,14,24-11-2024,10.5,25%,7.88,730,0,1,Galway Christmas Market
+22-11-2024,PN012,Canned Soup,Staples,14,22-11-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+22-11-2024,PN012,Canned Soup,Staples,5,23-11-2024,2.13,25%,1.6,730,0,1,Galway Christmas Market
+22-11-2024,PN016,Chicken Breast,Meat,18,27-11-2024,3.99,0%,3.99,5,0,1,Galway Christmas Market
+22-11-2024,PN022,Easter Eggs,Confectionery,20,22-11-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+22-11-2024,PN023,Eggs,Dairy,16,13-12-2024,0.21,0%,0.21,21,0,1,Galway Christmas Market
+22-11-2024,PN043,Soft Drinks,Beverages,4,20-07-2025,3.4,0%,3.4,240,0,1,Galway Christmas Market
+22-11-2024,PN048,Turkey,Meat,8,06-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+21-11-2024,PN025,Ham,Meat,4,01-12-2024,2.99,0%,2.99,10,0,1,Galway Christmas Market
+21-11-2024,PN028,Milk,Dairy,1,28-11-2024,1.25,0%,1.25,7,0,1,Galway Christmas Market
+21-11-2024,PN030,Onions,Vegetables,8,11-12-2024,0.67,0%,0.67,20,0,1,Galway Christmas Market
+21-11-2024,PN034,Pasta,Staples,14,24-11-2024,1.45,10%,1.31,365,0,1,Galway Christmas Market
+21-11-2024,PN037,Potatoes,Vegetables,18,11-12-2024,0.46,0%,0.46,20,0,1,Galway Christmas Market
+21-11-2024,PN038,Pumpkin,Vegetables,20,25-11-2024,3.45,0%,3.45,4,0,1,Galway Christmas Market
+21-11-2024,PN040,Salami,Meat,11,12-12-2024,1.6,0%,1.6,21,0,1,Galway Christmas Market
+21-11-2024,PN048,Turkey,Meat,2,05-12-2024,1.99,0%,1.99,14,0,1,Galway Christmas Market
+21-11-2024,PN050,Yogurt,Dairy,10,06-12-2024,1.35,0%,1.35,15,0,1,Galway Christmas Market
+20-11-2024,PN012,Canned Soup,Staples,10,20-11-2026,2.13,0%,2.13,730,0,1,Galway Christmas Market
+20-11-2024,PN015,Cheese,Dairy,8,11-12-2024,2.5,0%,2.5,21,0,1,Galway Christmas Market
+20-11-2024,PN022,Easter Eggs,Confectionery,3,20-11-2025,1.2,0%,1.2,365,0,1,Galway Christmas Market
+20-11-2024,PN025,Ham,Meat,2,30-11-2024,2.99,0%,2.99,10,0,1,Galway Christmas Market
+20-11-2024,PN025,Ham,Meat,20,22-11-2024,2.99,15%,2.54,10,0,1,Galway Christmas Market
+20-11-2024,PN028,Milk,Dairy,15,27-11-2024,1.25,0%,1.25,7,0,1,Galway Christmas Market
+20-11-2024,PN041,Salmon Fillets,Seafood,11,24-11-2024,4.25,0%,4.25,4,0,1,Galway Christmas Market
+20-11-2024,PN041,Salmon Fillets,Seafood,3,24-11-2024,4.25,0%,4.25,4,0,1,Galway Christmas Market
+20-11-2024,PN039,Red Wine,Beverages,15,08-11-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+20-11-2024,PN039,Red Wine,Beverages,21,08-11-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+20-11-2024,PN039,Red Wine,Beverages,24,08-11-2027,10.5,0%,10.5,1095,0,1,Galway Christmas Market
+20-11-2024,PN044,Sparkling Wine,Beverages,16,08-11-2025,4.5,0%,4.5,365,0,1,Galway Christmas Market
+20-11-2024,PN044,Sparkling Wine,Beverages,28,08-11-2025,4.5,0%,4.5,365,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,10,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,15,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,20,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,29,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,23,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+20-11-2024,PN049,White Wine,Beverages,29,08-11-2026,10.5,0%,10.5,730,0,1,Galway Christmas Market
+17-11-2024,PN014,Charcoal,Non-Food,1,17-11-2026,1.75,0%,1.75,730,0,1,Galway TradFest
+17-11-2024,PN014,Charcoal,Non-Food,1,17-11-2026,1.75,0%,1.75,730,0,1,Red Bull Showrun
+17-11-2024,PN014,Charcoal,Non-Food,4,17-11-2026,1.75,0%,1.75,730,0,1,Galway TradFest
+17-11-2024,PN014,Charcoal,Non-Food,4,17-11-2026,1.75,0%,1.75,730,0,1,Red Bull Showrun
+17-11-2024,PN016,Chicken Breast,Meat,5,18-11-2024,3.99,25%,2.99,5,0,1,Galway TradFest
+17-11-2024,PN016,Chicken Breast,Meat,5,18-11-2024,3.99,25%,2.99,5,0,1,Red Bull Showrun
+17-11-2024,PN020,Croissants,Bakery,8,19-11-2024,0.48,15%,0.41,30,0,1,Galway TradFest
+17-11-2024,PN020,Croissants,Bakery,8,19-11-2024,0.48,15%,0.41,30,0,1,Red Bull Showrun
+17-11-2024,PN023,Eggs,Dairy,13,08-12-2024,0.21,0%,0.21,21,0,1,Galway TradFest
+17-11-2024,PN023,Eggs,Dairy,13,08-12-2024,0.21,0%,0.21,21,0,1,Red Bull Showrun
+17-11-2024,PN025,Ham,Meat,3,27-11-2024,2.99,0%,2.99,10,0,1,Galway TradFest
+17-11-2024,PN025,Ham,Meat,3,27-11-2024,2.99,0%,2.99,10,0,1,Red Bull Showrun
+17-11-2024,PN027,Lettuce,Vegetables,5,22-11-2024,1.15,0%,1.15,5,0,1,Galway TradFest
+17-11-2024,PN027,Lettuce,Vegetables,5,22-11-2024,1.15,0%,1.15,5,0,1,Red Bull Showrun
+17-11-2024,PN031,Orange Juice,Beverages,1,20-11-2024,2.5,10%,2.25,14,0,1,Galway TradFest
+17-11-2024,PN031,Orange Juice,Beverages,1,20-11-2024,2.5,10%,2.25,14,0,1,Red Bull Showrun
+17-11-2024,PN034,Pasta,Staples,10,20-11-2024,1.45,10%,1.31,365,0,1,Galway TradFest
+17-11-2024,PN034,Pasta,Staples,10,20-11-2024,1.45,10%,1.31,365,0,1,Red Bull Showrun
+17-11-2024,PN035,Pepper,Spices,4,01-12-2024,1.0,0%,1.0,14,0,1,Galway TradFest
+17-11-2024,PN035,Pepper,Spices,4,01-12-2024,1.0,0%,1.0,14,0,1,Red Bull Showrun
+17-11-2024,PN039,Red Wine,Beverages,7,17-11-2027,10.5,0%,10.5,1095,0,1,Galway TradFest
+17-11-2024,PN039,Red Wine,Beverages,7,17-11-2027,10.5,0%,10.5,1095,0,1,Red Bull Showrun
+17-11-2024,PN044,Sparkling Wine,Beverages,16,17-11-2024,4.5,30%,3.15,365,0,1,Galway TradFest
+17-11-2024,PN044,Sparkling Wine,Beverages,16,17-11-2024,4.5,30%,3.15,365,0,1,Red Bull Showrun
+17-11-2024,PN048,Turkey,Meat,13,22-11-2024,1.99,5%,1.89,14,0,1,Galway TradFest
+17-11-2024,PN048,Turkey,Meat,13,22-11-2024,1.99,5%,1.89,14,0,1,Red Bull Showrun
+16-11-2024,PN005,Bread,Bakery,6,21-11-2024,1.28,0%,1.28,5,0,1,Galway TradFest
+16-11-2024,PN011,Cabbage,Vegetables,5,18-11-2024,1.29,15%,1.1,10,0,1,Galway TradFest
+16-11-2024,PN012,Canned Soup,Staples,2,16-11-2026,2.13,0%,2.13,730,0,1,Galway TradFest
+16-11-2024,PN015,Cheese,Dairy,8,07-12-2024,2.5,0%,2.5,21,0,1,Galway TradFest
+16-11-2024,PN024,Guinness,Beverages,14,17-11-2024,4.66,25%,3.5,210,0,1,Galway TradFest
+16-11-2024,PN028,Milk,Dairy,1,23-11-2024,1.25,0%,1.25,7,0,1,Galway TradFest
+16-11-2024,PN035,Pepper,Spices,9,30-11-2024,1.0,0%,1.0,14,0,1,Galway TradFest
+15-11-2024,PN005,Bread,Bakery,4,15-11-2024,1.28,30%,0.9,5,0,1,Galway TradFest
+15-11-2024,PN028,Milk,Dairy,5,22-11-2024,1.25,0%,1.25,7,0,1,Galway TradFest
+15-11-2024,PN029,Mussels,Seafood,9,30-11-2024,3.0,0%,3.0,15,0,1,Galway TradFest
+15-11-2024,PN029,Mussels,Seafood,12,18-11-2024,3.0,10%,2.7,15,0,1,Galway TradFest
+15-11-2024,PN041,Salmon Fillets,Seafood,7,19-11-2024,4.25,0%,4.25,4,0,1,Galway TradFest
+14-11-2024,PN004,Beef,Meat,14,05-12-2024,4.5,0%,4.5,21,0,1,Galway TradFest
+14-11-2024,PN007,Brussels Sprouts,Vegetables,20,21-11-2024,1.07,0%,1.07,7,0,1,Galway TradFest
+14-11-2024,PN021,Cucumber,Vegetables,11,15-11-2024,0.89,25%,0.67,7,0,1,Galway TradFest
+14-11-2024,PN025,Ham,Meat,9,24-11-2024,2.99,0%,2.99,10,0,1,Galway TradFest
+14-11-2024,PN050,Yogurt,Dairy,14,29-11-2024,1.35,0%,1.35,15,0,1,Galway TradFest
+14-11-2024,PN050,Yogurt,Dairy,8,29-11-2024,1.35,0%,1.35,15,0,1,Galway TradFest
+13-11-2024,PN002,Bananas,Fruits,8,15-11-2024,0.28,15%,0.24,7,0,1,Galway TradFest
+13-11-2024,PN015,Cheese,Dairy,10,04-12-2024,2.5,0%,2.5,21,0,1,Galway TradFest
+13-11-2024,PN037,Potatoes,Vegetables,6,03-12-2024,0.46,0%,0.46,20,0,1,Galway TradFest
+13-11-2024,PN049,White Wine,Beverages,6,14-11-2024,10.5,25%,7.88,730,0,1,Galway TradFest
+12-11-2024,PN005,Bread,Bakery,7,17-11-2024,1.28,0%,1.28,5,0,1,Galway TradFest
+12-11-2024,PN006,Breakfast Cereals,Staples,18,12-11-2025,1.29,0%,1.29,365,0,1,Galway TradFest
+12-11-2024,PN009,Butter,Dairy,6,17-11-2024,3.99,0%,3.99,270,0,1,Galway TradFest
+12-11-2024,PN016,Chicken Breast,Meat,14,17-11-2024,3.99,0%,3.99,5,0,1,Galway TradFest
+12-11-2024,PN016,Chicken Breast,Meat,5,17-11-2024,3.99,0%,3.99,5,0,1,Galway TradFest
+12-11-2024,PN018,Cinnamon,Spices,15,13-11-2024,1.0,25%,0.75,730,0,1,Galway TradFest
+12-11-2024,PN030,Onions,Vegetables,2,02-12-2024,0.67,0%,0.67,20,0,1,Galway TradFest
+11-11-2024,PN013,Carrots,Vegetables,12,13-11-2024,0.13,15%,0.11,14,0,1,Galway TradFest
+11-11-2024,PN014,Charcoal,Non-Food,12,13-11-2024,1.75,15%,1.49,730,0,1,Galway TradFest
+11-11-2024,PN032,Oranges,Fruits,2,25-11-2024,0.6,0%,0.6,14,0,1,Galway TradFest
+11-11-2024,PN035,Pepper,Spices,5,25-11-2024,1.0,0%,1.0,14,0,1,Galway TradFest
+11-11-2024,PN042,Smoothie,Beverages,15,21-11-2024,4.25,0%,4.25,10,0,1,Galway TradFest
+11-11-2024,PN046,Strawberries,Fruits,20,15-11-2024,0.5,0%,0.5,4,0,1,Galway TradFest
+31-10-2024,PN008,Burger Patties,Meat,2,31-10-2025,3.0,0%,3.0,365,0,0,Halloween
+31-10-2024,PN010,Butter Croissant,Bakery,2,31-10-2024,1.5,30%,1.05,3,0,0,Halloween
+31-10-2024,PN018,Cinnamon,Spices,15,31-10-2024,1.0,30%,0.7,730,0,0,Halloween
+31-10-2024,PN028,Milk,Dairy,3,07-11-2024,1.25,0%,1.25,7,0,0,Halloween
+31-10-2024,PN029,Mussels,Seafood,3,15-11-2024,3.0,0%,3.0,15,0,0,Halloween
+31-10-2024,PN037,Potatoes,Vegetables,2,20-11-2024,0.46,0%,0.46,20,0,0,Halloween
+31-10-2024,PN043,Soft Drinks,Beverages,7,28-06-2025,3.4,0%,3.4,240,0,0,Halloween
+31-10-2024,PN045,Spinach,Vegetables,3,10-11-2024,1.39,0%,1.39,10,0,0,Halloween
+31-10-2024,PN048,Turkey,Meat,4,01-11-2024,1.99,25%,1.49,14,0,0,Halloween
+31-10-2024,PN049,White Wine,Beverages,9,31-10-2026,10.5,0%,10.5,730,0,0,Halloween
+31-10-2024,PN001,Apples,Fruits,11,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,7,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,10,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,8,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,4,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,8,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN001,Apples,Fruits,14,10-11-2024,0.6,0%,0.6,10,1,0,Halloween
+31-10-2024,PN018,Cinnamon,Spices,6,31-10-2026,1.0,0%,1.0,730,1,0,Halloween
+31-10-2024,PN018,Cinnamon,Spices,10,31-10-2026,1.0,0%,1.0,730,1,0,Halloween
+31-10-2024,PN018,Cinnamon,Spices,8,31-10-2026,1.0,0%,1.0,730,1,0,Halloween
+31-10-2024,PN038,Pumpkin,Vegetables,13,04-11-2024,3.45,0%,3.45,4,1,0,Halloween
+28-10-2024,PN002,Bananas,Fruits,13,04-11-2024,0.28,0%,0.28,7,1,1,Galway Comedy Festival
+28-10-2024,PN002,Bananas,Fruits,13,04-11-2024,0.28,0%,0.28,7,1,1,October Bank Holiday
+28-10-2024,PN013,Carrots,Vegetables,9,11-11-2024,0.13,0%,0.13,14,1,1,Galway Comedy Festival
+28-10-2024,PN013,Carrots,Vegetables,9,11-11-2024,0.13,0%,0.13,14,1,1,October Bank Holiday
+28-10-2024,PN017,Chocolates,Confectionery,8,31-10-2024,1.75,10%,1.58,365,1,1,Galway Comedy Festival
+28-10-2024,PN017,Chocolates,Confectionery,8,31-10-2024,1.75,10%,1.58,365,1,1,October Bank Holiday
+28-10-2024,PN029,Mussels,Seafood,12,12-11-2024,3.0,0%,3.0,15,1,1,Galway Comedy Festival
+28-10-2024,PN029,Mussels,Seafood,12,12-11-2024,3.0,0%,3.0,15,1,1,October Bank Holiday
+28-10-2024,PN036,Pineapple,Fruits,13,31-10-2024,1.19,10%,1.07,7,1,1,Galway Comedy Festival
+28-10-2024,PN036,Pineapple,Fruits,13,31-10-2024,1.19,10%,1.07,7,1,1,October Bank Holiday
+28-10-2024,PN039,Red Wine,Beverages,4,28-10-2027,10.5,0%,10.5,1095,1,1,Galway Comedy Festival
+28-10-2024,PN039,Red Wine,Beverages,4,28-10-2027,10.5,0%,10.5,1095,1,1,October Bank Holiday
+27-10-2024,PN003,Basmati Rice,Staples,17,27-10-2025,1.59,0%,1.59,365,0,1,Galway Comedy Festival
+27-10-2024,PN005,Bread,Bakery,15,01-11-2024,1.28,0%,1.28,5,0,1,Galway Comedy Festival
+27-10-2024,PN005,Bread,Bakery,14,01-11-2024,1.28,0%,1.28,5,0,1,Galway Comedy Festival
+27-10-2024,PN014,Charcoal,Non-Food,18,27-10-2026,1.75,0%,1.75,730,0,1,Galway Comedy Festival
+27-10-2024,PN017,Chocolates,Confectionery,1,27-10-2025,1.75,0%,1.75,365,0,1,Galway Comedy Festival
+27-10-2024,PN035,Pepper,Spices,12,10-11-2024,1.0,0%,1.0,14,0,1,Galway Comedy Festival
+27-10-2024,PN039,Red Wine,Beverages,1,27-10-2027,10.5,0%,10.5,1095,0,1,Galway Comedy Festival
+27-10-2024,PN043,Soft Drinks,Beverages,9,24-06-2025,3.4,0%,3.4,240,0,1,Galway Comedy Festival
+27-10-2024,PN044,Sparkling Wine,Beverages,6,27-10-2025,4.5,0%,4.5,365,0,1,Galway Comedy Festival
+27-10-2024,PN046,Strawberries,Fruits,2,31-10-2024,0.5,0%,0.5,4,0,1,Galway Comedy Festival
+26-10-2024,PN002,Bananas,Fruits,5,02-11-2024,0.28,0%,0.28,7,0,1,Galway Comedy Festival
+26-10-2024,PN003,Basmati Rice,Staples,19,26-10-2025,1.59,0%,1.59,365,0,1,Galway Comedy Festival
+26-10-2024,PN014,Charcoal,Non-Food,2,26-10-2026,1.75,0%,1.75,730,0,1,Galway Comedy Festival
+26-10-2024,PN015,Cheese,Dairy,1,31-10-2024,2.5,5%,2.38,21,0,1,Galway Comedy Festival
+26-10-2024,PN015,Cheese,Dairy,2,28-10-2024,2.5,15%,2.13,21,0,1,Galway Comedy Festival
+26-10-2024,PN020,Croissants,Bakery,14,31-10-2024,0.48,5%,0.46,30,0,1,Galway Comedy Festival
+26-10-2024,PN024,Guinness,Beverages,10,24-05-2025,4.66,0%,4.66,210,0,1,Galway Comedy Festival
+26-10-2024,PN034,Pasta,Staples,8,26-10-2025,1.45,0%,1.45,365,0,1,Galway Comedy Festival
+26-10-2024,PN046,Strawberries,Fruits,4,30-10-2024,0.5,0%,0.5,4,0,1,Galway Comedy Festival
+26-10-2024,PN048,Turkey,Meat,8,09-11-2024,1.99,0%,1.99,14,0,1,Galway Comedy Festival
+25-10-2024,PN003,Basmati Rice,Staples,16,25-10-2025,1.59,0%,1.59,365,0,1,Galway Comedy Festival
+25-10-2024,PN028,Milk,Dairy,7,01-11-2024,1.25,0%,1.25,7,0,1,Galway Comedy Festival
+25-10-2024,PN039,Red Wine,Beverages,10,25-10-2024,10.5,30%,7.35,1095,0,1,Galway Comedy Festival
+25-10-2024,PN047,Tomatoes,Vegetables,17,01-11-2024,0.8,0%,0.8,7,0,1,Galway Comedy Festival
+24-10-2024,PN002,Bananas,Fruits,8,31-10-2024,0.28,0%,0.28,7,0,1,Galway Comedy Festival
+24-10-2024,PN018,Cinnamon,Spices,10,24-10-2024,1.0,30%,0.7,730,0,1,Galway Comedy Festival
+24-10-2024,PN020,Croissants,Bakery,14,23-11-2024,0.48,0%,0.48,30,0,1,Galway Comedy Festival
+24-10-2024,PN022,Easter Eggs,Confectionery,11,29-10-2024,1.2,5%,1.14,365,0,1,Galway Comedy Festival
+24-10-2024,PN031,Orange Juice,Beverages,18,07-11-2024,2.5,0%,2.5,14,0,1,Galway Comedy Festival
+24-10-2024,PN034,Pasta,Staples,20,27-10-2024,1.45,10%,1.31,365,0,1,Galway Comedy Festival
+24-10-2024,PN035,Pepper,Spices,20,07-11-2024,1.0,0%,1.0,14,0,1,Galway Comedy Festival
+24-10-2024,PN038,Pumpkin,Vegetables,12,28-10-2024,3.45,0%,3.45,4,0,1,Galway Comedy Festival
+24-10-2024,PN039,Red Wine,Beverages,10,24-10-2027,10.5,0%,10.5,1095,0,1,Galway Comedy Festival
+24-10-2024,PN040,Salami,Meat,9,14-11-2024,1.6,0%,1.6,21,0,1,Galway Comedy Festival
+24-10-2024,PN040,Salami,Meat,7,24-10-2024,1.6,30%,1.12,21,0,1,Galway Comedy Festival
+24-10-2024,PN043,Soft Drinks,Beverages,10,21-06-2025,3.4,0%,3.4,240,0,1,Galway Comedy Festival
+23-10-2024,PN006,Breakfast Cereals,Staples,13,23-10-2025,1.29,0%,1.29,365,0,1,Galway Comedy Festival
+23-10-2024,PN007,Brussels Sprouts,Vegetables,6,30-10-2024,1.07,0%,1.07,7,0,1,Galway Comedy Festival
+23-10-2024,PN017,Chocolates,Confectionery,4,28-10-2024,1.75,5%,1.66,365,0,1,Galway Comedy Festival
+23-10-2024,PN019,Coffee,Beverages,10,23-10-2025,3.3,0%,3.3,365,0,1,Galway Comedy Festival
+23-10-2024,PN026,Lamb,Meat,3,26-10-2024,5.0,0%,5.0,3,0,1,Galway Comedy Festival
+23-10-2024,PN034,Pasta,Staples,4,28-10-2024,1.45,5%,1.38,365,0,1,Galway Comedy Festival
+23-10-2024,PN039,Red Wine,Beverages,6,23-10-2027,10.5,0%,10.5,1095,0,1,Galway Comedy Festival
+23-10-2024,PN040,Salami,Meat,11,25-10-2024,1.6,15%,1.36,21,0,1,Galway Comedy Festival
+23-10-2024,PN041,Salmon Fillets,Seafood,17,27-10-2024,4.25,0%,4.25,4,0,1,Galway Comedy Festival
+22-10-2024,PN004,Beef,Meat,11,12-11-2024,4.5,0%,4.5,21,0,1,Galway Comedy Festival
+22-10-2024,PN004,Beef,Meat,12,12-11-2024,4.5,0%,4.5,21,0,1,Galway Comedy Festival
+22-10-2024,PN004,Beef,Meat,1,12-11-2024,4.5,0%,4.5,21,0,1,Galway Comedy Festival
+22-10-2024,PN022,Easter Eggs,Confectionery,5,22-10-2025,1.2,0%,1.2,365,0,1,Galway Comedy Festival
+22-10-2024,PN023,Eggs,Dairy,9,22-10-2024,0.21,30%,0.15,21,0,1,Galway Comedy Festival
+22-10-2024,PN031,Orange Juice,Beverages,3,05-11-2024,2.5,0%,2.5,14,0,1,Galway Comedy Festival
+22-10-2024,PN044,Sparkling Wine,Beverages,12,22-10-2025,4.5,0%,4.5,365,0,1,Galway Comedy Festival
+22-10-2024,PN046,Strawberries,Fruits,12,26-10-2024,0.5,0%,0.5,4,0,1,Galway Comedy Festival
+20-10-2024,PN012,Canned Soup,Staples,11,20-10-2026,2.13,0%,2.13,730,0,1,Baboró Children’s Arts Festival
+20-10-2024,PN018,Cinnamon,Spices,13,20-10-2026,1.0,0%,1.0,730,0,1,Baboró Children’s Arts Festival
+20-10-2024,PN022,Easter Eggs,Confectionery,4,20-10-2025,1.2,0%,1.2,365,0,1,Baboró Children’s Arts Festival
+20-10-2024,PN034,Pasta,Staples,7,20-10-2025,1.45,0%,1.45,365,0,1,Baboró Children’s Arts Festival
+20-10-2024,PN045,Spinach,Vegetables,20,30-10-2024,1.39,0%,1.39,10,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN004,Beef,Meat,2,09-11-2024,4.5,0%,4.5,21,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN005,Bread,Bakery,3,24-10-2024,1.28,0%,1.28,5,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN014,Charcoal,Non-Food,13,21-10-2024,1.75,15%,1.49,730,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN034,Pasta,Staples,7,19-10-2025,1.45,0%,1.45,365,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN035,Pepper,Spices,1,02-11-2024,1.0,0%,1.0,14,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN038,Pumpkin,Vegetables,12,23-10-2024,3.45,0%,3.45,4,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN039,Red Wine,Beverages,7,28-12-2024,10.5,25%,7.88,1095,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN046,Strawberries,Fruits,5,23-10-2024,0.5,0%,0.5,4,0,1,Baboró Children’s Arts Festival
+19-10-2024,PN050,Yogurt,Dairy,1,24-10-2024,1.35,5%,1.28,15,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN001,Apples,Fruits,4,28-10-2024,0.6,0%,0.6,10,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN006,Breakfast Cereals,Staples,6,18-10-2025,1.29,0%,1.29,365,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN009,Butter,Dairy,17,23-10-2024,3.99,0%,3.99,270,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN011,Cabbage,Vegetables,4,28-10-2024,1.29,0%,1.29,10,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN015,Cheese,Dairy,9,08-11-2024,2.5,0%,2.5,21,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN016,Chicken Breast,Meat,8,23-10-2024,3.99,0%,3.99,5,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN017,Chocolates,Confectionery,16,18-10-2025,1.75,0%,1.75,365,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN019,Coffee,Beverages,3,18-10-2025,3.3,0%,3.3,365,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN020,Croissants,Bakery,3,17-11-2024,0.48,0%,0.48,30,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN028,Milk,Dairy,4,25-10-2024,1.25,0%,1.25,7,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN035,Pepper,Spices,1,01-11-2024,1.0,0%,1.0,14,0,1,Baboró Children’s Arts Festival
+18-10-2024,PN049,White Wine,Beverages,10,18-10-2026,10.5,0%,10.5,730,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN004,Beef,Meat,14,19-10-2024,4.5,15%,3.83,21,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN005,Bread,Bakery,10,22-10-2024,1.28,0%,1.28,5,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN011,Cabbage,Vegetables,5,27-10-2024,1.29,0%,1.29,10,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN015,Cheese,Dairy,6,07-11-2024,2.5,0%,2.5,21,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN020,Croissants,Bakery,17,20-10-2024,0.48,10%,0.43,30,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN024,Guinness,Beverages,4,15-05-2025,4.66,0%,4.66,210,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN037,Potatoes,Vegetables,15,06-11-2024,0.46,0%,0.46,20,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN042,Smoothie,Beverages,11,27-10-2024,4.25,0%,4.25,10,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN044,Sparkling Wine,Beverages,2,17-10-2025,4.5,0%,4.5,365,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN045,Spinach,Vegetables,20,27-10-2024,1.39,0%,1.39,10,0,1,Baboró Children’s Arts Festival
+17-10-2024,PN046,Strawberries,Fruits,8,18-10-2024,0.5,25%,0.38,4,0,1,Baboró Children’s Arts Festival
+16-10-2024,PN007,Brussels Sprouts,Vegetables,5,23-10-2024,1.07,0%,1.07,7,0,1,Baboró Children’s Arts Festival
+16-10-2024,PN016,Chicken Breast,Meat,13,21-10-2024,3.99,0%,3.99,5,0,1,Baboró Children’s Arts Festival
+16-10-2024,PN020,Croissants,Bakery,3,15-11-2024,0.48,0%,0.48,30,0,1,Baboró Children’s Arts Festival
+16-10-2024,PN049,White Wine,Beverages,4,17-10-2024,10.5,25%,7.88,730,0,1,Baboró Children’s Arts Festival
+15-10-2024,PN007,Brussels Sprouts,Vegetables,16,22-10-2024,1.07,0%,1.07,7,0,1,Baboró Children’s Arts Festival
+15-10-2024,PN016,Chicken Breast,Meat,15,16-10-2024,3.99,25%,2.99,5,0,1,Baboró Children’s Arts Festival
+15-10-2024,PN018,Cinnamon,Spices,9,16-10-2024,1.0,25%,0.75,730,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN001,Apples,Fruits,7,24-10-2024,0.6,0%,0.6,10,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN008,Burger Patties,Meat,8,14-10-2025,3.0,0%,3.0,365,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN023,Eggs,Dairy,3,04-11-2024,0.21,0%,0.21,21,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN024,Guinness,Beverages,9,12-05-2025,4.66,0%,4.66,210,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN025,Ham,Meat,6,24-10-2024,2.99,0%,2.99,10,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN027,Lettuce,Vegetables,14,15-10-2024,1.15,25%,0.86,5,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN033,Oysters,Seafood,20,15-10-2024,3.99,25%,2.99,15,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN037,Potatoes,Vegetables,6,03-11-2024,0.46,0%,0.46,20,0,1,Baboró Children’s Arts Festival
+14-10-2024,PN050,Yogurt,Dairy,14,29-10-2024,1.35,0%,1.35,15,0,1,Baboró Children’s Arts Festival
+06-10-2024,PN001,Apples,Fruits,13,07-10-2024,0.6,25%,0.45,10,0,1,Galway Jazz Festival
+06-10-2024,PN003,Basmati Rice,Staples,3,08-10-2024,1.59,15%,1.35,365,0,1,Galway Jazz Festival
+06-10-2024,PN009,Butter,Dairy,18,11-10-2024,3.99,0%,3.99,270,0,1,Galway Jazz Festival
+06-10-2024,PN015,Cheese,Dairy,9,27-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+06-10-2024,PN015,Cheese,Dairy,2,27-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+06-10-2024,PN016,Chicken Breast,Meat,9,11-10-2024,3.99,0%,3.99,5,0,1,Galway Jazz Festival
+06-10-2024,PN024,Guinness,Beverages,7,04-05-2025,4.66,0%,4.66,210,0,1,Galway Jazz Festival
+06-10-2024,PN025,Ham,Meat,1,16-10-2024,2.99,0%,2.99,10,0,1,Galway Jazz Festival
+06-10-2024,PN025,Ham,Meat,8,16-10-2024,2.99,0%,2.99,10,0,1,Galway Jazz Festival
+06-10-2024,PN027,Lettuce,Vegetables,16,11-10-2024,1.15,0%,1.15,5,0,1,Galway Jazz Festival
+06-10-2024,PN028,Milk,Dairy,10,09-10-2024,1.25,10%,1.13,7,0,1,Galway Jazz Festival
+06-10-2024,PN033,Oysters,Seafood,18,21-10-2024,3.99,0%,3.99,15,0,1,Galway Jazz Festival
+05-10-2024,PN001,Apples,Fruits,12,15-10-2024,0.6,0%,0.6,10,0,1,Galway Jazz Festival
+05-10-2024,PN016,Chicken Breast,Meat,13,06-10-2024,3.99,25%,2.99,5,0,1,Galway Jazz Festival
+05-10-2024,PN020,Croissants,Bakery,18,04-11-2024,0.48,0%,0.48,30,0,1,Galway Jazz Festival
+05-10-2024,PN024,Guinness,Beverages,6,03-05-2025,4.66,0%,4.66,210,0,1,Galway Jazz Festival
+05-10-2024,PN025,Ham,Meat,3,15-10-2024,2.99,0%,2.99,10,0,1,Galway Jazz Festival
+05-10-2024,PN028,Milk,Dairy,4,10-10-2024,1.25,5%,1.19,7,0,1,Galway Jazz Festival
+05-10-2024,PN031,Orange Juice,Beverages,7,19-10-2024,2.5,0%,2.5,14,0,1,Galway Jazz Festival
+05-10-2024,PN041,Salmon Fillets,Seafood,18,05-10-2024,4.25,30%,2.98,4,0,1,Galway Jazz Festival
+05-10-2024,PN045,Spinach,Vegetables,16,15-10-2024,1.39,0%,1.39,10,0,1,Galway Jazz Festival
+05-10-2024,PN050,Yogurt,Dairy,10,20-10-2024,1.35,0%,1.35,15,0,1,Galway Jazz Festival
+04-10-2024,PN008,Burger Patties,Meat,14,04-10-2025,3.0,0%,3.0,365,0,1,Galway Jazz Festival
+04-10-2024,PN013,Carrots,Vegetables,20,18-10-2024,0.13,0%,0.13,14,0,1,Galway Jazz Festival
+04-10-2024,PN015,Cheese,Dairy,10,25-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+04-10-2024,PN015,Cheese,Dairy,15,25-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+04-10-2024,PN019,Coffee,Beverages,6,04-10-2025,3.3,0%,3.3,365,0,1,Galway Jazz Festival
+04-10-2024,PN025,Ham,Meat,14,14-10-2024,2.99,0%,2.99,10,0,1,Galway Jazz Festival
+04-10-2024,PN039,Red Wine,Beverages,1,04-10-2027,10.5,0%,10.5,1095,0,1,Galway Jazz Festival
+04-10-2024,PN040,Salami,Meat,1,25-10-2024,1.6,0%,1.6,21,0,1,Galway Jazz Festival
+04-10-2024,PN045,Spinach,Vegetables,20,14-10-2024,1.39,0%,1.39,10,0,1,Galway Jazz Festival
+03-10-2024,PN002,Bananas,Fruits,19,10-10-2024,0.28,0%,0.28,7,0,1,Galway Jazz Festival
+03-10-2024,PN005,Bread,Bakery,4,08-10-2024,1.28,0%,1.28,5,0,1,Galway Jazz Festival
+03-10-2024,PN011,Cabbage,Vegetables,12,13-10-2024,1.29,0%,1.29,10,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,8,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,14,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN025,Ham,Meat,3,13-10-2024,2.99,0%,2.99,10,0,1,Galway Jazz Festival
+03-10-2024,PN032,Oranges,Fruits,15,17-10-2024,0.6,0%,0.6,14,0,1,Galway Jazz Festival
+03-10-2024,PN036,Pineapple,Fruits,3,10-10-2024,1.19,0%,1.19,7,0,1,Galway Jazz Festival
+03-10-2024,PN037,Potatoes,Vegetables,15,23-10-2024,0.46,0%,0.46,20,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,7,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,12,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,5,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,10,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,12,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,7,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,11,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN015,Cheese,Dairy,6,24-10-2024,2.5,0%,2.5,21,0,1,Galway Jazz Festival
+03-10-2024,PN044,Sparkling Wine,Beverages,25,03-10-2025,4.5,0%,4.5,365,0,1,Galway Jazz Festival
+03-10-2024,PN044,Sparkling Wine,Beverages,20,03-10-2025,4.5,0%,4.5,365,0,1,Galway Jazz Festival
+03-10-2024,PN049,White Wine,Beverages,13,03-10-2026,10.5,0%,10.5,730,0,1,Galway Jazz Festival
+03-10-2024,PN049,White Wine,Beverages,26,03-10-2026,10.5,0%,10.5,730,0,1,Galway Jazz Festival
+03-10-2024,PN049,White Wine,Beverages,24,03-10-2026,10.5,0%,10.5,730,0,1,Galway Jazz Festival
+29-09-2024,PN006,Breakfast Cereals,Staples,2,29-09-2025,1.29,0%,1.29,365,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN007,Brussels Sprouts,Vegetables,7,29-09-2024,1.07,30%,0.75,7,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN012,Canned Soup,Staples,13,29-09-2026,2.13,0%,2.13,730,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN021,Cucumber,Vegetables,1,30-09-2024,0.89,25%,0.67,7,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN022,Easter Eggs,Confectionery,14,29-09-2025,1.2,0%,1.2,365,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN037,Potatoes,Vegetables,11,04-10-2024,0.46,5%,0.44,20,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN040,Salami,Meat,9,20-10-2024,1.6,0%,1.6,21,0,1,Galway Oyster & Seafood Festival
+29-09-2024,PN050,Yogurt,Dairy,7,14-10-2024,1.35,0%,1.35,15,0,1,Galway Oyster & Seafood Festival
+28-09-2024,PN018,Cinnamon,Spices,10,28-09-2026,1.0,0%,1.0,730,0,1,Galway Oyster & Seafood Festival
+28-09-2024,PN019,Coffee,Beverages,4,28-09-2025,3.3,0%,3.3,365,0,1,Galway Oyster & Seafood Festival
+28-09-2024,PN021,Cucumber,Vegetables,2,05-10-2024,0.89,0%,0.89,7,0,1,Galway Oyster & Seafood Festival
+28-09-2024,PN039,Red Wine,Beverages,2,28-09-2027,10.5,0%,10.5,1095,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN005,Bread,Bakery,8,02-10-2024,1.28,0%,1.28,5,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN006,Breakfast Cereals,Staples,7,27-09-2025,1.29,0%,1.29,365,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN017,Chocolates,Confectionery,14,02-10-2024,1.75,5%,1.66,365,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN024,Guinness,Beverages,5,02-10-2024,4.66,5%,4.43,210,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN025,Ham,Meat,8,07-10-2024,2.99,0%,2.99,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN028,Milk,Dairy,14,04-10-2024,1.25,0%,1.25,7,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN047,Tomatoes,Vegetables,9,04-10-2024,0.8,0%,0.8,7,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN047,Tomatoes,Vegetables,15,28-09-2024,0.8,25%,0.6,7,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,4,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,5,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,5,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,8,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,10,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,6,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN001,Apples,Fruits,5,07-10-2024,0.6,0%,0.6,10,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN018,Cinnamon,Spices,8,27-09-2026,1.0,0%,1.0,730,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN029,Mussels,Seafood,7,12-10-2024,3.0,0%,3.0,15,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN029,Mussels,Seafood,15,12-10-2024,3.0,0%,3.0,15,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN029,Mussels,Seafood,13,12-10-2024,3.0,0%,3.0,15,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN033,Oysters,Seafood,19,12-10-2024,3.99,0%,3.99,15,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN038,Pumpkin,Vegetables,12,01-10-2024,3.45,0%,3.45,4,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN038,Pumpkin,Vegetables,11,01-10-2024,3.45,0%,3.45,4,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN038,Pumpkin,Vegetables,14,01-10-2024,3.45,0%,3.45,4,0,1,Galway Oyster & Seafood Festival
+27-09-2024,PN038,Pumpkin,Vegetables,13,01-10-2024,3.45,0%,3.45,4,0,1,Galway Oyster & Seafood Festival
+05-08-2024,PN010,Butter Croissant,Bakery,17,08-08-2024,1.5,0%,1.5,3,1,0,August Bank Holiday
+05-08-2024,PN019,Coffee,Beverages,11,10-08-2024,3.3,5%,3.14,365,1,0,August Bank Holiday
+05-08-2024,PN020,Croissants,Bakery,12,04-09-2024,0.48,0%,0.48,30,1,0,August Bank Holiday
+05-08-2024,PN024,Guinness,Beverages,5,03-03-2025,4.66,0%,4.66,210,1,0,August Bank Holiday
+05-08-2024,PN034,Pasta,Staples,8,05-08-2025,1.45,0%,1.45,365,1,0,August Bank Holiday
+04-08-2024,PN001,Apples,Fruits,9,14-08-2024,0.6,0%,0.6,10,0,1,Galway Races
+04-08-2024,PN001,Apples,Fruits,8,07-08-2024,0.6,10%,0.54,10,0,1,Galway Races
+04-08-2024,PN004,Beef,Meat,13,25-08-2024,4.5,0%,4.5,21,0,1,Galway Races
+04-08-2024,PN011,Cabbage,Vegetables,15,14-08-2024,1.29,0%,1.29,10,0,1,Galway Races
+04-08-2024,PN012,Canned Soup,Staples,3,04-08-2026,2.13,0%,2.13,730,0,1,Galway Races
+04-08-2024,PN014,Charcoal,Non-Food,15,06-08-2024,1.75,15%,1.49,730,0,1,Galway Races
+04-08-2024,PN019,Coffee,Beverages,19,04-08-2025,3.3,0%,3.3,365,0,1,Galway Races
+04-08-2024,PN026,Lamb,Meat,14,04-08-2024,5.0,30%,3.5,3,0,1,Galway Races
+04-08-2024,PN034,Pasta,Staples,5,04-08-2025,1.45,0%,1.45,365,0,1,Galway Races
+04-08-2024,PN039,Red Wine,Beverages,5,04-08-2027,10.5,0%,10.5,1095,0,1,Galway Races
+04-08-2024,PN040,Salami,Meat,11,25-08-2024,1.6,0%,1.6,21,0,1,Galway Races
+04-08-2024,PN040,Salami,Meat,6,04-08-2024,1.6,30%,1.12,21,0,1,Galway Races
+04-08-2024,PN041,Salmon Fillets,Seafood,13,04-08-2024,4.25,30%,2.98,4,0,1,Galway Races
+04-08-2024,PN049,White Wine,Beverages,2,06-08-2024,10.5,15%,8.93,730,0,1,Galway Races
+04-08-2024,PN050,Yogurt,Dairy,5,06-08-2024,1.35,15%,1.15,15,0,1,Galway Races
+04-08-2024,PN050,Yogurt,Dairy,9,06-08-2024,1.35,15%,1.15,15,0,1,Galway Races
+03-08-2024,PN034,Pasta,Staples,1,03-08-2025,1.45,0%,1.45,365,0,1,Galway Races
+03-08-2024,PN047,Tomatoes,Vegetables,5,10-08-2024,0.8,0%,0.8,7,0,1,Galway Races
+03-08-2024,PN048,Turkey,Meat,3,03-08-2024,1.99,30%,1.39,14,0,1,Galway Races
+02-08-2024,PN008,Burger Patties,Meat,6,02-08-2025,3.0,0%,3.0,365,0,1,Galway Races
+02-08-2024,PN011,Cabbage,Vegetables,2,03-08-2024,1.29,25%,0.97,10,0,1,Galway Races
+02-08-2024,PN013,Carrots,Vegetables,11,16-08-2024,0.13,0%,0.13,14,0,1,Galway Races
+02-08-2024,PN020,Croissants,Bakery,12,01-09-2024,0.48,0%,0.48,30,0,1,Galway Races
+02-08-2024,PN027,Lettuce,Vegetables,19,07-08-2024,1.15,0%,1.15,5,0,1,Galway Races
+02-08-2024,PN036,Pineapple,Fruits,12,02-08-2024,1.19,30%,0.83,7,0,1,Galway Races
+02-08-2024,PN038,Pumpkin,Vegetables,16,06-08-2024,3.45,0%,3.45,4,0,1,Galway Races
+02-08-2024,PN045,Spinach,Vegetables,18,12-08-2024,1.39,0%,1.39,10,0,1,Galway Races
+02-08-2024,PN046,Strawberries,Fruits,12,03-08-2024,0.5,25%,0.38,4,0,1,Galway Races
+02-08-2024,PN050,Yogurt,Dairy,3,17-08-2024,1.35,0%,1.35,15,0,1,Galway Races
+01-08-2024,PN002,Bananas,Fruits,15,08-08-2024,0.28,0%,0.28,7,0,1,Galway Races
+01-08-2024,PN004,Beef,Meat,7,22-08-2024,4.5,0%,4.5,21,0,1,Galway Races
+01-08-2024,PN011,Cabbage,Vegetables,19,11-08-2024,1.29,0%,1.29,10,0,1,Galway Races
+01-08-2024,PN018,Cinnamon,Spices,2,04-08-2024,1.0,10%,0.9,730,0,1,Galway Races
+01-08-2024,PN020,Croissants,Bakery,16,31-08-2024,0.48,0%,0.48,30,0,1,Galway Races
+01-08-2024,PN021,Cucumber,Vegetables,15,08-08-2024,0.89,0%,0.89,7,0,1,Galway Races
+01-08-2024,PN042,Smoothie,Beverages,10,11-08-2024,4.25,0%,4.25,10,0,1,Galway Races
+31-07-2024,PN001,Apples,Fruits,15,10-08-2024,0.6,0%,0.6,10,0,1,Galway Races
+31-07-2024,PN002,Bananas,Fruits,20,07-08-2024,0.28,0%,0.28,7,0,1,Galway Races
+31-07-2024,PN004,Beef,Meat,16,31-07-2024,4.5,30%,3.15,21,0,1,Galway Races
+31-07-2024,PN010,Butter Croissant,Bakery,3,03-08-2024,1.5,0%,1.5,3,0,1,Galway Races
+31-07-2024,PN018,Cinnamon,Spices,20,31-07-2026,1.0,0%,1.0,730,0,1,Galway Races
+31-07-2024,PN027,Lettuce,Vegetables,10,05-08-2024,1.15,0%,1.15,5,0,1,Galway Races
+31-07-2024,PN037,Potatoes,Vegetables,5,20-08-2024,0.46,0%,0.46,20,0,1,Galway Races
+31-07-2024,PN037,Potatoes,Vegetables,19,20-08-2024,0.46,0%,0.46,20,0,1,Galway Races
+31-07-2024,PN037,Potatoes,Vegetables,1,20-08-2024,0.46,0%,0.46,20,0,1,Galway Races
+31-07-2024,PN050,Yogurt,Dairy,11,15-08-2024,1.35,0%,1.35,15,0,1,Galway Races
+31-07-2024,PN050,Yogurt,Dairy,1,15-08-2024,1.35,0%,1.35,15,0,1,Galway Races
+30-07-2024,PN006,Breakfast Cereals,Staples,11,30-07-2025,1.29,0%,1.29,365,0,1,Galway Races
+30-07-2024,PN009,Butter,Dairy,5,04-08-2024,3.99,0%,3.99,270,0,1,Galway Races
+30-07-2024,PN012,Canned Soup,Staples,3,30-07-2026,2.13,0%,2.13,730,0,1,Galway Races
+30-07-2024,PN025,Ham,Meat,1,09-08-2024,2.99,0%,2.99,10,0,1,Galway Races
+30-07-2024,PN030,Onions,Vegetables,13,19-08-2024,0.67,0%,0.67,20,0,1,Galway Races
+30-07-2024,PN031,Orange Juice,Beverages,8,13-08-2024,2.5,0%,2.5,14,0,1,Galway Races
+30-07-2024,PN034,Pasta,Staples,10,02-08-2024,1.45,10%,1.31,365,0,1,Galway Races
+30-07-2024,PN035,Pepper,Spices,18,13-08-2024,1.0,0%,1.0,14,0,1,Galway Races
+30-07-2024,PN039,Red Wine,Beverages,6,31-07-2024,10.5,25%,7.88,1095,0,1,Galway Races
+30-07-2024,PN040,Salami,Meat,8,04-08-2024,1.6,5%,1.52,21,0,1,Galway Races
+30-07-2024,PN041,Salmon Fillets,Seafood,19,03-08-2024,4.25,0%,4.25,4,0,1,Galway Races
+30-07-2024,PN044,Sparkling Wine,Beverages,15,30-07-2025,4.5,0%,4.5,365,0,1,Galway Races
+29-07-2024,PN011,Cabbage,Vegetables,7,03-08-2024,1.29,5%,1.23,10,0,1,Galway Races
+29-07-2024,PN013,Carrots,Vegetables,6,12-08-2024,0.13,0%,0.13,14,0,1,Galway Races
+29-07-2024,PN013,Carrots,Vegetables,5,12-08-2024,0.13,0%,0.13,14,0,1,Galway Races
+29-07-2024,PN017,Chocolates,Confectionery,14,29-07-2025,1.75,0%,1.75,365,0,1,Galway Races
+29-07-2024,PN037,Potatoes,Vegetables,19,29-07-2024,0.46,30%,0.32,20,0,1,Galway Races
+29-07-2024,PN044,Sparkling Wine,Beverages,1,03-08-2024,4.5,5%,4.28,365,0,1,Galway Races
+29-07-2024,PN048,Turkey,Meat,9,12-08-2024,1.99,0%,1.99,14,0,1,Galway Races
+29-07-2024,PN016,Chicken Breast,Meat,11,03-08-2024,3.99,0%,3.99,5,0,1,Galway Races
+29-07-2024,PN016,Chicken Breast,Meat,12,03-08-2024,3.99,0%,3.99,5,0,1,Galway Races
+29-07-2024,PN016,Chicken Breast,Meat,8,03-08-2024,3.99,0%,3.99,5,0,1,Galway Races
+29-07-2024,PN016,Chicken Breast,Meat,9,03-08-2024,3.99,0%,3.99,5,0,1,Galway Races
+29-07-2024,PN039,Red Wine,Beverages,25,29-07-2027,10.5,0%,10.5,1095,0,1,Galway Races
+29-07-2024,PN039,Red Wine,Beverages,21,29-07-2027,10.5,0%,10.5,1095,0,1,Galway Races
+29-07-2024,PN039,Red Wine,Beverages,22,29-07-2027,10.5,0%,10.5,1095,0,1,Galway Races
+29-07-2024,PN039,Red Wine,Beverages,29,29-07-2027,10.5,0%,10.5,1095,0,1,Galway Races
+29-07-2024,PN044,Sparkling Wine,Beverages,29,29-07-2025,4.5,0%,4.5,365,0,1,Galway Races
+29-07-2024,PN049,White Wine,Beverages,29,29-07-2026,10.5,0%,10.5,730,0,1,Galway Races
+29-07-2024,PN049,White Wine,Beverages,14,29-07-2026,10.5,0%,10.5,730,0,1,Galway Races
+29-07-2024,PN049,White Wine,Beverages,22,29-07-2026,10.5,0%,10.5,730,0,1,Galway Races
+29-07-2024,PN049,White Wine,Beverages,26,29-07-2026,10.5,0%,10.5,730,0,1,Galway Races
+29-07-2024,PN049,White Wine,Beverages,19,29-07-2026,10.5,0%,10.5,730,0,1,Galway Races
+28-07-2024,PN002,Bananas,Fruits,17,04-08-2024,0.28,0%,0.28,7,0,1,Galway International Arts Festival
+28-07-2024,PN015,Cheese,Dairy,6,31-07-2024,2.5,10%,2.25,21,0,1,Galway International Arts Festival
+28-07-2024,PN016,Chicken Breast,Meat,7,02-08-2024,3.99,0%,3.99,5,0,1,Galway International Arts Festival
+28-07-2024,PN026,Lamb,Meat,4,31-07-2024,5.0,0%,5.0,3,0,1,Galway International Arts Festival
+28-07-2024,PN028,Milk,Dairy,18,04-08-2024,1.25,0%,1.25,7,0,1,Galway International Arts Festival
+28-07-2024,PN041,Salmon Fillets,Seafood,11,01-08-2024,4.25,0%,4.25,4,0,1,Galway International Arts Festival
+28-07-2024,PN043,Soft Drinks,Beverages,5,25-03-2025,3.4,0%,3.4,240,0,1,Galway International Arts Festival
+28-07-2024,PN045,Spinach,Vegetables,10,29-07-2024,1.39,25%,1.04,10,0,1,Galway International Arts Festival
+28-07-2024,PN046,Strawberries,Fruits,20,28-07-2024,0.5,30%,0.35,4,0,1,Galway International Arts Festival
+28-07-2024,PN047,Tomatoes,Vegetables,1,28-07-2024,0.8,30%,0.56,7,0,1,Galway International Arts Festival
+28-07-2024,PN049,White Wine,Beverages,6,28-07-2026,10.5,0%,10.5,730,0,1,Galway International Arts Festival
+27-07-2024,PN007,Brussels Sprouts,Vegetables,12,03-08-2024,1.07,0%,1.07,7,0,1,Galway International Arts Festival
+27-07-2024,PN008,Burger Patties,Meat,20,27-07-2025,3.0,0%,3.0,365,0,1,Galway International Arts Festival
+27-07-2024,PN009,Butter,Dairy,19,01-08-2024,3.99,0%,3.99,270,0,1,Galway International Arts Festival
+27-07-2024,PN011,Cabbage,Vegetables,5,06-08-2024,1.29,0%,1.29,10,0,1,Galway International Arts Festival
+27-07-2024,PN020,Croissants,Bakery,4,26-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+27-07-2024,PN025,Ham,Meat,17,06-08-2024,2.99,0%,2.99,10,0,1,Galway International Arts Festival
+27-07-2024,PN028,Milk,Dairy,5,30-07-2024,1.25,10%,1.13,7,0,1,Galway International Arts Festival
+27-07-2024,PN031,Orange Juice,Beverages,19,27-07-2024,2.5,30%,1.75,14,0,1,Galway International Arts Festival
+27-07-2024,PN039,Red Wine,Beverages,10,27-07-2027,10.5,0%,10.5,1095,0,1,Galway International Arts Festival
+27-07-2024,PN040,Salami,Meat,10,17-08-2024,1.6,0%,1.6,21,0,1,Galway International Arts Festival
+27-07-2024,PN045,Spinach,Vegetables,2,06-08-2024,1.39,0%,1.39,10,0,1,Galway International Arts Festival
+26-07-2024,PN001,Apples,Fruits,8,05-08-2024,0.6,0%,0.6,10,0,1,Galway International Arts Festival
+26-07-2024,PN005,Bread,Bakery,5,31-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+26-07-2024,PN012,Canned Soup,Staples,6,26-07-2026,2.13,0%,2.13,730,0,1,Galway International Arts Festival
+26-07-2024,PN014,Charcoal,Non-Food,10,29-07-2024,1.75,10%,1.58,730,0,1,Galway International Arts Festival
+26-07-2024,PN015,Cheese,Dairy,16,29-07-2024,2.5,10%,2.25,21,0,1,Galway International Arts Festival
+26-07-2024,PN024,Guinness,Beverages,11,21-02-2025,4.66,0%,4.66,210,0,1,Galway International Arts Festival
+26-07-2024,PN026,Lamb,Meat,8,29-07-2024,5.0,0%,5.0,3,0,1,Galway International Arts Festival
+26-07-2024,PN029,Mussels,Seafood,10,10-08-2024,3.0,0%,3.0,15,0,1,Galway International Arts Festival
+26-07-2024,PN029,Mussels,Seafood,20,28-07-2024,3.0,15%,2.55,15,0,1,Galway International Arts Festival
+26-07-2024,PN031,Orange Juice,Beverages,7,09-08-2024,2.5,0%,2.5,14,0,1,Galway International Arts Festival
+26-07-2024,PN049,White Wine,Beverages,17,26-07-2026,10.5,0%,10.5,730,0,1,Galway International Arts Festival
+25-07-2024,PN003,Basmati Rice,Staples,8,25-07-2025,1.59,0%,1.59,365,0,1,Galway International Arts Festival
+25-07-2024,PN006,Breakfast Cereals,Staples,2,25-07-2025,1.29,0%,1.29,365,0,1,Galway International Arts Festival
+25-07-2024,PN007,Brussels Sprouts,Vegetables,19,01-08-2024,1.07,0%,1.07,7,0,1,Galway International Arts Festival
+25-07-2024,PN010,Butter Croissant,Bakery,7,25-07-2024,1.5,30%,1.05,3,0,1,Galway International Arts Festival
+25-07-2024,PN017,Chocolates,Confectionery,2,25-07-2024,1.75,30%,1.23,365,0,1,Galway International Arts Festival
+25-07-2024,PN021,Cucumber,Vegetables,15,01-08-2024,0.89,0%,0.89,7,0,1,Galway International Arts Festival
+25-07-2024,PN023,Eggs,Dairy,4,27-07-2024,0.21,15%,0.18,21,0,1,Galway International Arts Festival
+25-07-2024,PN034,Pasta,Staples,5,25-07-2025,1.45,0%,1.45,365,0,1,Galway International Arts Festival
+25-07-2024,PN037,Potatoes,Vegetables,7,14-08-2024,0.46,0%,0.46,20,0,1,Galway International Arts Festival
+25-07-2024,PN040,Salami,Meat,5,15-08-2024,1.6,0%,1.6,21,0,1,Galway International Arts Festival
+25-07-2024,PN049,White Wine,Beverages,18,30-07-2024,10.5,5%,9.98,730,0,1,Galway International Arts Festival
+25-07-2024,PN050,Yogurt,Dairy,9,09-08-2024,1.35,0%,1.35,15,0,1,Galway International Arts Festival
+24-07-2024,PN001,Apples,Fruits,13,03-08-2024,0.6,0%,0.6,10,0,1,Galway International Arts Festival
+24-07-2024,PN005,Bread,Bakery,9,29-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+24-07-2024,PN008,Burger Patties,Meat,14,24-07-2025,3.0,0%,3.0,365,0,1,Galway International Arts Festival
+24-07-2024,PN012,Canned Soup,Staples,14,24-07-2026,2.13,0%,2.13,730,0,1,Galway International Arts Festival
+24-07-2024,PN017,Chocolates,Confectionery,20,24-07-2025,1.75,0%,1.75,365,0,1,Galway International Arts Festival
+24-07-2024,PN023,Eggs,Dairy,19,14-08-2024,0.21,0%,0.21,21,0,1,Galway International Arts Festival
+24-07-2024,PN026,Lamb,Meat,13,27-07-2024,5.0,0%,5.0,3,0,1,Galway International Arts Festival
+24-07-2024,PN027,Lettuce,Vegetables,1,29-07-2024,1.15,0%,1.15,5,0,1,Galway International Arts Festival
+24-07-2024,PN034,Pasta,Staples,9,24-07-2025,1.45,0%,1.45,365,0,1,Galway International Arts Festival
+24-07-2024,PN035,Pepper,Spices,19,07-08-2024,1.0,0%,1.0,14,0,1,Galway International Arts Festival
+24-07-2024,PN038,Pumpkin,Vegetables,6,24-07-2024,3.45,30%,2.42,4,0,1,Galway International Arts Festival
+24-07-2024,PN042,Smoothie,Beverages,6,03-08-2024,4.25,0%,4.25,10,0,1,Galway International Arts Festival
+23-07-2024,PN005,Bread,Bakery,7,28-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+23-07-2024,PN017,Chocolates,Confectionery,3,23-07-2025,1.75,0%,1.75,365,0,1,Galway International Arts Festival
+23-07-2024,PN022,Easter Eggs,Confectionery,13,23-07-2025,1.2,0%,1.2,365,0,1,Galway International Arts Festival
+23-07-2024,PN025,Ham,Meat,12,25-07-2024,2.99,15%,2.54,10,0,1,Galway International Arts Festival
+23-07-2024,PN026,Lamb,Meat,8,26-07-2024,5.0,0%,5.0,3,0,1,Galway International Arts Festival
+23-07-2024,PN029,Mussels,Seafood,1,07-08-2024,3.0,0%,3.0,15,0,1,Galway International Arts Festival
+23-07-2024,PN040,Salami,Meat,2,13-08-2024,1.6,0%,1.6,21,0,1,Galway International Arts Festival
+23-07-2024,PN040,Salami,Meat,1,28-07-2024,1.6,5%,1.52,21,0,1,Galway International Arts Festival
+23-07-2024,PN044,Sparkling Wine,Beverages,9,23-07-2025,4.5,0%,4.5,365,0,1,Galway International Arts Festival
+23-07-2024,PN045,Spinach,Vegetables,18,24-07-2024,1.39,25%,1.04,10,0,1,Galway International Arts Festival
+22-07-2024,PN008,Burger Patties,Meat,17,25-07-2024,3.0,10%,2.7,365,0,1,Galway International Arts Festival
+22-07-2024,PN008,Burger Patties,Meat,5,24-07-2024,3.0,15%,2.55,365,0,1,Galway International Arts Festival
+22-07-2024,PN029,Mussels,Seafood,12,06-08-2024,3.0,0%,3.0,15,0,1,Galway International Arts Festival
+22-07-2024,PN034,Pasta,Staples,2,22-07-2025,1.45,0%,1.45,365,0,1,Galway International Arts Festival
+22-07-2024,PN038,Pumpkin,Vegetables,2,26-07-2024,3.45,0%,3.45,4,0,1,Galway International Arts Festival
+22-07-2024,PN042,Smoothie,Beverages,9,01-08-2024,4.25,0%,4.25,10,0,1,Galway International Arts Festival
+22-07-2024,PN047,Tomatoes,Vegetables,17,29-07-2024,0.8,0%,0.8,7,0,1,Galway International Arts Festival
+21-07-2024,PN001,Apples,Fruits,4,31-07-2024,0.6,0%,0.6,10,0,1,Galway International Arts Festival
+21-07-2024,PN003,Basmati Rice,Staples,18,21-07-2025,1.59,0%,1.59,365,0,1,Galway International Arts Festival
+21-07-2024,PN007,Brussels Sprouts,Vegetables,8,28-07-2024,1.07,0%,1.07,7,0,1,Galway International Arts Festival
+21-07-2024,PN010,Butter Croissant,Bakery,16,22-07-2024,1.5,25%,1.13,3,0,1,Galway International Arts Festival
+21-07-2024,PN020,Croissants,Bakery,3,20-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+21-07-2024,PN024,Guinness,Beverages,14,16-02-2025,4.66,0%,4.66,210,0,1,Galway International Arts Festival
+21-07-2024,PN028,Milk,Dairy,13,28-07-2024,1.25,0%,1.25,7,0,1,Galway International Arts Festival
+21-07-2024,PN031,Orange Juice,Beverages,8,04-08-2024,2.5,0%,2.5,14,0,1,Galway International Arts Festival
+21-07-2024,PN039,Red Wine,Beverages,2,21-07-2027,10.5,0%,10.5,1095,0,1,Galway International Arts Festival
+21-07-2024,PN045,Spinach,Vegetables,17,31-07-2024,1.39,0%,1.39,10,0,1,Galway International Arts Festival
+20-07-2024,PN001,Apples,Fruits,6,30-07-2024,0.6,0%,0.6,10,0,1,Galway International Arts Festival
+20-07-2024,PN004,Beef,Meat,5,10-08-2024,4.5,0%,4.5,21,0,1,Galway International Arts Festival
+20-07-2024,PN007,Brussels Sprouts,Vegetables,18,27-07-2024,1.07,0%,1.07,7,0,1,Galway International Arts Festival
+20-07-2024,PN009,Butter,Dairy,18,25-07-2024,3.99,0%,3.99,270,0,1,Galway International Arts Festival
+20-07-2024,PN014,Charcoal,Non-Food,12,20-07-2026,1.75,0%,1.75,730,0,1,Galway International Arts Festival
+20-07-2024,PN014,Charcoal,Non-Food,3,20-07-2026,1.75,0%,1.75,730,0,1,Galway International Arts Festival
+20-07-2024,PN020,Croissants,Bakery,8,19-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+20-07-2024,PN022,Easter Eggs,Confectionery,9,20-07-2025,1.2,0%,1.2,365,0,1,Galway International Arts Festival
+20-07-2024,PN025,Ham,Meat,3,30-07-2024,2.99,0%,2.99,10,0,1,Galway International Arts Festival
+20-07-2024,PN032,Oranges,Fruits,9,03-08-2024,0.6,0%,0.6,14,0,1,Galway International Arts Festival
+20-07-2024,PN044,Sparkling Wine,Beverages,7,20-07-2025,4.5,0%,4.5,365,0,1,Galway International Arts Festival
+20-07-2024,PN049,White Wine,Beverages,8,20-07-2026,10.5,0%,10.5,730,0,1,Galway International Arts Festival
+20-07-2024,PN049,White Wine,Beverages,16,21-07-2024,10.5,25%,7.88,730,0,1,Galway International Arts Festival
+19-07-2024,PN004,Beef,Meat,16,09-08-2024,4.5,0%,4.5,21,0,1,Galway International Arts Festival
+19-07-2024,PN024,Guinness,Beverages,12,14-02-2025,4.66,0%,4.66,210,0,1,Galway International Arts Festival
+19-07-2024,PN024,Guinness,Beverages,18,20-07-2024,4.66,25%,3.5,210,0,1,Galway International Arts Festival
+19-07-2024,PN026,Lamb,Meat,5,19-07-2024,5.0,30%,3.5,3,0,1,Galway International Arts Festival
+18-07-2024,PN011,Cabbage,Vegetables,6,28-07-2024,1.29,0%,1.29,10,0,1,Galway International Arts Festival
+18-07-2024,PN039,Red Wine,Beverages,8,18-07-2027,10.5,0%,10.5,1095,0,1,Galway International Arts Festival
+18-07-2024,PN045,Spinach,Vegetables,7,28-07-2024,1.39,0%,1.39,10,0,1,Galway International Arts Festival
+17-07-2024,PN005,Bread,Bakery,14,22-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+17-07-2024,PN006,Breakfast Cereals,Staples,19,17-07-2025,1.29,0%,1.29,365,0,1,Galway International Arts Festival
+17-07-2024,PN007,Brussels Sprouts,Vegetables,5,22-07-2024,1.07,5%,1.02,7,0,1,Galway International Arts Festival
+17-07-2024,PN008,Burger Patties,Meat,12,17-07-2025,3.0,0%,3.0,365,0,1,Galway International Arts Festival
+17-07-2024,PN009,Butter,Dairy,17,18-07-2024,3.99,25%,2.99,270,0,1,Galway International Arts Festival
+17-07-2024,PN010,Butter Croissant,Bakery,8,20-07-2024,1.5,0%,1.5,3,0,1,Galway International Arts Festival
+17-07-2024,PN014,Charcoal,Non-Food,2,17-07-2024,1.75,30%,1.23,730,0,1,Galway International Arts Festival
+17-07-2024,PN019,Coffee,Beverages,20,17-07-2025,3.3,0%,3.3,365,0,1,Galway International Arts Festival
+17-07-2024,PN022,Easter Eggs,Confectionery,13,17-07-2025,1.2,0%,1.2,365,0,1,Galway International Arts Festival
+17-07-2024,PN028,Milk,Dairy,4,20-07-2024,1.25,10%,1.13,7,0,1,Galway International Arts Festival
+17-07-2024,PN029,Mussels,Seafood,5,01-08-2024,3.0,0%,3.0,15,0,1,Galway International Arts Festival
+17-07-2024,PN034,Pasta,Staples,1,17-07-2025,1.45,0%,1.45,365,0,1,Galway International Arts Festival
+17-07-2024,PN039,Red Wine,Beverages,7,17-07-2027,10.5,0%,10.5,1095,0,1,Galway International Arts Festival
+17-07-2024,PN042,Smoothie,Beverages,14,27-07-2024,4.25,0%,4.25,10,0,1,Galway International Arts Festival
+17-07-2024,PN049,White Wine,Beverages,6,22-07-2024,10.5,5%,9.98,730,0,1,Galway International Arts Festival
+17-07-2024,PN050,Yogurt,Dairy,19,01-08-2024,1.35,0%,1.35,15,0,1,Galway International Arts Festival
+16-07-2024,PN004,Beef,Meat,8,06-08-2024,4.5,0%,4.5,21,0,1,Galway International Arts Festival
+16-07-2024,PN009,Butter,Dairy,10,21-07-2024,3.99,0%,3.99,270,0,1,Galway International Arts Festival
+16-07-2024,PN014,Charcoal,Non-Food,11,18-07-2024,1.75,15%,1.49,730,0,1,Galway International Arts Festival
+16-07-2024,PN034,Pasta,Staples,14,16-07-2025,1.45,0%,1.45,365,0,1,Galway International Arts Festival
+16-07-2024,PN038,Pumpkin,Vegetables,3,20-07-2024,3.45,0%,3.45,4,0,1,Galway International Arts Festival
+16-07-2024,PN039,Red Wine,Beverages,6,16-07-2027,10.5,0%,10.5,1095,0,1,Galway International Arts Festival
+15-07-2024,PN001,Apples,Fruits,7,25-07-2024,0.6,0%,0.6,10,0,1,Galway International Arts Festival
+15-07-2024,PN010,Butter Croissant,Bakery,5,18-07-2024,1.5,0%,1.5,3,0,1,Galway International Arts Festival
+15-07-2024,PN010,Butter Croissant,Bakery,14,18-07-2024,1.5,0%,1.5,3,0,1,Galway International Arts Festival
+15-07-2024,PN012,Canned Soup,Staples,20,15-07-2026,2.13,0%,2.13,730,0,1,Galway International Arts Festival
+15-07-2024,PN021,Cucumber,Vegetables,2,22-07-2024,0.89,0%,0.89,7,0,1,Galway International Arts Festival
+15-07-2024,PN033,Oysters,Seafood,3,30-07-2024,3.99,0%,3.99,15,0,1,Galway International Arts Festival
+15-07-2024,PN038,Pumpkin,Vegetables,14,19-07-2024,3.45,0%,3.45,4,0,1,Galway International Arts Festival
+15-07-2024,PN045,Spinach,Vegetables,5,25-07-2024,1.39,0%,1.39,10,0,1,Galway International Arts Festival
+15-07-2024,PN048,Turkey,Meat,2,29-07-2024,1.99,0%,1.99,14,0,1,Galway International Arts Festival
+15-07-2024,PN005,Bread,Bakery,13,20-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+15-07-2024,PN005,Bread,Bakery,10,20-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+15-07-2024,PN005,Bread,Bakery,9,20-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+15-07-2024,PN005,Bread,Bakery,7,20-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+15-07-2024,PN005,Bread,Bakery,15,20-07-2024,1.28,0%,1.28,5,0,1,Galway International Arts Festival
+15-07-2024,PN020,Croissants,Bakery,10,14-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+15-07-2024,PN020,Croissants,Bakery,9,14-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+15-07-2024,PN020,Croissants,Bakery,19,14-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+15-07-2024,PN020,Croissants,Bakery,12,14-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+15-07-2024,PN020,Croissants,Bakery,15,14-08-2024,0.48,0%,0.48,30,0,1,Galway International Arts Festival
+15-07-2024,PN043,Soft Drinks,Beverages,21,12-03-2025,3.4,0%,3.4,240,0,1,Galway International Arts Festival
+15-07-2024,PN043,Soft Drinks,Beverages,13,12-03-2025,3.4,0%,3.4,240,0,1,Galway International Arts Festival
+15-07-2024,PN043,Soft Drinks,Beverages,13,12-03-2025,3.4,0%,3.4,240,0,1,Galway International Arts Festival
+14-07-2024,PN001,Apples,Fruits,10,24-07-2024,0.6,0%,0.6,10,0,1,Galway Film Fleadh
+14-07-2024,PN005,Bread,Bakery,4,15-07-2024,1.28,25%,0.96,5,0,1,Galway Film Fleadh
+14-07-2024,PN011,Cabbage,Vegetables,10,24-07-2024,1.29,0%,1.29,10,0,1,Galway Film Fleadh
+14-07-2024,PN018,Cinnamon,Spices,8,15-07-2024,1.0,25%,0.75,730,0,1,Galway Film Fleadh
+14-07-2024,PN020,Croissants,Bakery,3,13-08-2024,0.48,0%,0.48,30,0,1,Galway Film Fleadh
+14-07-2024,PN028,Milk,Dairy,8,21-07-2024,1.25,0%,1.25,7,0,1,Galway Film Fleadh
+14-07-2024,PN030,Onions,Vegetables,15,14-07-2024,0.67,30%,0.47,20,0,1,Galway Film Fleadh
+14-07-2024,PN036,Pineapple,Fruits,9,15-07-2024,1.19,25%,0.89,7,0,1,Galway Film Fleadh
+14-07-2024,PN037,Potatoes,Vegetables,16,03-08-2024,0.46,0%,0.46,20,0,1,Galway Film Fleadh
+14-07-2024,PN039,Red Wine,Beverages,5,14-07-2027,10.5,0%,10.5,1095,0,1,Galway Film Fleadh
+14-07-2024,PN039,Red Wine,Beverages,7,14-07-2027,10.5,0%,10.5,1095,0,1,Galway Film Fleadh
+14-07-2024,PN040,Salami,Meat,10,04-08-2024,1.6,0%,1.6,21,0,1,Galway Film Fleadh
+14-07-2024,PN040,Salami,Meat,1,04-08-2024,1.6,0%,1.6,21,0,1,Galway Film Fleadh
+14-07-2024,PN042,Smoothie,Beverages,7,24-07-2024,4.25,0%,4.25,10,0,1,Galway Film Fleadh
+14-07-2024,PN045,Spinach,Vegetables,14,24-07-2024,1.39,0%,1.39,10,0,1,Galway Film Fleadh
+14-07-2024,PN048,Turkey,Meat,10,28-07-2024,1.99,0%,1.99,14,0,1,Galway Film Fleadh
+13-07-2024,PN002,Bananas,Fruits,10,20-07-2024,0.28,0%,0.28,7,0,1,Galway Film Fleadh
+13-07-2024,PN010,Butter Croissant,Bakery,2,16-07-2024,1.5,0%,1.5,3,0,1,Galway Film Fleadh
+13-07-2024,PN014,Charcoal,Non-Food,3,13-07-2026,1.75,0%,1.75,730,0,1,Galway Film Fleadh
+13-07-2024,PN022,Easter Eggs,Confectionery,8,15-07-2024,1.2,15%,1.02,365,0,1,Galway Film Fleadh
+13-07-2024,PN022,Easter Eggs,Confectionery,8,14-07-2024,1.2,25%,0.9,365,0,1,Galway Film Fleadh
+13-07-2024,PN026,Lamb,Meat,18,16-07-2024,5.0,0%,5.0,3,0,1,Galway Film Fleadh
+13-07-2024,PN027,Lettuce,Vegetables,11,13-07-2024,1.15,30%,0.81,5,0,1,Galway Film Fleadh
+13-07-2024,PN034,Pasta,Staples,8,13-07-2025,1.45,0%,1.45,365,0,1,Galway Film Fleadh
+13-07-2024,PN050,Yogurt,Dairy,12,28-07-2024,1.35,0%,1.35,15,0,1,Galway Film Fleadh
+12-07-2024,PN005,Bread,Bakery,18,13-07-2024,1.28,25%,0.96,5,0,1,Galway Film Fleadh
+12-07-2024,PN012,Canned Soup,Staples,19,12-07-2026,2.13,0%,2.13,730,0,1,Galway Film Fleadh
+12-07-2024,PN036,Pineapple,Fruits,3,19-07-2024,1.19,0%,1.19,7,0,1,Galway Film Fleadh
+12-07-2024,PN039,Red Wine,Beverages,4,12-07-2027,10.5,0%,10.5,1095,0,1,Galway Film Fleadh
+12-07-2024,PN043,Soft Drinks,Beverages,5,17-07-2024,3.4,5%,3.23,240,0,1,Galway Film Fleadh
+12-07-2024,PN049,White Wine,Beverages,3,12-07-2026,10.5,0%,10.5,730,0,1,Galway Film Fleadh
+11-07-2024,PN001,Apples,Fruits,2,21-07-2024,0.6,0%,0.6,10,0,1,Galway Film Fleadh
+11-07-2024,PN002,Bananas,Fruits,15,18-07-2024,0.28,0%,0.28,7,0,1,Galway Film Fleadh
+11-07-2024,PN011,Cabbage,Vegetables,10,21-07-2024,1.29,0%,1.29,10,0,1,Galway Film Fleadh
+11-07-2024,PN015,Cheese,Dairy,13,01-08-2024,2.5,0%,2.5,21,0,1,Galway Film Fleadh
+11-07-2024,PN015,Cheese,Dairy,18,01-08-2024,2.5,0%,2.5,21,0,1,Galway Film Fleadh
+11-07-2024,PN015,Cheese,Dairy,5,01-08-2024,2.5,0%,2.5,21,0,1,Galway Film Fleadh
+11-07-2024,PN018,Cinnamon,Spices,7,11-07-2026,1.0,0%,1.0,730,0,1,Galway Film Fleadh
+11-07-2024,PN029,Mussels,Seafood,9,26-07-2024,3.0,0%,3.0,15,0,1,Galway Film Fleadh
+11-07-2024,PN030,Onions,Vegetables,17,31-07-2024,0.67,0%,0.67,20,0,1,Galway Film Fleadh
+11-07-2024,PN042,Smoothie,Beverages,16,21-07-2024,4.25,0%,4.25,10,0,1,Galway Film Fleadh
+11-07-2024,PN042,Smoothie,Beverages,11,21-07-2024,4.25,0%,4.25,10,0,1,Galway Film Fleadh
+10-07-2024,PN004,Beef,Meat,1,31-07-2024,4.5,0%,4.5,21,0,1,Galway Film Fleadh
+10-07-2024,PN004,Beef,Meat,13,31-07-2024,4.5,0%,4.5,21,0,1,Galway Film Fleadh
+10-07-2024,PN004,Beef,Meat,8,11-07-2024,4.5,25%,3.38,21,0,1,Galway Film Fleadh
+10-07-2024,PN005,Bread,Bakery,16,15-07-2024,1.28,0%,1.28,5,0,1,Galway Film Fleadh
+10-07-2024,PN007,Brussels Sprouts,Vegetables,5,11-07-2024,1.07,25%,0.8,7,0,1,Galway Film Fleadh
+10-07-2024,PN016,Chicken Breast,Meat,18,15-07-2024,3.99,0%,3.99,5,0,1,Galway Film Fleadh
+10-07-2024,PN017,Chocolates,Confectionery,15,10-07-2025,1.75,0%,1.75,365,0,1,Galway Film Fleadh
+10-07-2024,PN017,Chocolates,Confectionery,12,12-07-2024,1.75,15%,1.49,365,0,1,Galway Film Fleadh
+10-07-2024,PN019,Coffee,Beverages,1,15-07-2024,3.3,5%,3.14,365,0,1,Galway Film Fleadh
+10-07-2024,PN021,Cucumber,Vegetables,8,17-07-2024,0.89,0%,0.89,7,0,1,Galway Film Fleadh
+10-07-2024,PN027,Lettuce,Vegetables,8,15-07-2024,1.15,0%,1.15,5,0,1,Galway Film Fleadh
+10-07-2024,PN031,Orange Juice,Beverages,20,11-07-2024,2.5,25%,1.88,14,0,1,Galway Film Fleadh
+10-07-2024,PN037,Potatoes,Vegetables,5,30-07-2024,0.46,0%,0.46,20,0,1,Galway Film Fleadh
+10-07-2024,PN039,Red Wine,Beverages,10,10-07-2027,10.5,0%,10.5,1095,0,1,Galway Film Fleadh
+10-07-2024,PN049,White Wine,Beverages,10,10-07-2026,10.5,0%,10.5,730,0,1,Galway Film Fleadh
+09-07-2024,PN006,Breakfast Cereals,Staples,14,09-07-2025,1.29,0%,1.29,365,0,1,Galway Film Fleadh
+09-07-2024,PN010,Butter Croissant,Bakery,3,12-07-2024,1.5,0%,1.5,3,0,1,Galway Film Fleadh
+09-07-2024,PN014,Charcoal,Non-Food,18,11-07-2024,1.75,15%,1.49,730,0,1,Galway Film Fleadh
+09-07-2024,PN026,Lamb,Meat,8,09-07-2024,5.0,30%,3.5,3,0,1,Galway Film Fleadh
+09-07-2024,PN029,Mussels,Seafood,6,24-07-2024,3.0,0%,3.0,15,0,1,Galway Film Fleadh
+09-07-2024,PN029,Mussels,Seafood,10,24-07-2024,3.0,0%,3.0,15,0,1,Galway Film Fleadh
+09-07-2024,PN034,Pasta,Staples,16,09-07-2025,1.45,0%,1.45,365,0,1,Galway Film Fleadh
+09-07-2024,PN039,Red Wine,Beverages,2,09-07-2027,10.5,0%,10.5,1095,0,1,Galway Film Fleadh
+09-07-2024,PN047,Tomatoes,Vegetables,6,16-07-2024,0.8,0%,0.8,7,0,1,Galway Film Fleadh
+09-07-2024,PN048,Turkey,Meat,17,23-07-2024,1.99,0%,1.99,14,0,1,Galway Film Fleadh
+09-07-2024,PN048,Turkey,Meat,1,23-07-2024,1.99,0%,1.99,14,0,1,Galway Film Fleadh
+03-06-2024,PN014,Charcoal,Non-Food,20,03-06-2026,1.75,0%,1.75,730,1,0,June Bank Holiday
+03-06-2024,PN015,Cheese,Dairy,6,06-06-2024,2.5,10%,2.25,21,1,0,June Bank Holiday
+03-06-2024,PN023,Eggs,Dairy,10,24-06-2024,0.21,0%,0.21,21,1,0,June Bank Holiday
+03-06-2024,PN023,Eggs,Dairy,3,24-06-2024,0.21,0%,0.21,21,1,0,June Bank Holiday
+03-06-2024,PN027,Lettuce,Vegetables,19,08-06-2024,1.15,0%,1.15,5,1,0,June Bank Holiday
+03-06-2024,PN028,Milk,Dairy,8,10-06-2024,1.25,0%,1.25,7,1,0,June Bank Holiday
+03-06-2024,PN028,Milk,Dairy,15,10-06-2024,1.25,0%,1.25,7,1,0,June Bank Holiday
+03-06-2024,PN048,Turkey,Meat,14,17-06-2024,1.99,0%,1.99,14,1,0,June Bank Holiday
+03-06-2024,PN049,White Wine,Beverages,17,03-06-2026,10.5,0%,10.5,730,1,0,June Bank Holiday
+19-05-2024,PN003,Basmati Rice,Staples,13,19-05-2025,1.59,0%,1.59,365,0,0,Galway Early Music Festival
+19-05-2024,PN004,Beef,Meat,13,09-06-2024,4.5,0%,4.5,21,0,0,Galway Early Music Festival
+19-05-2024,PN009,Butter,Dairy,6,24-05-2024,3.99,0%,3.99,270,0,0,Galway Early Music Festival
+19-05-2024,PN031,Orange Juice,Beverages,4,02-06-2024,2.5,0%,2.5,14,0,0,Galway Early Music Festival
+19-05-2024,PN033,Oysters,Seafood,9,20-05-2024,3.99,25%,2.99,15,0,0,Galway Early Music Festival
+19-05-2024,PN040,Salami,Meat,15,09-06-2024,1.6,0%,1.6,21,0,0,Galway Early Music Festival
+19-05-2024,PN040,Salami,Meat,11,09-06-2024,1.6,0%,1.6,21,0,0,Galway Early Music Festival
+19-05-2024,PN046,Strawberries,Fruits,19,19-05-2024,0.5,30%,0.35,4,0,0,Galway Early Music Festival
+18-05-2024,PN018,Cinnamon,Spices,19,23-05-2024,1.0,5%,0.95,730,0,0,Galway Early Music Festival
+18-05-2024,PN025,Ham,Meat,14,28-05-2024,2.99,0%,2.99,10,0,0,Galway Early Music Festival
+18-05-2024,PN037,Potatoes,Vegetables,9,07-06-2024,0.46,0%,0.46,20,0,0,Galway Early Music Festival
+18-05-2024,PN041,Salmon Fillets,Seafood,8,22-05-2024,4.25,0%,4.25,4,0,0,Galway Early Music Festival
+18-05-2024,PN047,Tomatoes,Vegetables,15,25-05-2024,0.8,0%,0.8,7,0,0,Galway Early Music Festival
+17-05-2024,PN008,Burger Patties,Meat,19,17-05-2025,3.0,0%,3.0,365,0,0,Galway Early Music Festival
+17-05-2024,PN013,Carrots,Vegetables,11,31-05-2024,0.13,0%,0.13,14,0,0,Galway Early Music Festival
+17-05-2024,PN015,Cheese,Dairy,7,07-06-2024,2.5,0%,2.5,21,0,0,Galway Early Music Festival
+17-05-2024,PN017,Chocolates,Confectionery,3,17-05-2025,1.75,0%,1.75,365,0,0,Galway Early Music Festival
+17-05-2024,PN022,Easter Eggs,Confectionery,15,17-05-2025,1.2,0%,1.2,365,0,0,Galway Early Music Festival
+17-05-2024,PN027,Lettuce,Vegetables,11,22-05-2024,1.15,0%,1.15,5,0,0,Galway Early Music Festival
+17-05-2024,PN033,Oysters,Seafood,18,20-05-2024,3.99,10%,3.59,15,0,0,Galway Early Music Festival
+17-05-2024,PN039,Red Wine,Beverages,8,17-05-2027,10.5,0%,10.5,1095,0,0,Galway Early Music Festival
+06-05-2024,PN007,Brussels Sprouts,Vegetables,11,13-05-2024,1.07,0%,1.07,7,1,0,May Day
+06-05-2024,PN014,Charcoal,Non-Food,11,08-05-2024,1.75,15%,1.49,730,1,0,May Day
+06-05-2024,PN017,Chocolates,Confectionery,19,06-05-2025,1.75,0%,1.75,365,1,0,May Day
+06-05-2024,PN023,Eggs,Dairy,8,27-05-2024,0.21,0%,0.21,21,1,0,May Day
+06-05-2024,PN025,Ham,Meat,2,16-05-2024,2.99,0%,2.99,10,1,0,May Day
+06-05-2024,PN025,Ham,Meat,16,16-05-2024,2.99,0%,2.99,10,1,0,May Day
+06-05-2024,PN033,Oysters,Seafood,2,06-05-2024,3.99,30%,2.79,15,1,0,May Day
+06-05-2024,PN034,Pasta,Staples,2,11-05-2024,1.45,5%,1.38,365,1,0,May Day
+06-05-2024,PN037,Potatoes,Vegetables,4,26-05-2024,0.46,0%,0.46,20,1,0,May Day
+21-04-2024,PN005,Bread,Bakery,3,26-04-2024,1.28,0%,1.28,5,0,1,Cúirt International Festival of Literature
+21-04-2024,PN020,Croissants,Bakery,20,21-05-2024,0.48,0%,0.48,30,0,1,Cúirt International Festival of Literature
+21-04-2024,PN028,Milk,Dairy,2,28-04-2024,1.25,0%,1.25,7,0,1,Cúirt International Festival of Literature
+21-04-2024,PN032,Oranges,Fruits,17,05-05-2024,0.6,0%,0.6,14,0,1,Cúirt International Festival of Literature
+21-04-2024,PN048,Turkey,Meat,18,05-05-2024,1.99,0%,1.99,14,0,1,Cúirt International Festival of Literature
+21-04-2024,PN049,White Wine,Beverages,10,21-04-2026,10.5,0%,10.5,730,0,1,Cúirt International Festival of Literature
+20-04-2024,PN006,Breakfast Cereals,Staples,3,21-04-2024,1.29,25%,0.97,365,0,1,Cúirt International Festival of Literature
+20-04-2024,PN008,Burger Patties,Meat,18,20-04-2025,3.0,0%,3.0,365,0,1,Cúirt International Festival of Literature
+20-04-2024,PN015,Cheese,Dairy,10,11-05-2024,2.5,0%,2.5,21,0,1,Cúirt International Festival of Literature
+20-04-2024,PN019,Coffee,Beverages,14,22-04-2024,3.3,15%,2.81,365,0,1,Cúirt International Festival of Literature
+20-04-2024,PN023,Eggs,Dairy,19,11-05-2024,0.21,0%,0.21,21,0,1,Cúirt International Festival of Literature
+20-04-2024,PN024,Guinness,Beverages,15,16-11-2024,4.66,0%,4.66,210,0,1,Cúirt International Festival of Literature
+20-04-2024,PN031,Orange Juice,Beverages,12,04-05-2024,2.5,0%,2.5,14,0,1,Cúirt International Festival of Literature
+20-04-2024,PN032,Oranges,Fruits,7,04-05-2024,0.6,0%,0.6,14,0,1,Cúirt International Festival of Literature
+20-04-2024,PN035,Pepper,Spices,8,04-05-2024,1.0,0%,1.0,14,0,1,Cúirt International Festival of Literature
+20-04-2024,PN047,Tomatoes,Vegetables,12,22-04-2024,0.8,15%,0.68,7,0,1,Cúirt International Festival of Literature
+20-04-2024,PN049,White Wine,Beverages,11,20-04-2026,10.5,0%,10.5,730,0,1,Cúirt International Festival of Literature
+19-04-2024,PN001,Apples,Fruits,9,29-04-2024,0.6,0%,0.6,10,0,1,Cúirt International Festival of Literature
+19-04-2024,PN022,Easter Eggs,Confectionery,14,19-04-2025,1.2,0%,1.2,365,0,1,Cúirt International Festival of Literature
+19-04-2024,PN032,Oranges,Fruits,16,03-05-2024,0.6,0%,0.6,14,0,1,Cúirt International Festival of Literature
+18-04-2024,PN001,Apples,Fruits,15,28-04-2024,0.6,0%,0.6,10,0,1,Cúirt International Festival of Literature
+18-04-2024,PN001,Apples,Fruits,3,28-04-2024,0.6,0%,0.6,10,0,1,Cúirt International Festival of Literature
+18-04-2024,PN002,Bananas,Fruits,6,25-04-2024,0.28,0%,0.28,7,0,1,Cúirt International Festival of Literature
+18-04-2024,PN002,Bananas,Fruits,1,21-04-2024,0.28,10%,0.25,7,0,1,Cúirt International Festival of Literature
+18-04-2024,PN006,Breakfast Cereals,Staples,10,20-04-2024,1.29,15%,1.1,365,0,1,Cúirt International Festival of Literature
+18-04-2024,PN018,Cinnamon,Spices,10,18-04-2026,1.0,0%,1.0,730,0,1,Cúirt International Festival of Literature
+18-04-2024,PN021,Cucumber,Vegetables,13,25-04-2024,0.89,0%,0.89,7,0,1,Cúirt International Festival of Literature
+18-04-2024,PN024,Guinness,Beverages,19,14-11-2024,4.66,0%,4.66,210,0,1,Cúirt International Festival of Literature
+18-04-2024,PN027,Lettuce,Vegetables,4,23-04-2024,1.15,0%,1.15,5,0,1,Cúirt International Festival of Literature
+18-04-2024,PN030,Onions,Vegetables,13,18-04-2024,0.67,30%,0.47,20,0,1,Cúirt International Festival of Literature
+18-04-2024,PN034,Pasta,Staples,7,18-04-2025,1.45,0%,1.45,365,0,1,Cúirt International Festival of Literature
+18-04-2024,PN040,Salami,Meat,10,09-05-2024,1.6,0%,1.6,21,0,1,Cúirt International Festival of Literature
+17-04-2024,PN001,Apples,Fruits,8,27-04-2024,0.6,0%,0.6,10,0,1,Cúirt International Festival of Literature
+17-04-2024,PN007,Brussels Sprouts,Vegetables,8,24-04-2024,1.07,0%,1.07,7,0,1,Cúirt International Festival of Literature
+17-04-2024,PN015,Cheese,Dairy,8,08-05-2024,2.5,0%,2.5,21,0,1,Cúirt International Festival of Literature
+17-04-2024,PN015,Cheese,Dairy,5,08-05-2024,2.5,0%,2.5,21,0,1,Cúirt International Festival of Literature
+17-04-2024,PN016,Chicken Breast,Meat,3,22-04-2024,3.99,0%,3.99,5,0,1,Cúirt International Festival of Literature
+17-04-2024,PN024,Guinness,Beverages,14,13-11-2024,4.66,0%,4.66,210,0,1,Cúirt International Festival of Literature
+17-04-2024,PN037,Potatoes,Vegetables,9,07-05-2024,0.46,0%,0.46,20,0,1,Cúirt International Festival of Literature
+17-04-2024,PN038,Pumpkin,Vegetables,8,18-04-2024,3.45,25%,2.59,4,0,1,Cúirt International Festival of Literature
+17-04-2024,PN042,Smoothie,Beverages,10,22-04-2024,4.25,5%,4.04,10,0,1,Cúirt International Festival of Literature
+17-04-2024,PN045,Spinach,Vegetables,11,27-04-2024,1.39,0%,1.39,10,0,1,Cúirt International Festival of Literature
+16-04-2024,PN002,Bananas,Fruits,4,23-04-2024,0.28,0%,0.28,7,0,1,Cúirt International Festival of Literature
+16-04-2024,PN005,Bread,Bakery,12,17-04-2024,1.28,25%,0.96,5,0,1,Cúirt International Festival of Literature
+16-04-2024,PN007,Brussels Sprouts,Vegetables,19,23-04-2024,1.07,0%,1.07,7,0,1,Cúirt International Festival of Literature
+16-04-2024,PN008,Burger Patties,Meat,15,16-04-2025,3.0,0%,3.0,365,0,1,Cúirt International Festival of Literature
+16-04-2024,PN012,Canned Soup,Staples,6,16-04-2026,2.13,0%,2.13,730,0,1,Cúirt International Festival of Literature
+16-04-2024,PN014,Charcoal,Non-Food,6,17-04-2024,1.75,25%,1.31,730,0,1,Cúirt International Festival of Literature
+16-04-2024,PN024,Guinness,Beverages,6,12-11-2024,4.66,0%,4.66,210,0,1,Cúirt International Festival of Literature
+16-04-2024,PN038,Pumpkin,Vegetables,5,20-04-2024,3.45,0%,3.45,4,0,1,Cúirt International Festival of Literature
+16-04-2024,PN039,Red Wine,Beverages,8,16-04-2027,10.5,0%,10.5,1095,0,1,Cúirt International Festival of Literature
+16-04-2024,PN039,Red Wine,Beverages,3,16-04-2027,10.5,0%,10.5,1095,0,1,Cúirt International Festival of Literature
+16-04-2024,PN039,Red Wine,Beverages,2,28-12-2024,10.5,15%,8.93,1095,0,1,Cúirt International Festival of Literature
+16-04-2024,PN042,Smoothie,Beverages,15,26-04-2024,4.25,0%,4.25,10,0,1,Cúirt International Festival of Literature
+15-04-2024,PN003,Basmati Rice,Staples,6,15-04-2025,1.59,0%,1.59,365,0,1,Cúirt International Festival of Literature
+15-04-2024,PN003,Basmati Rice,Staples,12,18-04-2024,1.59,10%,1.43,365,0,1,Cúirt International Festival of Literature
+15-04-2024,PN005,Bread,Bakery,14,20-04-2024,1.28,0%,1.28,5,0,1,Cúirt International Festival of Literature
+15-04-2024,PN015,Cheese,Dairy,11,06-05-2024,2.5,0%,2.5,21,0,1,Cúirt International Festival of Literature
+15-04-2024,PN017,Chocolates,Confectionery,1,15-04-2025,1.75,0%,1.75,365,0,1,Cúirt International Festival of Literature
+15-04-2024,PN023,Eggs,Dairy,17,06-05-2024,0.21,0%,0.21,21,0,1,Cúirt International Festival of Literature
+15-04-2024,PN023,Eggs,Dairy,15,06-05-2024,0.21,0%,0.21,21,0,1,Cúirt International Festival of Literature
+15-04-2024,PN024,Guinness,Beverages,20,11-11-2024,4.66,0%,4.66,210,0,1,Cúirt International Festival of Literature
+15-04-2024,PN026,Lamb,Meat,18,18-04-2024,5.0,0%,5.0,3,0,1,Cúirt International Festival of Literature
+15-04-2024,PN042,Smoothie,Beverages,6,25-04-2024,4.25,0%,4.25,10,0,1,Cúirt International Festival of Literature
+01-04-2024,PN006,Breakfast Cereals,Staples,16,03-04-2024,1.29,15%,1.1,365,1,0,Easter Monday
+01-04-2024,PN011,Cabbage,Vegetables,11,06-04-2024,1.29,5%,1.23,10,1,0,Easter Monday
+01-04-2024,PN021,Cucumber,Vegetables,7,08-04-2024,0.89,0%,0.89,7,1,0,Easter Monday
+01-04-2024,PN032,Oranges,Fruits,7,15-04-2024,0.6,0%,0.6,14,1,0,Easter Monday
+01-04-2024,PN042,Smoothie,Beverages,6,11-04-2024,4.25,0%,4.25,10,1,0,Easter Monday
+01-04-2024,PN044,Sparkling Wine,Beverages,7,01-04-2025,4.5,0%,4.5,365,1,0,Easter Monday
+01-04-2024,PN017,Chocolates,Confectionery,12,31-03-2025,1.75,0%,1.75,365,1,0,Easter Monday
+01-04-2024,PN017,Chocolates,Confectionery,5,31-03-2025,1.75,0%,1.75,365,1,0,Easter Monday
+01-04-2024,PN017,Chocolates,Confectionery,16,31-03-2025,1.75,0%,1.75,365,1,0,Easter Monday
+01-04-2024,PN017,Chocolates,Confectionery,7,31-03-2025,1.75,0%,1.75,365,1,0,Easter Monday
+01-04-2024,PN017,Chocolates,Confectionery,18,31-03-2025,1.75,0%,1.75,365,1,0,Easter Monday
+01-04-2024,PN022,Easter Eggs,Confectionery,15,31-03-2025,1.2,0%,1.2,365,1,0,Easter Monday
+01-04-2024,PN022,Easter Eggs,Confectionery,6,31-03-2025,1.2,0%,1.2,365,1,0,Easter Monday
+01-04-2024,PN022,Easter Eggs,Confectionery,11,31-03-2025,1.2,0%,1.2,365,1,0,Easter Monday
+01-04-2024,PN026,Lamb,Meat,7,03-04-2024,5.0,0%,5.0,3,1,0,Easter Monday
+01-04-2024,PN026,Lamb,Meat,17,03-04-2024,5.0,0%,5.0,3,1,0,Easter Monday
+01-04-2024,PN026,Lamb,Meat,9,03-04-2024,5.0,0%,5.0,3,1,0,Easter Monday
+01-04-2024,PN026,Lamb,Meat,11,03-04-2024,5.0,0%,5.0,3,1,0,Easter Monday
+01-04-2024,PN039,Red Wine,Beverages,25,03-10-2027,10.5,0%,10.5,1095,1,0,Easter Monday
+01-04-2024,PN039,Red Wine,Beverages,24,03-10-2027,10.5,0%,10.5,1095,1,0,Easter Monday
+01-04-2024,PN039,Red Wine,Beverages,18,03-10-2027,10.5,0%,10.5,1095,1,0,Easter Monday
+01-04-2024,PN039,Red Wine,Beverages,21,03-10-2027,10.5,0%,10.5,1095,1,0,Easter Monday
+17-03-2024,PN022,Easter Eggs,Confectionery,13,17-03-2025,1.2,0%,1.2,365,1,0,St Patrick’s Day
+17-03-2024,PN023,Eggs,Dairy,1,07-04-2024,0.21,0%,0.21,21,1,0,St Patrick’s Day
+17-03-2024,PN031,Orange Juice,Beverages,2,31-03-2024,2.5,0%,2.5,14,1,0,St Patrick’s Day
+17-03-2024,PN036,Pineapple,Fruits,4,24-03-2024,1.19,0%,1.19,7,1,0,St Patrick’s Day
+17-03-2024,PN041,Salmon Fillets,Seafood,2,18-03-2024,4.25,25%,3.19,4,1,0,St Patrick’s Day
+17-03-2024,PN042,Smoothie,Beverages,7,27-03-2024,4.25,0%,4.25,10,1,0,St Patrick’s Day
+17-03-2024,PN048,Turkey,Meat,4,31-03-2024,1.99,0%,1.99,14,1,0,St Patrick’s Day
+17-03-2024,PN050,Yogurt,Dairy,1,01-04-2024,1.35,0%,1.35,15,1,0,St Patrick’s Day
+17-03-2024,PN004,Beef,Meat,11,07-04-2024,4.5,0%,4.5,21,1,0,St Patrick’s Day
+17-03-2024,PN004,Beef,Meat,15,07-04-2024,4.5,0%,4.5,21,1,0,St Patrick’s Day
+17-03-2024,PN004,Beef,Meat,17,07-04-2024,4.5,0%,4.5,21,1,0,St Patrick’s Day
+17-03-2024,PN024,Guinness,Beverages,21,13-10-2024,4.66,0%,4.66,210,1,0,St Patrick’s Day
+17-03-2024,PN024,Guinness,Beverages,29,13-10-2024,4.66,0%,4.66,210,1,0,St Patrick’s Day
+17-03-2024,PN024,Guinness,Beverages,23,13-10-2024,4.66,0%,4.66,210,1,0,St Patrick’s Day
+17-03-2024,PN024,Guinness,Beverages,23,13-10-2024,4.66,0%,4.66,210,1,0,St Patrick’s Day
+17-03-2024,PN024,Guinness,Beverages,12,13-10-2024,4.66,0%,4.66,210,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,10,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,13,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,13,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,14,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,14,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,6,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,13,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+17-03-2024,PN037,Potatoes,Vegetables,7,06-04-2024,0.46,0%,0.46,20,1,0,St Patrick’s Day
+14-02-2024,PN006,Breakfast Cereals,Staples,3,14-02-2024,1.29,30%,0.9,365,0,0,Valentine's Day
+14-02-2024,PN024,Guinness,Beverages,9,14-02-2024,4.66,30%,3.26,210,0,0,Valentine's Day
+14-02-2024,PN033,Oysters,Seafood,6,29-02-2024,3.99,0%,3.99,15,0,0,Valentine's Day
+14-02-2024,PN037,Potatoes,Vegetables,6,05-03-2024,0.46,0%,0.46,20,0,0,Valentine's Day
+14-02-2024,PN047,Tomatoes,Vegetables,5,17-02-2024,0.8,10%,0.72,7,0,0,Valentine's Day
+14-02-2024,PN017,Chocolates,Confectionery,19,13-02-2025,1.75,0%,1.75,365,0,1,Valentine's Day
+14-02-2024,PN017,Chocolates,Confectionery,6,13-02-2025,1.75,0%,1.75,365,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,23,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,13,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,11,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,22,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,16,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,18,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,24,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,26,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,11,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,19,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN039,Red Wine,Beverages,28,13-02-2027,10.5,0%,10.5,1095,0,1,Valentine's Day
+14-02-2024,PN044,Sparkling Wine,Beverages,19,13-02-2025,4.5,0%,4.5,365,0,1,Valentine's Day
+14-02-2024,PN044,Sparkling Wine,Beverages,19,13-02-2025,4.5,0%,4.5,365,0,1,Valentine's Day
+14-02-2024,PN049,White Wine,Beverages,12,13-02-2026,10.5,0%,10.5,730,0,1,Valentine's Day
+05-02-2024,PN005,Bread,Bakery,10,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN012,Canned Soup,Staples,13,04-02-2026,2.13,0%,2.13,730,1,0,St Brigid’s Day
+05-02-2024,PN017,Chocolates,Confectionery,14,06-02-2024,1.75,25%,1.31,365,1,0,St Brigid’s Day
+05-02-2024,PN019,Coffee,Beverages,8,04-02-2025,3.3,0%,3.3,365,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,18,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN030,Onions,Vegetables,17,08-02-2024,0.67,10%,0.6,20,1,0,St Brigid’s Day
+05-02-2024,PN047,Tomatoes,Vegetables,7,12-02-2024,0.8,0%,0.8,7,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,7,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,6,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,13,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,12,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,19,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,7,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,7,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN005,Bread,Bakery,5,10-02-2024,1.28,0%,1.28,5,1,0,St Brigid’s Day
+05-02-2024,PN022,Easter Eggs,Confectionery,15,04-02-2025,1.2,0%,1.2,365,1,0,St Brigid’s Day
+05-02-2024,PN022,Easter Eggs,Confectionery,17,04-02-2025,1.2,0%,1.2,365,1,0,St Brigid’s Day
+05-02-2024,PN022,Easter Eggs,Confectionery,18,04-02-2025,1.2,0%,1.2,365,1,0,St Brigid’s Day
+05-02-2024,PN023,Eggs,Dairy,9,26-02-2024,0.21,0%,0.21,21,1,0,St Brigid’s Day
+05-02-2024,PN023,Eggs,Dairy,9,26-02-2024,0.21,0%,0.21,21,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,9,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,13,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,16,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,15,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,10,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,15,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,19,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,8,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,18,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+05-02-2024,PN028,Milk,Dairy,10,12-02-2024,1.25,0%,1.25,7,1,0,St Brigid’s Day
+01-01-2024,PN028,Milk,Dairy,20,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN037,Potatoes,Vegetables,13,21-01-2024,0.46,0%,0.46,20,1,0,New Year’s Day
+01-01-2024,PN040,Salami,Meat,17,03-01-2024,1.6,15%,1.36,21,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,6,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,9,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,11,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,9,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,13,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,6,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,17,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN005,Bread,Bakery,7,06-01-2024,1.28,0%,1.28,5,1,0,New Year’s Day
+01-01-2024,PN012,Canned Soup,Staples,10,31-12-2025,2.13,0%,2.13,730,1,0,New Year’s Day
+01-01-2024,PN012,Canned Soup,Staples,6,31-12-2025,2.13,0%,2.13,730,1,0,New Year’s Day
+01-01-2024,PN012,Canned Soup,Staples,11,31-12-2025,2.13,0%,2.13,730,1,0,New Year’s Day
+01-01-2024,PN012,Canned Soup,Staples,7,31-12-2025,2.13,0%,2.13,730,1,0,New Year’s Day
+01-01-2024,PN019,Coffee,Beverages,26,31-12-2024,3.3,0%,3.3,365,1,0,New Year’s Day
+01-01-2024,PN019,Coffee,Beverages,14,31-12-2024,3.3,0%,3.3,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,16,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,11,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,15,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,14,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,17,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,17,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,15,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,6,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,8,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN022,Easter Eggs,Confectionery,15,31-12-2024,1.2,0%,1.2,365,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,19,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,16,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,11,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,6,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,5,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN023,Eggs,Dairy,11,22-01-2024,0.21,0%,0.21,21,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,5,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,15,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,19,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,15,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,12,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,17,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,14,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,5,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
+01-01-2024,PN028,Milk,Dairy,7,08-01-2024,1.25,0%,1.25,7,1,0,New Year’s Day
