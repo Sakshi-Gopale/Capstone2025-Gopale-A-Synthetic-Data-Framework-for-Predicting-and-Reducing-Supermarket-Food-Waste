@@ -4,7 +4,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import (
     mean_absolute_error, mean_squared_error, r2_score,
@@ -78,8 +77,9 @@ def train_eval_mod(mod, mod_name):
 
     #Classification metrics (using threshold 15)
     y_pred_class = (y_pred >= 15).astype(int)
+    acc = accuracy_score(y_test_class, y_pred_class)
     print(f"\n{mod_name} Classification Performance:")
-    print(f"Accuracy: {accuracy_score(y_test_class, y_pred_class):.4f}")
+    print(f"Accuracy: {acc:.4f}")
     print(f"Precision: {precision_score(y_test_class, y_pred_class):.4f}")
     print(f"Recall: {recall_score(y_test_class, y_pred_class):.4f}")
     print(f"F1-Score: {f1_score(y_test_class, y_pred_class):.4f}")
@@ -92,16 +92,26 @@ def train_eval_mod(mod, mod_name):
     print(f"R²: {r2_score(y_test, y_pred):.4f}")
     
     joblib.dump(pipeline, f'models/{mod_name}_pipeline.pkl') #Saving the whole pipeline (preprocessing and model) for reusing it 
-    return pipeline
+    return pipeline,acc
 
 #Training models
-linreg = LinearRegression()
-train_eval_mod(linreg, "LinearRegression")
+ranfor, ranfor_acc = train_eval_mod(RandomForestRegressor(n_estimators=100, random_state=42), "RandomForest")
+xgboost, xgb_acc = train_eval_mod(xgb.XGBRegressor(objective='reg:squarederror', n_estimators=100), "XGBoost")
 
-ranfor = RandomForestRegressor(n_estimators=100, random_state=42)
-train_eval_mod(ranfor, "RandomForest")
+import matplotlib.pyplot as plt
 
-xgboost = xgb.XGBRegressor(objective='reg:squarederror', n_estimators=100)
-train_eval_mod(xgboost, "XGBoost")
+model_names = ["RandomForest", "XGBoost"]
+accuracies = [ranfor_acc, xgb_acc]
+
+plt.figure(figsize=(6, 4))
+plt.bar(model_names, accuracies, color=["skyblue", "pink"])
+plt.ylim(0, 1) #Y-axis from 0 to 1 with step 0.1
+plt.yticks(np.arange(0, 1.1, 0.1))
+plt.ylabel("Accuracy")
+plt.title("Model Accuracy Comparison")
+
+plt.savefig("accuracy_comparison.png", dpi=300, bbox_inches="tight") #Saving the png
+plt.show() #Displaying the graph
+
 
 
