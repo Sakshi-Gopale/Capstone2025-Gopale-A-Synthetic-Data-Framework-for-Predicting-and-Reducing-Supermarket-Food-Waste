@@ -22,7 +22,7 @@ def pred_dis(new_data):
     #Choosing the model
     mod_type = 'XGBoost'
     
-    if mod_type in ['LinearRegression', 'RandomForest', 'XGBoost']:
+    if mod_type in ['RandomForest', 'XGBoost']:
         pipeline = joblib.load(f'../models/{mod_type}_pipeline.pkl') #Loading the trained pipeline
         return pipeline.predict(new_data)
     
